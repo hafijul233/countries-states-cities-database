@@ -7,6 +7,16 @@ use Spatie\ArrayToXml\ArrayToXml;
 
 $rootDir = dirname(dirname(__FILE__));
 $files = array(
+    'regions' => array(
+        'from' => '/regions.json',
+        'to' => '/xml/regions.xml',
+        'singular' => 'region',
+    ),
+    'subregions' => array(
+        'from' => '/subregions.json',
+        'to' => '/xml/subregions.xml',
+        'singular' => 'subregion',
+    ),
     'countries' => array(
         'from' => '/countries.json',
         'to' => '/xml/countries.xml',

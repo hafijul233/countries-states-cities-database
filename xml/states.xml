@@ -1787,7 +1787,7 @@
     <name>Barbuda</name>
     <country_id>10</country_id>
     <country_code>AG</country_code>
-    <country_name>Antigua And Barbuda</country_name>
+    <country_name>Antigua and Barbuda</country_name>
     <state_code>10</state_code>
     <type></type>
     <latitude>17.62662420</latitude>
@@ -1798,7 +1798,7 @@
     <name>Redonda</name>
     <country_id>10</country_id>
     <country_code>AG</country_code>
-    <country_name>Antigua And Barbuda</country_name>
+    <country_name>Antigua and Barbuda</country_name>
     <state_code>11</state_code>
     <type></type>
     <latitude>16.93841600</latitude>
@@ -1809,7 +1809,7 @@
     <name>Saint George Parish</name>
     <country_id>10</country_id>
     <country_code>AG</country_code>
-    <country_name>Antigua And Barbuda</country_name>
+    <country_name>Antigua and Barbuda</country_name>
     <state_code>03</state_code>
     <type></type>
     <latitude></latitude>
@@ -1820,7 +1820,7 @@
     <name>Saint John Parish</name>
     <country_id>10</country_id>
     <country_code>AG</country_code>
-    <country_name>Antigua And Barbuda</country_name>
+    <country_name>Antigua and Barbuda</country_name>
     <state_code>04</state_code>
     <type></type>
     <latitude></latitude>
@@ -1831,7 +1831,7 @@
     <name>Saint Mary Parish</name>
     <country_id>10</country_id>
     <country_code>AG</country_code>
-    <country_name>Antigua And Barbuda</country_name>
+    <country_name>Antigua and Barbuda</country_name>
     <state_code>05</state_code>
     <type></type>
     <latitude></latitude>
@@ -1842,7 +1842,7 @@
     <name>Saint Paul Parish</name>
     <country_id>10</country_id>
     <country_code>AG</country_code>
-    <country_name>Antigua And Barbuda</country_name>
+    <country_name>Antigua and Barbuda</country_name>
     <state_code>06</state_code>
     <type></type>
     <latitude></latitude>
@@ -1853,7 +1853,7 @@
     <name>Saint Peter Parish</name>
     <country_id>10</country_id>
     <country_code>AG</country_code>
-    <country_name>Antigua And Barbuda</country_name>
+    <country_name>Antigua and Barbuda</country_name>
     <state_code>07</state_code>
     <type></type>
     <latitude></latitude>
@@ -1864,7 +1864,7 @@
     <name>Saint Philip Parish</name>
     <country_id>10</country_id>
     <country_code>AG</country_code>
-    <country_name>Antigua And Barbuda</country_name>
+    <country_name>Antigua and Barbuda</country_name>
     <state_code>08</state_code>
     <type></type>
     <latitude>40.43682580</latitude>
@@ -4430,8 +4430,8 @@
     <country_name>Belgium</country_name>
     <state_code>VWV</state_code>
     <type></type>
-    <latitude>40.01793340</latitude>
-    <longitude>-105.28067330</longitude>
+    <latitude>51.04047470</latitude>
+    <longitude>2.99942130</longitude>
   </state>
   <state>
     <id>264</id>
@@ -4633,100 +4633,100 @@
   </state>
   <state>
     <id>4860</id>
-    <name>Devonshire Parish</name>
+    <name>Devonshire</name>
     <country_id>25</country_id>
     <country_code>BM</country_code>
     <country_name>Bermuda</country_name>
     <state_code>DEV</state_code>
-    <type></type>
+    <type>municipality</type>
     <latitude>32.30380620</latitude>
     <longitude>-64.76069540</longitude>
   </state>
   <state>
     <id>4861</id>
-    <name>Hamilton Parish</name>
+    <name>Hamilton</name>
     <country_id>25</country_id>
     <country_code>BM</country_code>
     <country_name>Bermuda</country_name>
     <state_code>HA</state_code>
-    <type></type>
+    <type>municipality</type>
     <latitude>32.34494320</latitude>
     <longitude>-64.72365000</longitude>
   </state>
   <state>
     <id>4863</id>
-    <name>Paget Parish</name>
+    <name>Paget</name>
     <country_id>25</country_id>
     <country_code>BM</country_code>
     <country_name>Bermuda</country_name>
     <state_code>PAG</state_code>
-    <type></type>
+    <type>municipality</type>
     <latitude>32.28107400</latitude>
     <longitude>-64.77847870</longitude>
   </state>
   <state>
     <id>4864</id>
-    <name>Pembroke Parish</name>
+    <name>Pembroke</name>
     <country_id>25</country_id>
     <country_code>BM</country_code>
     <country_name>Bermuda</country_name>
     <state_code>PEM</state_code>
-    <type></type>
+    <type>municipality</type>
     <latitude>32.30076720</latitude>
     <longitude>-64.79626300</longitude>
   </state>
   <state>
     <id>4866</id>
-    <name>Saint George's Parish</name>
+    <name>Saint George's</name>
     <country_id>25</country_id>
     <country_code>BM</country_code>
     <country_name>Bermuda</country_name>
     <state_code>SGE</state_code>
-    <type></type>
+    <type>municipality</type>
     <latitude>17.12577590</latitude>
     <longitude>-62.56198110</longitude>
   </state>
   <state>
     <id>4867</id>
-    <name>Sandys Parish</name>
+    <name>Sandys</name>
     <country_id>25</country_id>
     <country_code>BM</country_code>
     <country_name>Bermuda</country_name>
     <state_code>SAN</state_code>
-    <type></type>
+    <type>municipality</type>
     <latitude>32.29995280</latitude>
     <longitude>-64.86741030</longitude>
   </state>
   <state>
     <id>4868</id>
-    <name>Smith's Parish,</name>
+    <name>Smith's</name>
     <country_id>25</country_id>
     <country_code>BM</country_code>
     <country_name>Bermuda</country_name>
     <state_code>SMI</state_code>
-    <type></type>
+    <type>municipality</type>
     <latitude>32.31339660</latitude>
     <longitude>-64.73105880</longitude>
   </state>
   <state>
     <id>4869</id>
-    <name>Southampton Parish</name>
+    <name>Southampton</name>
     <country_id>25</country_id>
     <country_code>BM</country_code>
     <country_name>Bermuda</country_name>
     <state_code>SOU</state_code>
-    <type></type>
+    <type>municipality</type>
     <latitude>32.25400950</latitude>
     <longitude>-64.82590580</longitude>
   </state>
   <state>
     <id>4870</id>
-    <name>Warwick Parish</name>
+    <name>Warwick</name>
     <country_id>25</country_id>
     <country_code>BM</country_code>
     <country_name>Bermuda</country_name>
     <state_code>WAR</state_code>
-    <type></type>
+    <type>municipality</type>
     <latitude>32.26615340</latitude>
     <longitude>-64.80811980</longitude>
   </state>
@@ -11826,138 +11826,6 @@
     <longitude>-70.98033100</longitude>
   </state>
   <state>
-    <id>4520</id>
-    <name>Aileu municipality</name>
-    <country_id>63</country_id>
-    <country_code>TL</country_code>
-    <country_name>East Timor</country_name>
-    <state_code>AL</state_code>
-    <type></type>
-    <latitude>-8.70439940</latitude>
-    <longitude>125.60954740</longitude>
-  </state>
-  <state>
-    <id>4518</id>
-    <name>Ainaro Municipality</name>
-    <country_id>63</country_id>
-    <country_code>TL</country_code>
-    <country_name>East Timor</country_name>
-    <state_code>AN</state_code>
-    <type></type>
-    <latitude>-9.01131710</latitude>
-    <longitude>125.52200120</longitude>
-  </state>
-  <state>
-    <id>4521</id>
-    <name>Baucau Municipality</name>
-    <country_id>63</country_id>
-    <country_code>TL</country_code>
-    <country_name>East Timor</country_name>
-    <state_code>BA</state_code>
-    <type></type>
-    <latitude>-8.47143080</latitude>
-    <longitude>126.45759910</longitude>
-  </state>
-  <state>
-    <id>4525</id>
-    <name>Bobonaro Municipality</name>
-    <country_id>63</country_id>
-    <country_code>TL</country_code>
-    <country_name>East Timor</country_name>
-    <state_code>BO</state_code>
-    <type></type>
-    <latitude>-8.96554060</latitude>
-    <longitude>125.25879640</longitude>
-  </state>
-  <state>
-    <id>4522</id>
-    <name>Cova Lima Municipality</name>
-    <country_id>63</country_id>
-    <country_code>TL</country_code>
-    <country_name>East Timor</country_name>
-    <state_code>CO</state_code>
-    <type></type>
-    <latitude>-9.26503750</latitude>
-    <longitude>125.25879640</longitude>
-  </state>
-  <state>
-    <id>4524</id>
-    <name>Dili municipality</name>
-    <country_id>63</country_id>
-    <country_code>TL</country_code>
-    <country_name>East Timor</country_name>
-    <state_code>DI</state_code>
-    <type></type>
-    <latitude>-8.24496130</latitude>
-    <longitude>125.58766970</longitude>
-  </state>
-  <state>
-    <id>4516</id>
-    <name>Ermera District</name>
-    <country_id>63</country_id>
-    <country_code>TL</country_code>
-    <country_name>East Timor</country_name>
-    <state_code>ER</state_code>
-    <type></type>
-    <latitude>-8.75248020</latitude>
-    <longitude>125.39872940</longitude>
-  </state>
-  <state>
-    <id>4523</id>
-    <name>Lautém Municipality</name>
-    <country_id>63</country_id>
-    <country_code>TL</country_code>
-    <country_name>East Timor</country_name>
-    <state_code>LA</state_code>
-    <type></type>
-    <latitude>-8.36423070</latitude>
-    <longitude>126.90438450</longitude>
-  </state>
-  <state>
-    <id>4515</id>
-    <name>Liquiçá Municipality</name>
-    <country_id>63</country_id>
-    <country_code>TL</country_code>
-    <country_name>East Timor</country_name>
-    <state_code>LI</state_code>
-    <type></type>
-    <latitude>-8.66740950</latitude>
-    <longitude>125.25879640</longitude>
-  </state>
-  <state>
-    <id>4517</id>
-    <name>Manatuto District</name>
-    <country_id>63</country_id>
-    <country_code>TL</country_code>
-    <country_name>East Timor</country_name>
-    <state_code>MT</state_code>
-    <type></type>
-    <latitude>-8.51556080</latitude>
-    <longitude>126.01592550</longitude>
-  </state>
-  <state>
-    <id>4519</id>
-    <name>Manufahi Municipality</name>
-    <country_id>63</country_id>
-    <country_code>TL</country_code>
-    <country_name>East Timor</country_name>
-    <state_code>MF</state_code>
-    <type></type>
-    <latitude>-9.01454950</latitude>
-    <longitude>125.82799590</longitude>
-  </state>
-  <state>
-    <id>4514</id>
-    <name>Viqueque Municipality</name>
-    <country_id>63</country_id>
-    <country_code>TL</country_code>
-    <country_name>East Timor</country_name>
-    <state_code>VI</state_code>
-    <type></type>
-    <latitude>-8.85979180</latitude>
-    <longitude>126.36335160</longitude>
-  </state>
-  <state>
     <id>2923</id>
     <name>Azuay</name>
     <country_id>64</country_id>
@@ -13001,6 +12869,50 @@
     <type></type>
     <latitude>57.73773720</latitude>
     <longitude>27.13989380</longitude>
+  </state>
+  <state>
+    <id>969</id>
+    <name>Hhohho District</name>
+    <country_id>212</country_id>
+    <country_code>SZ</country_code>
+    <country_name>Eswatini</country_name>
+    <state_code>HH</state_code>
+    <type></type>
+    <latitude>-26.13656620</latitude>
+    <longitude>31.35416310</longitude>
+  </state>
+  <state>
+    <id>970</id>
+    <name>Lubombo District</name>
+    <country_id>212</country_id>
+    <country_code>SZ</country_code>
+    <country_name>Eswatini</country_name>
+    <state_code>LU</state_code>
+    <type></type>
+    <latitude>-26.78517730</latitude>
+    <longitude>31.81070790</longitude>
+  </state>
+  <state>
+    <id>968</id>
+    <name>Manzini District</name>
+    <country_id>212</country_id>
+    <country_code>SZ</country_code>
+    <country_name>Eswatini</country_name>
+    <state_code>MA</state_code>
+    <type></type>
+    <latitude>-26.50819990</latitude>
+    <longitude>31.37131640</longitude>
+  </state>
+  <state>
+    <id>971</id>
+    <name>Shiselweni District</name>
+    <country_id>212</country_id>
+    <country_code>SZ</country_code>
+    <country_name>Eswatini</country_name>
+    <state_code>SH</state_code>
+    <type></type>
+    <latitude>-26.98275770</latitude>
+    <longitude>31.35416310</longitude>
   </state>
   <state>
     <id>11</id>
@@ -15060,6 +14972,17 @@
     <longitude>116.07542880</longitude>
   </state>
   <state>
+    <id>901</id>
+    <name>Abkhazia</name>
+    <country_id>81</country_id>
+    <country_code>GE</country_code>
+    <country_name>Georgia</country_name>
+    <state_code>AB</state_code>
+    <type></type>
+    <latitude>43.00155440</latitude>
+    <longitude>41.02340700</longitude>
+  </state>
+  <state>
     <id>900</id>
     <name>Adjara</name>
     <country_id>81</country_id>
@@ -15069,17 +14992,6 @@
     <type></type>
     <latitude>41.60056260</latitude>
     <longitude>42.06883830</longitude>
-  </state>
-  <state>
-    <id>901</id>
-    <name>Autonomous Republic of Abkhazia</name>
-    <country_id>81</country_id>
-    <country_code>GE</country_code>
-    <country_name>Georgia</country_name>
-    <state_code>AB</state_code>
-    <type></type>
-    <latitude>43.00155440</latitude>
-    <longitude>41.02340700</longitude>
   </state>
   <state>
     <id>907</id>
@@ -17272,12 +17184,12 @@
   </state>
   <state>
     <id>4889</id>
-    <name>Central and Western District</name>
+    <name>Central and Western</name>
     <country_id>98</country_id>
     <country_code>HK</country_code>
     <country_name>Hong Kong S.A.R.</country_name>
     <state_code>HCW</state_code>
-    <type></type>
+    <type>district</type>
     <latitude>22.28666000</latitude>
     <longitude>114.15497000</longitude>
   </state>
@@ -17288,18 +17200,18 @@
     <country_code>HK</country_code>
     <country_name>Hong Kong S.A.R.</country_name>
     <state_code>HEA</state_code>
-    <type></type>
+    <type>district</type>
     <latitude>22.28411000</latitude>
     <longitude>114.22414000</longitude>
   </state>
   <state>
     <id>4888</id>
-    <name>Islands District</name>
+    <name>Islands</name>
     <country_id>98</country_id>
     <country_code>HK</country_code>
     <country_name>Hong Kong S.A.R.</country_name>
     <state_code>NIS</state_code>
-    <type></type>
+    <type>district</type>
     <latitude>22.26114000</latitude>
     <longitude>113.94608000</longitude>
   </state>
@@ -17310,7 +17222,7 @@
     <country_code>HK</country_code>
     <country_name>Hong Kong S.A.R.</country_name>
     <state_code>KKC</state_code>
-    <type></type>
+    <type>district</type>
     <latitude>22.32820000</latitude>
     <longitude>114.19155000</longitude>
   </state>
@@ -17321,7 +17233,7 @@
     <country_code>HK</country_code>
     <country_name>Hong Kong S.A.R.</country_name>
     <state_code>NKT</state_code>
-    <type></type>
+    <type>district</type>
     <latitude>22.35488000</latitude>
     <longitude>114.08401000</longitude>
   </state>
@@ -17332,7 +17244,7 @@
     <country_code>HK</country_code>
     <country_name>Hong Kong S.A.R.</country_name>
     <state_code>KKT</state_code>
-    <type></type>
+    <type>district</type>
     <latitude>22.31326000</latitude>
     <longitude>114.22581000</longitude>
   </state>
@@ -17343,18 +17255,18 @@
     <country_code>HK</country_code>
     <country_name>Hong Kong S.A.R.</country_name>
     <state_code>NNO</state_code>
-    <type></type>
+    <type>district</type>
     <latitude>22.49471000</latitude>
     <longitude>114.13812000</longitude>
   </state>
   <state>
     <id>4887</id>
-    <name>Sai Kung District</name>
+    <name>Sai Kung</name>
     <country_id>98</country_id>
     <country_code>HK</country_code>
     <country_name>Hong Kong S.A.R.</country_name>
     <state_code>NSK</state_code>
-    <type></type>
+    <type>district</type>
     <latitude>22.38143000</latitude>
     <longitude>114.27052000</longitude>
   </state>
@@ -17365,7 +17277,7 @@
     <country_code>HK</country_code>
     <country_name>Hong Kong S.A.R.</country_name>
     <state_code>NST</state_code>
-    <type></type>
+    <type>district</type>
     <latitude>22.38715000</latitude>
     <longitude>114.19534000</longitude>
   </state>
@@ -17376,7 +17288,7 @@
     <country_code>HK</country_code>
     <country_name>Hong Kong S.A.R.</country_name>
     <state_code>KSS</state_code>
-    <type></type>
+    <type>district</type>
     <latitude>22.33074000</latitude>
     <longitude>114.16220000</longitude>
   </state>
@@ -17387,29 +17299,29 @@
     <country_code>HK</country_code>
     <country_name>Hong Kong S.A.R.</country_name>
     <state_code>HSO</state_code>
-    <type></type>
+    <type>district</type>
     <latitude>22.24725000</latitude>
     <longitude>114.15884000</longitude>
   </state>
   <state>
     <id>4885</id>
-    <name>Tai Po District</name>
+    <name>Tai Po</name>
     <country_id>98</country_id>
-    <country_code>KH</country_code>
+    <country_code>HK</country_code>
     <country_name>Hong Kong S.A.R.</country_name>
     <state_code>NTP</state_code>
-    <type></type>
+    <type>district</type>
     <latitude>22.45085000</latitude>
     <longitude>114.16422000</longitude>
   </state>
   <state>
     <id>4884</id>
-    <name>Tsuen Wan District</name>
+    <name>Tsuen Wan</name>
     <country_id>98</country_id>
     <country_code>HK</country_code>
     <country_name>Hong Kong S.A.R.</country_name>
     <state_code>NTW</state_code>
-    <type></type>
+    <type>district</type>
     <latitude>22.36281000</latitude>
     <longitude>114.12907000</longitude>
   </state>
@@ -17420,7 +17332,7 @@
     <country_code>HK</country_code>
     <country_name>Hong Kong S.A.R.</country_name>
     <state_code>NTM</state_code>
-    <type></type>
+    <type>district</type>
     <latitude>22.39163000</latitude>
     <longitude>113.97708850</longitude>
   </state>
@@ -17431,7 +17343,7 @@
     <country_code>HK</country_code>
     <country_name>Hong Kong S.A.R.</country_name>
     <state_code>HWC</state_code>
-    <type></type>
+    <type>district</type>
     <latitude>22.27968000</latitude>
     <longitude>114.17168000</longitude>
   </state>
@@ -17442,7 +17354,7 @@
     <country_code>HK</country_code>
     <country_name>Hong Kong S.A.R.</country_name>
     <state_code>KWT</state_code>
-    <type></type>
+    <type>district</type>
     <latitude>22.33353000</latitude>
     <longitude>114.19686000</longitude>
   </state>
@@ -17453,18 +17365,18 @@
     <country_code>HK</country_code>
     <country_name>Hong Kong S.A.R.</country_name>
     <state_code>KYT</state_code>
-    <type></type>
+    <type>district</type>
     <latitude>22.32138000</latitude>
     <longitude>114.17260000</longitude>
   </state>
   <state>
     <id>4883</id>
-    <name>Yuen Long District</name>
+    <name>Yuen Long</name>
     <country_id>98</country_id>
     <country_code>HK</country_code>
     <country_name>Hong Kong S.A.R.</country_name>
     <state_code>NYL</state_code>
-    <type></type>
+    <type>district</type>
     <latitude>22.44559000</latitude>
     <longitude>114.02218000</longitude>
   </state>
@@ -18409,7 +18321,7 @@
     <country_id>101</country_id>
     <country_code>IN</country_code>
     <country_name>India</country_name>
-    <state_code>UT</state_code>
+    <state_code>UK</state_code>
     <type>state</type>
     <latitude>30.06675300</latitude>
     <longitude>79.01929970</longitude>
@@ -19823,17 +19735,6 @@
     <longitude>15.12589550</longitude>
   </state>
   <state>
-    <id>1772</id>
-    <name>Bari</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>BA</state_code>
-    <type>metropolitan city</type>
-    <latitude>41.11714320</latitude>
-    <longitude>16.87187150</longitude>
-  </state>
-  <state>
     <id>1686</id>
     <name>Barletta-Andria-Trani</name>
     <country_id>107</country_id>
@@ -19900,17 +19801,6 @@
     <longitude>8.05827170</longitude>
   </state>
   <state>
-    <id>1684</id>
-    <name>Bologna</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>BO</state_code>
-    <type>metropolitan city</type>
-    <latitude>44.49488700</latitude>
-    <longitude>11.34261620</longitude>
-  </state>
-  <state>
     <id>1717</id>
     <name>Brescia</name>
     <country_id>107</country_id>
@@ -19931,17 +19821,6 @@
     <type>province</type>
     <latitude>40.61126630</latitude>
     <longitude>17.76362100</longitude>
-  </state>
-  <state>
-    <id>1682</id>
-    <name>Cagliari</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>CA</state_code>
-    <type>metropolitan city</type>
-    <latitude>39.22384110</latitude>
-    <longitude>9.12166130</longitude>
   </state>
   <state>
     <id>1703</id>
@@ -19997,17 +19876,6 @@
     <type>province</type>
     <latitude>41.20783540</latitude>
     <longitude>14.10013260</longitude>
-  </state>
-  <state>
-    <id>1766</id>
-    <name>Catania</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>CT</state_code>
-    <type>metropolitan city</type>
-    <latitude>37.45154380</latitude>
-    <longitude>15.05574150</longitude>
   </state>
   <state>
     <id>1728</id>
@@ -20131,17 +19999,6 @@
     <longitude>11.76440680</longitude>
   </state>
   <state>
-    <id>1680</id>
-    <name>Florence</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>FI</state_code>
-    <type>metropolitan city</type>
-    <latitude>43.76791780</latitude>
-    <longitude>11.25237920</longitude>
-  </state>
-  <state>
     <id>1771</id>
     <name>Foggia</name>
     <country_id>107</country_id>
@@ -20184,17 +20041,6 @@
     <type>province</type>
     <latitude>41.65765280</latitude>
     <longitude>13.63627150</longitude>
-  </state>
-  <state>
-    <id>1699</id>
-    <name>Genoa</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>GE</state_code>
-    <type>metropolitan city</type>
-    <latitude>44.40564930</latitude>
-    <longitude>8.94625640</longitude>
   </state>
   <state>
     <id>1777</id>
@@ -20428,28 +20274,6 @@
     <longitude>8.70407500</longitude>
   </state>
   <state>
-    <id>1770</id>
-    <name>Messina</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>ME</state_code>
-    <type>metropolitan city</type>
-    <latitude>38.19373350</latitude>
-    <longitude>15.55420570</longitude>
-  </state>
-  <state>
-    <id>1698</id>
-    <name>Milan</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>MI</state_code>
-    <type>metropolitan city</type>
-    <latitude>45.45862600</latitude>
-    <longitude>9.18187300</longitude>
-  </state>
-  <state>
     <id>1757</id>
     <name>Modena</name>
     <country_id>107</country_id>
@@ -20481,17 +20305,6 @@
     <type>province</type>
     <latitude>45.62359900</latitude>
     <longitude>9.25880150</longitude>
-  </state>
-  <state>
-    <id>1724</id>
-    <name>Naples</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>NA</state_code>
-    <type>metropolitan city</type>
-    <latitude>40.90197500</latitude>
-    <longitude>14.33264400</longitude>
   </state>
   <state>
     <id>1774</id>
@@ -20703,17 +20516,6 @@
     <longitude>12.20359980</longitude>
   </state>
   <state>
-    <id>1671</id>
-    <name>Reggio Calabria</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>RC</state_code>
-    <type>metropolitan city</type>
-    <latitude>38.10843960</latitude>
-    <longitude>15.64370480</longitude>
-  </state>
-  <state>
     <id>1708</id>
     <name>Reggio Emilia</name>
     <country_id>107</country_id>
@@ -20745,17 +20547,6 @@
     <type>province</type>
     <latitude>44.06782880</latitude>
     <longitude>12.56951580</longitude>
-  </state>
-  <state>
-    <id>1711</id>
-    <name>Rome</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>RM</state_code>
-    <type>metropolitan city</type>
-    <latitude>41.90270080</latitude>
-    <longitude>12.49623520</longitude>
   </state>
   <state>
     <id>1719</id>
@@ -20868,17 +20659,6 @@
     <longitude>8.93970000</longitude>
   </state>
   <state>
-    <id>1767</id>
-    <name>South Tyrol</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>BZ</state_code>
-    <type>autonomous province</type>
-    <latitude>46.49494500</latitude>
-    <longitude>11.34026570</longitude>
-  </state>
-  <state>
     <id>1743</id>
     <name>Taranto</name>
     <country_id>107</country_id>
@@ -20923,17 +20703,6 @@
     <longitude>12.51482650</longitude>
   </state>
   <state>
-    <id>1748</id>
-    <name>Trentino</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>TN</state_code>
-    <type>autonomous province</type>
-    <latitude>46.05120040</latitude>
-    <longitude>11.11753920</longitude>
-  </state>
-  <state>
     <id>1725</id>
     <name>Trentino-South Tyrol</name>
     <country_id>107</country_id>
@@ -20965,17 +20734,6 @@
     <type>decentralized regional entity</type>
     <latitude>45.68948230</latitude>
     <longitude>13.78330720</longitude>
-  </state>
-  <state>
-    <id>1710</id>
-    <name>Turin</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>TO</state_code>
-    <type>metropolitan city</type>
-    <latitude>45.06329900</latitude>
-    <longitude>7.66928900</longitude>
   </state>
   <state>
     <id>1664</id>
@@ -21031,17 +20789,6 @@
     <type>region</type>
     <latitude>45.44146620</latitude>
     <longitude>12.31525950</longitude>
-  </state>
-  <state>
-    <id>1673</id>
-    <name>Venice</name>
-    <country_id>107</country_id>
-    <country_code>IT</country_code>
-    <country_name>Italy</country_name>
-    <state_code>VE</state_code>
-    <type>metropolitan city</type>
-    <latitude>45.44146850</latitude>
-    <longitude>12.31526720</longitude>
   </state>
   <state>
     <id>1726</id>
@@ -26038,930 +25785,6 @@
     <longitude>6.13331780</longitude>
   </state>
   <state>
-    <id>703</id>
-    <name>Aerodrom Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>01</state_code>
-    <type></type>
-    <latitude>41.94643630</latitude>
-    <longitude>21.49317130</longitude>
-  </state>
-  <state>
-    <id>656</id>
-    <name>Aračinovo Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>02</state_code>
-    <type></type>
-    <latitude>42.02473810</latitude>
-    <longitude>21.57664070</longitude>
-  </state>
-  <state>
-    <id>716</id>
-    <name>Berovo Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>03</state_code>
-    <type></type>
-    <latitude>41.66619290</latitude>
-    <longitude>22.76288300</longitude>
-  </state>
-  <state>
-    <id>679</id>
-    <name>Bitola Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>04</state_code>
-    <type></type>
-    <latitude>41.03633020</latitude>
-    <longitude>21.33219740</longitude>
-  </state>
-  <state>
-    <id>649</id>
-    <name>Bogdanci Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>05</state_code>
-    <type></type>
-    <latitude>41.18696160</latitude>
-    <longitude>22.59602680</longitude>
-  </state>
-  <state>
-    <id>721</id>
-    <name>Bogovinje Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>06</state_code>
-    <type></type>
-    <latitude>41.92363710</latitude>
-    <longitude>20.91638870</longitude>
-  </state>
-  <state>
-    <id>652</id>
-    <name>Bosilovo Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>07</state_code>
-    <type></type>
-    <latitude>41.49048640</latitude>
-    <longitude>22.78671740</longitude>
-  </state>
-  <state>
-    <id>660</id>
-    <name>Brvenica Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>08</state_code>
-    <type></type>
-    <latitude>41.96814820</latitude>
-    <longitude>20.98195860</longitude>
-  </state>
-  <state>
-    <id>694</id>
-    <name>Butel Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>09</state_code>
-    <type></type>
-    <latitude>42.08950680</latitude>
-    <longitude>21.46336100</longitude>
-  </state>
-  <state>
-    <id>704</id>
-    <name>Čair Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>79</state_code>
-    <type></type>
-    <latitude>41.99303550</latitude>
-    <longitude>21.43653180</longitude>
-  </state>
-  <state>
-    <id>676</id>
-    <name>Čaška Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>80</state_code>
-    <type></type>
-    <latitude>41.64743800</latitude>
-    <longitude>21.69141150</longitude>
-  </state>
-  <state>
-    <id>702</id>
-    <name>Centar Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>77</state_code>
-    <type></type>
-    <latitude>41.96989340</latitude>
-    <longitude>21.42162670</longitude>
-  </state>
-  <state>
-    <id>720</id>
-    <name>Centar Župa Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>78</state_code>
-    <type></type>
-    <latitude>41.46522590</latitude>
-    <longitude>20.59305480</longitude>
-  </state>
-  <state>
-    <id>644</id>
-    <name>Češinovo-Obleševo Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>81</state_code>
-    <type></type>
-    <latitude>41.86393160</latitude>
-    <longitude>22.26224600</longitude>
-  </state>
-  <state>
-    <id>715</id>
-    <name>Čučer-Sandevo Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>82</state_code>
-    <type></type>
-    <latitude>42.14839460</latitude>
-    <longitude>21.40374070</longitude>
-  </state>
-  <state>
-    <id>645</id>
-    <name>Debarca Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>22</state_code>
-    <type></type>
-    <latitude>41.35840770</latitude>
-    <longitude>20.85529190</longitude>
-  </state>
-  <state>
-    <id>695</id>
-    <name>Delčevo Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>23</state_code>
-    <type></type>
-    <latitude>41.96843870</latitude>
-    <longitude>22.76288300</longitude>
-  </state>
-  <state>
-    <id>687</id>
-    <name>Demir Hisar Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>25</state_code>
-    <type></type>
-    <latitude>41.22708300</latitude>
-    <longitude>21.14142260</longitude>
-  </state>
-  <state>
-    <id>655</id>
-    <name>Demir Kapija Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>24</state_code>
-    <type></type>
-    <latitude>41.37955380</latitude>
-    <longitude>22.21455710</longitude>
-  </state>
-  <state>
-    <id>697</id>
-    <name>Dojran Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>26</state_code>
-    <type></type>
-    <latitude>41.24366720</latitude>
-    <longitude>22.69137640</longitude>
-  </state>
-  <state>
-    <id>675</id>
-    <name>Dolneni Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>27</state_code>
-    <type></type>
-    <latitude>41.46409350</latitude>
-    <longitude>21.40374070</longitude>
-  </state>
-  <state>
-    <id>657</id>
-    <name>Drugovo Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>28</state_code>
-    <type></type>
-    <latitude>41.44081530</latitude>
-    <longitude>20.92682010</longitude>
-  </state>
-  <state>
-    <id>707</id>
-    <name>Gazi Baba Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>17</state_code>
-    <type></type>
-    <latitude>42.01629610</latitude>
-    <longitude>21.49913340</longitude>
-  </state>
-  <state>
-    <id>648</id>
-    <name>Gevgelija Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>18</state_code>
-    <type></type>
-    <latitude>41.21186060</latitude>
-    <longitude>22.38146240</longitude>
-  </state>
-  <state>
-    <id>722</id>
-    <name>Gjorče Petrov Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>29</state_code>
-    <type></type>
-    <latitude>42.06063740</latitude>
-    <longitude>21.32027360</longitude>
-  </state>
-  <state>
-    <id>693</id>
-    <name>Gostivar Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>19</state_code>
-    <type></type>
-    <latitude>41.80255410</latitude>
-    <longitude>20.90893780</longitude>
-  </state>
-  <state>
-    <id>708</id>
-    <name>Gradsko Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>20</state_code>
-    <type></type>
-    <latitude>41.59916080</latitude>
-    <longitude>21.88070640</longitude>
-  </state>
-  <state>
-    <id>684</id>
-    <name>Greater Skopje</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>85</state_code>
-    <type></type>
-    <latitude>41.99812940</latitude>
-    <longitude>21.42543550</longitude>
-  </state>
-  <state>
-    <id>690</id>
-    <name>Ilinden Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>34</state_code>
-    <type></type>
-    <latitude>41.99574430</latitude>
-    <longitude>21.56769750</longitude>
-  </state>
-  <state>
-    <id>678</id>
-    <name>Jegunovce Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>35</state_code>
-    <type></type>
-    <latitude>42.07407200</latitude>
-    <longitude>21.12204780</longitude>
-  </state>
-  <state>
-    <id>674</id>
-    <name>Karbinci</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>37</state_code>
-    <type></type>
-    <latitude>41.81801590</latitude>
-    <longitude>22.23247580</longitude>
-  </state>
-  <state>
-    <id>681</id>
-    <name>Karpoš Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>38</state_code>
-    <type></type>
-    <latitude>41.97096610</latitude>
-    <longitude>21.39181680</longitude>
-  </state>
-  <state>
-    <id>713</id>
-    <name>Kavadarci Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>36</state_code>
-    <type></type>
-    <latitude>41.28900680</latitude>
-    <longitude>21.99994350</longitude>
-  </state>
-  <state>
-    <id>688</id>
-    <name>Kičevo Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>40</state_code>
-    <type></type>
-    <latitude>41.51291120</latitude>
-    <longitude>20.95250650</longitude>
-  </state>
-  <state>
-    <id>686</id>
-    <name>Kisela Voda Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>39</state_code>
-    <type></type>
-    <latitude>41.92748000</latitude>
-    <longitude>21.49317130</longitude>
-  </state>
-  <state>
-    <id>723</id>
-    <name>Kočani Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>42</state_code>
-    <type></type>
-    <latitude>41.98583740</latitude>
-    <longitude>22.40530460</longitude>
-  </state>
-  <state>
-    <id>665</id>
-    <name>Konče Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>41</state_code>
-    <type></type>
-    <latitude>41.51710110</latitude>
-    <longitude>22.38146240</longitude>
-  </state>
-  <state>
-    <id>641</id>
-    <name>Kratovo Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>43</state_code>
-    <type></type>
-    <latitude>42.05371410</latitude>
-    <longitude>22.07148350</longitude>
-  </state>
-  <state>
-    <id>677</id>
-    <name>Kriva Palanka Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>44</state_code>
-    <type></type>
-    <latitude>42.20584540</latitude>
-    <longitude>22.33079650</longitude>
-  </state>
-  <state>
-    <id>647</id>
-    <name>Krivogaštani Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>45</state_code>
-    <type></type>
-    <latitude>41.30823060</latitude>
-    <longitude>21.36796890</longitude>
-  </state>
-  <state>
-    <id>714</id>
-    <name>Kruševo Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>46</state_code>
-    <type></type>
-    <latitude>41.37693310</latitude>
-    <longitude>21.26065540</longitude>
-  </state>
-  <state>
-    <id>683</id>
-    <name>Kumanovo Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>47</state_code>
-    <type></type>
-    <latitude>42.07326130</latitude>
-    <longitude>21.78531430</longitude>
-  </state>
-  <state>
-    <id>659</id>
-    <name>Lipkovo Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>48</state_code>
-    <type></type>
-    <latitude>42.20066260</latitude>
-    <longitude>21.61837550</longitude>
-  </state>
-  <state>
-    <id>705</id>
-    <name>Lozovo Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>49</state_code>
-    <type></type>
-    <latitude>41.78181390</latitude>
-    <longitude>21.90008270</longitude>
-  </state>
-  <state>
-    <id>701</id>
-    <name>Makedonska Kamenica Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>51</state_code>
-    <type></type>
-    <latitude>42.06946040</latitude>
-    <longitude>22.54834900</longitude>
-  </state>
-  <state>
-    <id>692</id>
-    <name>Makedonski Brod Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>52</state_code>
-    <type></type>
-    <latitude>41.51330880</latitude>
-    <longitude>21.21743290</longitude>
-  </state>
-  <state>
-    <id>669</id>
-    <name>Mavrovo and Rostuša Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>50</state_code>
-    <type></type>
-    <latitude>41.60924270</latitude>
-    <longitude>20.60124880</longitude>
-  </state>
-  <state>
-    <id>653</id>
-    <name>Mogila Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>53</state_code>
-    <type></type>
-    <latitude>41.14796450</latitude>
-    <longitude>21.45143690</longitude>
-  </state>
-  <state>
-    <id>664</id>
-    <name>Negotino Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>54</state_code>
-    <type></type>
-    <latitude>41.49899850</latitude>
-    <longitude>22.09532970</longitude>
-  </state>
-  <state>
-    <id>696</id>
-    <name>Novaci Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>55</state_code>
-    <type></type>
-    <latitude>41.04426610</latitude>
-    <longitude>21.45888940</longitude>
-  </state>
-  <state>
-    <id>718</id>
-    <name>Novo Selo Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>56</state_code>
-    <type></type>
-    <latitude>41.43255800</latitude>
-    <longitude>22.88204890</longitude>
-  </state>
-  <state>
-    <id>699</id>
-    <name>Ohrid Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>58</state_code>
-    <type></type>
-    <latitude>41.06820880</latitude>
-    <longitude>20.75992660</longitude>
-  </state>
-  <state>
-    <id>682</id>
-    <name>Oslomej Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>57</state_code>
-    <type></type>
-    <latitude>41.57583910</latitude>
-    <longitude>21.02219600</longitude>
-  </state>
-  <state>
-    <id>685</id>
-    <name>Pehčevo Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>60</state_code>
-    <type></type>
-    <latitude>41.77371320</latitude>
-    <longitude>22.88204890</longitude>
-  </state>
-  <state>
-    <id>698</id>
-    <name>Petrovec Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>59</state_code>
-    <type></type>
-    <latitude>41.90298970</latitude>
-    <longitude>21.68992100</longitude>
-  </state>
-  <state>
-    <id>670</id>
-    <name>Plasnica Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>61</state_code>
-    <type></type>
-    <latitude>41.45463490</latitude>
-    <longitude>21.10565390</longitude>
-  </state>
-  <state>
-    <id>666</id>
-    <name>Prilep Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>62</state_code>
-    <type></type>
-    <latitude>41.26931420</latitude>
-    <longitude>21.71376940</longitude>
-  </state>
-  <state>
-    <id>646</id>
-    <name>Probištip Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>63</state_code>
-    <type></type>
-    <latitude>41.95891460</latitude>
-    <longitude>22.16686700</longitude>
-  </state>
-  <state>
-    <id>709</id>
-    <name>Radoviš Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>64</state_code>
-    <type></type>
-    <latitude>41.64955310</latitude>
-    <longitude>22.47682870</longitude>
-  </state>
-  <state>
-    <id>717</id>
-    <name>Rankovce Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>65</state_code>
-    <type></type>
-    <latitude>42.18081410</latitude>
-    <longitude>22.09532970</longitude>
-  </state>
-  <state>
-    <id>712</id>
-    <name>Resen Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>66</state_code>
-    <type></type>
-    <latitude>40.93680930</latitude>
-    <longitude>21.04604070</longitude>
-  </state>
-  <state>
-    <id>691</id>
-    <name>Rosoman Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>67</state_code>
-    <type></type>
-    <latitude>41.48480060</latitude>
-    <longitude>21.88070640</longitude>
-  </state>
-  <state>
-    <id>667</id>
-    <name>Saraj Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>68</state_code>
-    <type></type>
-    <latitude>41.98694960</latitude>
-    <longitude>21.26065540</longitude>
-  </state>
-  <state>
-    <id>719</id>
-    <name>Sopište Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>70</state_code>
-    <type></type>
-    <latitude>41.86384920</latitude>
-    <longitude>21.30834990</longitude>
-  </state>
-  <state>
-    <id>643</id>
-    <name>Staro Nagoričane Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>71</state_code>
-    <type></type>
-    <latitude>42.21916920</latitude>
-    <longitude>21.90455410</longitude>
-  </state>
-  <state>
-    <id>661</id>
-    <name>Štip Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>83</state_code>
-    <type></type>
-    <latitude>41.70792970</latitude>
-    <longitude>22.19071220</longitude>
-  </state>
-  <state>
-    <id>700</id>
-    <name>Struga Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>72</state_code>
-    <type></type>
-    <latitude>41.31737440</latitude>
-    <longitude>20.66456830</longitude>
-  </state>
-  <state>
-    <id>710</id>
-    <name>Strumica Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>73</state_code>
-    <type></type>
-    <latitude>41.43780040</latitude>
-    <longitude>22.64274280</longitude>
-  </state>
-  <state>
-    <id>711</id>
-    <name>Studeničani Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>74</state_code>
-    <type></type>
-    <latitude>41.92256390</latitude>
-    <longitude>21.53639650</longitude>
-  </state>
-  <state>
-    <id>680</id>
-    <name>Šuto Orizari Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>84</state_code>
-    <type></type>
-    <latitude>42.02904160</latitude>
-    <longitude>21.40970270</longitude>
-  </state>
-  <state>
-    <id>640</id>
-    <name>Sveti Nikole Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>69</state_code>
-    <type></type>
-    <latitude>41.89803120</latitude>
-    <longitude>21.99994350</longitude>
-  </state>
-  <state>
-    <id>654</id>
-    <name>Tearce Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>75</state_code>
-    <type></type>
-    <latitude>42.07775110</latitude>
-    <longitude>21.05349230</longitude>
-  </state>
-  <state>
-    <id>663</id>
-    <name>Tetovo Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>76</state_code>
-    <type></type>
-    <latitude>42.02748600</latitude>
-    <longitude>20.95066360</longitude>
-  </state>
-  <state>
-    <id>671</id>
-    <name>Valandovo Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>10</state_code>
-    <type></type>
-    <latitude>41.32119090</latitude>
-    <longitude>22.50066930</longitude>
-  </state>
-  <state>
-    <id>658</id>
-    <name>Vasilevo Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>11</state_code>
-    <type></type>
-    <latitude>41.47416990</latitude>
-    <longitude>22.64221280</longitude>
-  </state>
-  <state>
-    <id>651</id>
-    <name>Veles Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>13</state_code>
-    <type></type>
-    <latitude>41.72744260</latitude>
-    <longitude>21.71376940</longitude>
-  </state>
-  <state>
-    <id>662</id>
-    <name>Vevčani Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>12</state_code>
-    <type></type>
-    <latitude>41.24075430</latitude>
-    <longitude>20.59156490</longitude>
-  </state>
-  <state>
-    <id>672</id>
-    <name>Vinica Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>14</state_code>
-    <type></type>
-    <latitude>41.85710200</latitude>
-    <longitude>22.57218810</longitude>
-  </state>
-  <state>
-    <id>650</id>
-    <name>Vraneštica Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>15</state_code>
-    <type></type>
-    <latitude>41.48290870</latitude>
-    <longitude>21.05796320</longitude>
-  </state>
-  <state>
-    <id>689</id>
-    <name>Vrapčište Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>16</state_code>
-    <type></type>
-    <latitude>41.87911600</latitude>
-    <longitude>20.83145000</longitude>
-  </state>
-  <state>
-    <id>642</id>
-    <name>Zajas Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>31</state_code>
-    <type></type>
-    <latitude>41.60303280</latitude>
-    <longitude>20.87913430</longitude>
-  </state>
-  <state>
-    <id>706</id>
-    <name>Zelenikovo Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>32</state_code>
-    <type></type>
-    <latitude>41.87338120</latitude>
-    <longitude>21.60272500</longitude>
-  </state>
-  <state>
-    <id>668</id>
-    <name>Želino Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>30</state_code>
-    <type></type>
-    <latitude>41.90065310</latitude>
-    <longitude>21.11757670</longitude>
-  </state>
-  <state>
-    <id>673</id>
-    <name>Zrnovci Municipality</name>
-    <country_id>129</country_id>
-    <country_code>MK</country_code>
-    <country_name>Macedonia</country_name>
-    <state_code>33</state_code>
-    <type></type>
-    <latitude>41.82282210</latitude>
-    <longitude>22.41722560</longitude>
-  </state>
-  <state>
     <id>2951</id>
     <name>Antananarivo Province</name>
     <country_id>130</country_id>
@@ -28866,190 +27689,135 @@
   </state>
   <state>
     <id>3248</id>
-    <name>Agaléga</name>
+    <name>Agalega Islands</name>
     <country_id>140</country_id>
     <country_code>MU</country_code>
     <country_name>Mauritius</country_name>
     <state_code>AG</state_code>
-    <type></type>
+    <type>dependency</type>
     <latitude>-10.40000000</latitude>
     <longitude>56.61666670</longitude>
   </state>
   <state>
-    <id>3262</id>
-    <name>Beau Bassin-Rose Hill</name>
+    <id>3259</id>
+    <name>Black River</name>
     <country_id>140</country_id>
     <country_code>MU</country_code>
     <country_name>Mauritius</country_name>
-    <state_code>BR</state_code>
-    <type></type>
-    <latitude>-20.22303050</latitude>
-    <longitude>57.46838300</longitude>
-  </state>
-  <state>
-    <id>3251</id>
-    <name>Cargados Carajos</name>
-    <country_id>140</country_id>
-    <country_code>MU</country_code>
-    <country_name>Mauritius</country_name>
-    <state_code>CC</state_code>
-    <type></type>
-    <latitude>-16.58333300</latitude>
-    <longitude>59.61666700</longitude>
-  </state>
-  <state>
-    <id>3255</id>
-    <name>Curepipe</name>
-    <country_id>140</country_id>
-    <country_code>MU</country_code>
-    <country_name>Mauritius</country_name>
-    <state_code>CU</state_code>
-    <type></type>
-    <latitude>-20.31708720</latitude>
-    <longitude>57.52652890</longitude>
+    <state_code>BL</state_code>
+    <type>district</type>
+    <latitude>-20.37084920</latitude>
+    <longitude>57.39486490</longitude>
   </state>
   <state>
     <id>3254</id>
-    <name>Flacq District</name>
+    <name>Flacq</name>
     <country_id>140</country_id>
     <country_code>MU</country_code>
     <country_name>Mauritius</country_name>
     <state_code>FL</state_code>
-    <type></type>
+    <type>district</type>
     <latitude>-20.22578360</latitude>
     <longitude>57.71192740</longitude>
   </state>
   <state>
     <id>3264</id>
-    <name>Grand Port District</name>
+    <name>Grand Port</name>
     <country_id>140</country_id>
     <country_code>MU</country_code>
     <country_name>Mauritius</country_name>
     <state_code>GP</state_code>
-    <type></type>
+    <type>district</type>
     <latitude>-20.38515460</latitude>
     <longitude>57.66657420</longitude>
   </state>
   <state>
     <id>3253</id>
-    <name>Moka District</name>
+    <name>Moka</name>
     <country_id>140</country_id>
     <country_code>MU</country_code>
     <country_name>Mauritius</country_name>
     <state_code>MO</state_code>
-    <type></type>
+    <type>district</type>
     <latitude>-20.23997820</latitude>
     <longitude>57.57592600</longitude>
   </state>
   <state>
     <id>3250</id>
-    <name>Pamplemousses District</name>
+    <name>Pamplemousses</name>
     <country_id>140</country_id>
     <country_code>MU</country_code>
     <country_name>Mauritius</country_name>
     <state_code>PA</state_code>
-    <type></type>
+    <type>district</type>
     <latitude>-20.11360080</latitude>
     <longitude>57.57592600</longitude>
   </state>
   <state>
     <id>3263</id>
-    <name>Plaines Wilhems District</name>
+    <name>Plaines Wilhems</name>
     <country_id>140</country_id>
     <country_code>MU</country_code>
     <country_name>Mauritius</country_name>
     <state_code>PW</state_code>
-    <type></type>
+    <type>district</type>
     <latitude>-20.30548720</latitude>
     <longitude>57.48535610</longitude>
   </state>
   <state>
-    <id>3256</id>
+    <id>3260</id>
     <name>Port Louis</name>
     <country_id>140</country_id>
     <country_code>MU</country_code>
     <country_name>Mauritius</country_name>
-    <state_code>PU</state_code>
-    <type></type>
-    <latitude>-20.16089120</latitude>
-    <longitude>57.50122220</longitude>
-  </state>
-  <state>
-    <id>3260</id>
-    <name>Port Louis District</name>
-    <country_id>140</country_id>
-    <country_code>MU</country_code>
-    <country_name>Mauritius</country_name>
     <state_code>PL</state_code>
-    <type></type>
+    <type>district</type>
     <latitude>-20.16089120</latitude>
     <longitude>57.50122220</longitude>
-  </state>
-  <state>
-    <id>3258</id>
-    <name>Quatre Bornes</name>
-    <country_id>140</country_id>
-    <country_code>MU</country_code>
-    <country_name>Mauritius</country_name>
-    <state_code>QB</state_code>
-    <type></type>
-    <latitude>-20.26747180</latitude>
-    <longitude>57.47969810</longitude>
   </state>
   <state>
     <id>3261</id>
-    <name>Rivière du Rempart District</name>
+    <name>Rivière du Rempart</name>
     <country_id>140</country_id>
     <country_code>MU</country_code>
     <country_name>Mauritius</country_name>
     <state_code>RR</state_code>
-    <type></type>
+    <type>district</type>
     <latitude>-20.05609830</latitude>
     <longitude>57.65523890</longitude>
   </state>
   <state>
-    <id>3259</id>
-    <name>Rivière Noire District</name>
-    <country_id>140</country_id>
-    <country_code>MU</country_code>
-    <country_name>Mauritius</country_name>
-    <state_code>BL</state_code>
-    <type></type>
-    <latitude>-20.37084920</latitude>
-    <longitude>57.39486490</longitude>
-  </state>
-  <state>
     <id>3249</id>
-    <name>Rodrigues</name>
+    <name>Rodrigues Island</name>
     <country_id>140</country_id>
     <country_code>MU</country_code>
     <country_name>Mauritius</country_name>
     <state_code>RO</state_code>
-    <type></type>
+    <type>dependency</type>
     <latitude>-19.72453850</latitude>
     <longitude>63.42721850</longitude>
   </state>
   <state>
+    <id>3251</id>
+    <name>Saint Brandon Islands</name>
+    <country_id>140</country_id>
+    <country_code>MU</country_code>
+    <country_name>Mauritius</country_name>
+    <state_code>CC</state_code>
+    <type>dependency</type>
+    <latitude>-16.58333300</latitude>
+    <longitude>59.61666700</longitude>
+  </state>
+  <state>
     <id>3257</id>
-    <name>Savanne District</name>
+    <name>Savanne</name>
     <country_id>140</country_id>
     <country_code>MU</country_code>
     <country_name>Mauritius</country_name>
     <state_code>SA</state_code>
-    <type></type>
+    <type>district</type>
     <latitude>-20.47395300</latitude>
     <longitude>57.48535610</longitude>
-  </state>
-  <state>
-    <id>3252</id>
-    <name>Vacoas-Phoenix</name>
-    <country_id>140</country_id>
-    <country_code>MU</country_code>
-    <country_name>Mauritius</country_name>
-    <state_code>VP</state_code>
-    <type></type>
-    <latitude>-20.29840260</latitude>
-    <longitude>57.49383550</longitude>
   </state>
   <state>
     <id>3456</id>
@@ -29123,7 +27891,7 @@
     <country_id>142</country_id>
     <country_code>MX</country_code>
     <country_name>Mexico</country_name>
-    <state_code>CDMX</state_code>
+    <state_code>CMX</state_code>
     <type>federal district</type>
     <latitude>19.43260770</latitude>
     <longitude>-99.13320800</longitude>
@@ -32249,8 +31017,8 @@
     <country_name>Netherlands</country_name>
     <state_code>ZH</state_code>
     <type>province</type>
-    <latitude>41.60086810</latitude>
-    <longitude>-87.60698940</longitude>
+    <latitude>51.99667920</latitude>
+    <longitude>4.55973970</longitude>
   </state>
   <state>
     <id>2610</id>
@@ -32273,6 +31041,39 @@
     <type>province</type>
     <latitude>51.49403090</latitude>
     <longitude>3.84968150</longitude>
+  </state>
+  <state>
+    <id>5227</id>
+    <name>Loyalty Islands Province</name>
+    <country_id>157</country_id>
+    <country_code>NC</country_code>
+    <country_name>New Caledonia</country_name>
+    <state_code>03</state_code>
+    <type>province</type>
+    <latitude>-20.96670000</latitude>
+    <longitude>167.23330000</longitude>
+  </state>
+  <state>
+    <id>5226</id>
+    <name>North Province</name>
+    <country_id>157</country_id>
+    <country_code>NC</country_code>
+    <country_name>New Caledonia</country_name>
+    <state_code>02</state_code>
+    <type>province</type>
+    <latitude>-22.27580000</latitude>
+    <longitude>166.45800000</longitude>
+  </state>
+  <state>
+    <id>5225</id>
+    <name>South Province</name>
+    <country_id>157</country_id>
+    <country_code>NC</country_code>
+    <country_name>New Caledonia</country_name>
+    <state_code>01</state_code>
+    <type>province</type>
+    <latitude>-22.27580000</latitude>
+    <longitude>166.45800000</longitude>
   </state>
   <state>
     <id>4072</id>
@@ -33254,59 +32055,950 @@
     <longitude>126.16827100</longitude>
   </state>
   <state>
-    <id>1017</id>
-    <name>Akershus</name>
-    <country_id>165</country_id>
-    <country_code>NO</country_code>
-    <country_name>Norway</country_name>
+    <id>703</id>
+    <name>Aerodrom Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>01</state_code>
+    <type></type>
+    <latitude>41.94643630</latitude>
+    <longitude>21.49317130</longitude>
+  </state>
+  <state>
+    <id>656</id>
+    <name>Aračinovo Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
     <state_code>02</state_code>
     <type></type>
-    <latitude>28.37042030</latitude>
-    <longitude>-81.54680580</longitude>
+    <latitude>42.02473810</latitude>
+    <longitude>21.57664070</longitude>
   </state>
   <state>
-    <id>1011</id>
-    <name>Buskerud</name>
-    <country_id>165</country_id>
-    <country_code>NO</country_code>
-    <country_name>Norway</country_name>
-    <state_code>06</state_code>
+    <id>716</id>
+    <name>Berovo Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>03</state_code>
     <type></type>
-    <latitude>60.48460250</latitude>
-    <longitude>8.69837640</longitude>
+    <latitude>41.66619290</latitude>
+    <longitude>22.76288300</longitude>
   </state>
   <state>
-    <id>1016</id>
-    <name>Finnmark</name>
-    <country_id>165</country_id>
-    <country_code>NO</country_code>
-    <country_name>Norway</country_name>
-    <state_code>20</state_code>
-    <type></type>
-    <latitude>70.48303880</latitude>
-    <longitude>26.01351070</longitude>
-  </state>
-  <state>
-    <id>1019</id>
-    <name>Hedmark</name>
-    <country_id>165</country_id>
-    <country_code>NO</country_code>
-    <country_name>Norway</country_name>
+    <id>679</id>
+    <name>Bitola Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
     <state_code>04</state_code>
     <type></type>
-    <latitude>61.39673110</latitude>
-    <longitude>11.56273690</longitude>
+    <latitude>41.03633020</latitude>
+    <longitude>21.33219740</longitude>
   </state>
   <state>
-    <id>1023</id>
-    <name>Hordaland</name>
+    <id>649</id>
+    <name>Bogdanci Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>05</state_code>
+    <type></type>
+    <latitude>41.18696160</latitude>
+    <longitude>22.59602680</longitude>
+  </state>
+  <state>
+    <id>721</id>
+    <name>Bogovinje Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>06</state_code>
+    <type></type>
+    <latitude>41.92363710</latitude>
+    <longitude>20.91638870</longitude>
+  </state>
+  <state>
+    <id>652</id>
+    <name>Bosilovo Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>07</state_code>
+    <type></type>
+    <latitude>41.49048640</latitude>
+    <longitude>22.78671740</longitude>
+  </state>
+  <state>
+    <id>660</id>
+    <name>Brvenica Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>08</state_code>
+    <type></type>
+    <latitude>41.96814820</latitude>
+    <longitude>20.98195860</longitude>
+  </state>
+  <state>
+    <id>694</id>
+    <name>Butel Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>09</state_code>
+    <type></type>
+    <latitude>42.08950680</latitude>
+    <longitude>21.46336100</longitude>
+  </state>
+  <state>
+    <id>704</id>
+    <name>Čair Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>79</state_code>
+    <type></type>
+    <latitude>41.99303550</latitude>
+    <longitude>21.43653180</longitude>
+  </state>
+  <state>
+    <id>676</id>
+    <name>Čaška Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>80</state_code>
+    <type></type>
+    <latitude>41.64743800</latitude>
+    <longitude>21.69141150</longitude>
+  </state>
+  <state>
+    <id>702</id>
+    <name>Centar Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>77</state_code>
+    <type></type>
+    <latitude>41.96989340</latitude>
+    <longitude>21.42162670</longitude>
+  </state>
+  <state>
+    <id>720</id>
+    <name>Centar Župa Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>78</state_code>
+    <type></type>
+    <latitude>41.46522590</latitude>
+    <longitude>20.59305480</longitude>
+  </state>
+  <state>
+    <id>644</id>
+    <name>Češinovo-Obleševo Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>81</state_code>
+    <type></type>
+    <latitude>41.86393160</latitude>
+    <longitude>22.26224600</longitude>
+  </state>
+  <state>
+    <id>715</id>
+    <name>Čučer-Sandevo Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>82</state_code>
+    <type></type>
+    <latitude>42.14839460</latitude>
+    <longitude>21.40374070</longitude>
+  </state>
+  <state>
+    <id>645</id>
+    <name>Debarca Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>22</state_code>
+    <type></type>
+    <latitude>41.35840770</latitude>
+    <longitude>20.85529190</longitude>
+  </state>
+  <state>
+    <id>695</id>
+    <name>Delčevo Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>23</state_code>
+    <type></type>
+    <latitude>41.96843870</latitude>
+    <longitude>22.76288300</longitude>
+  </state>
+  <state>
+    <id>687</id>
+    <name>Demir Hisar Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>25</state_code>
+    <type></type>
+    <latitude>41.22708300</latitude>
+    <longitude>21.14142260</longitude>
+  </state>
+  <state>
+    <id>655</id>
+    <name>Demir Kapija Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>24</state_code>
+    <type></type>
+    <latitude>41.37955380</latitude>
+    <longitude>22.21455710</longitude>
+  </state>
+  <state>
+    <id>697</id>
+    <name>Dojran Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>26</state_code>
+    <type></type>
+    <latitude>41.24366720</latitude>
+    <longitude>22.69137640</longitude>
+  </state>
+  <state>
+    <id>675</id>
+    <name>Dolneni Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>27</state_code>
+    <type></type>
+    <latitude>41.46409350</latitude>
+    <longitude>21.40374070</longitude>
+  </state>
+  <state>
+    <id>657</id>
+    <name>Drugovo Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>28</state_code>
+    <type></type>
+    <latitude>41.44081530</latitude>
+    <longitude>20.92682010</longitude>
+  </state>
+  <state>
+    <id>707</id>
+    <name>Gazi Baba Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>17</state_code>
+    <type></type>
+    <latitude>42.01629610</latitude>
+    <longitude>21.49913340</longitude>
+  </state>
+  <state>
+    <id>648</id>
+    <name>Gevgelija Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>18</state_code>
+    <type></type>
+    <latitude>41.21186060</latitude>
+    <longitude>22.38146240</longitude>
+  </state>
+  <state>
+    <id>722</id>
+    <name>Gjorče Petrov Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>29</state_code>
+    <type></type>
+    <latitude>42.06063740</latitude>
+    <longitude>21.32027360</longitude>
+  </state>
+  <state>
+    <id>693</id>
+    <name>Gostivar Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>19</state_code>
+    <type></type>
+    <latitude>41.80255410</latitude>
+    <longitude>20.90893780</longitude>
+  </state>
+  <state>
+    <id>708</id>
+    <name>Gradsko Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>20</state_code>
+    <type></type>
+    <latitude>41.59916080</latitude>
+    <longitude>21.88070640</longitude>
+  </state>
+  <state>
+    <id>684</id>
+    <name>Greater Skopje</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>85</state_code>
+    <type></type>
+    <latitude>41.99812940</latitude>
+    <longitude>21.42543550</longitude>
+  </state>
+  <state>
+    <id>690</id>
+    <name>Ilinden Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>34</state_code>
+    <type></type>
+    <latitude>41.99574430</latitude>
+    <longitude>21.56769750</longitude>
+  </state>
+  <state>
+    <id>678</id>
+    <name>Jegunovce Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>35</state_code>
+    <type></type>
+    <latitude>42.07407200</latitude>
+    <longitude>21.12204780</longitude>
+  </state>
+  <state>
+    <id>674</id>
+    <name>Karbinci</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>37</state_code>
+    <type></type>
+    <latitude>41.81801590</latitude>
+    <longitude>22.23247580</longitude>
+  </state>
+  <state>
+    <id>681</id>
+    <name>Karpoš Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>38</state_code>
+    <type></type>
+    <latitude>41.97096610</latitude>
+    <longitude>21.39181680</longitude>
+  </state>
+  <state>
+    <id>713</id>
+    <name>Kavadarci Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>36</state_code>
+    <type></type>
+    <latitude>41.28900680</latitude>
+    <longitude>21.99994350</longitude>
+  </state>
+  <state>
+    <id>688</id>
+    <name>Kičevo Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>40</state_code>
+    <type></type>
+    <latitude>41.51291120</latitude>
+    <longitude>20.95250650</longitude>
+  </state>
+  <state>
+    <id>686</id>
+    <name>Kisela Voda Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>39</state_code>
+    <type></type>
+    <latitude>41.92748000</latitude>
+    <longitude>21.49317130</longitude>
+  </state>
+  <state>
+    <id>723</id>
+    <name>Kočani Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>42</state_code>
+    <type></type>
+    <latitude>41.98583740</latitude>
+    <longitude>22.40530460</longitude>
+  </state>
+  <state>
+    <id>665</id>
+    <name>Konče Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>41</state_code>
+    <type></type>
+    <latitude>41.51710110</latitude>
+    <longitude>22.38146240</longitude>
+  </state>
+  <state>
+    <id>641</id>
+    <name>Kratovo Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>43</state_code>
+    <type></type>
+    <latitude>42.05371410</latitude>
+    <longitude>22.07148350</longitude>
+  </state>
+  <state>
+    <id>677</id>
+    <name>Kriva Palanka Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>44</state_code>
+    <type></type>
+    <latitude>42.20584540</latitude>
+    <longitude>22.33079650</longitude>
+  </state>
+  <state>
+    <id>647</id>
+    <name>Krivogaštani Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>45</state_code>
+    <type></type>
+    <latitude>41.30823060</latitude>
+    <longitude>21.36796890</longitude>
+  </state>
+  <state>
+    <id>714</id>
+    <name>Kruševo Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>46</state_code>
+    <type></type>
+    <latitude>41.37693310</latitude>
+    <longitude>21.26065540</longitude>
+  </state>
+  <state>
+    <id>683</id>
+    <name>Kumanovo Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>47</state_code>
+    <type></type>
+    <latitude>42.07326130</latitude>
+    <longitude>21.78531430</longitude>
+  </state>
+  <state>
+    <id>659</id>
+    <name>Lipkovo Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>48</state_code>
+    <type></type>
+    <latitude>42.20066260</latitude>
+    <longitude>21.61837550</longitude>
+  </state>
+  <state>
+    <id>705</id>
+    <name>Lozovo Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>49</state_code>
+    <type></type>
+    <latitude>41.78181390</latitude>
+    <longitude>21.90008270</longitude>
+  </state>
+  <state>
+    <id>701</id>
+    <name>Makedonska Kamenica Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>51</state_code>
+    <type></type>
+    <latitude>42.06946040</latitude>
+    <longitude>22.54834900</longitude>
+  </state>
+  <state>
+    <id>692</id>
+    <name>Makedonski Brod Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>52</state_code>
+    <type></type>
+    <latitude>41.51330880</latitude>
+    <longitude>21.21743290</longitude>
+  </state>
+  <state>
+    <id>669</id>
+    <name>Mavrovo and Rostuša Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>50</state_code>
+    <type></type>
+    <latitude>41.60924270</latitude>
+    <longitude>20.60124880</longitude>
+  </state>
+  <state>
+    <id>653</id>
+    <name>Mogila Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>53</state_code>
+    <type></type>
+    <latitude>41.14796450</latitude>
+    <longitude>21.45143690</longitude>
+  </state>
+  <state>
+    <id>664</id>
+    <name>Negotino Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>54</state_code>
+    <type></type>
+    <latitude>41.49899850</latitude>
+    <longitude>22.09532970</longitude>
+  </state>
+  <state>
+    <id>696</id>
+    <name>Novaci Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>55</state_code>
+    <type></type>
+    <latitude>41.04426610</latitude>
+    <longitude>21.45888940</longitude>
+  </state>
+  <state>
+    <id>718</id>
+    <name>Novo Selo Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>56</state_code>
+    <type></type>
+    <latitude>41.43255800</latitude>
+    <longitude>22.88204890</longitude>
+  </state>
+  <state>
+    <id>699</id>
+    <name>Ohrid Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>58</state_code>
+    <type></type>
+    <latitude>41.06820880</latitude>
+    <longitude>20.75992660</longitude>
+  </state>
+  <state>
+    <id>682</id>
+    <name>Oslomej Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>57</state_code>
+    <type></type>
+    <latitude>41.57583910</latitude>
+    <longitude>21.02219600</longitude>
+  </state>
+  <state>
+    <id>685</id>
+    <name>Pehčevo Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>60</state_code>
+    <type></type>
+    <latitude>41.77371320</latitude>
+    <longitude>22.88204890</longitude>
+  </state>
+  <state>
+    <id>698</id>
+    <name>Petrovec Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>59</state_code>
+    <type></type>
+    <latitude>41.90298970</latitude>
+    <longitude>21.68992100</longitude>
+  </state>
+  <state>
+    <id>670</id>
+    <name>Plasnica Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>61</state_code>
+    <type></type>
+    <latitude>41.45463490</latitude>
+    <longitude>21.10565390</longitude>
+  </state>
+  <state>
+    <id>666</id>
+    <name>Prilep Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>62</state_code>
+    <type></type>
+    <latitude>41.26931420</latitude>
+    <longitude>21.71376940</longitude>
+  </state>
+  <state>
+    <id>646</id>
+    <name>Probištip Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>63</state_code>
+    <type></type>
+    <latitude>41.95891460</latitude>
+    <longitude>22.16686700</longitude>
+  </state>
+  <state>
+    <id>709</id>
+    <name>Radoviš Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>64</state_code>
+    <type></type>
+    <latitude>41.64955310</latitude>
+    <longitude>22.47682870</longitude>
+  </state>
+  <state>
+    <id>717</id>
+    <name>Rankovce Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>65</state_code>
+    <type></type>
+    <latitude>42.18081410</latitude>
+    <longitude>22.09532970</longitude>
+  </state>
+  <state>
+    <id>712</id>
+    <name>Resen Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>66</state_code>
+    <type></type>
+    <latitude>40.93680930</latitude>
+    <longitude>21.04604070</longitude>
+  </state>
+  <state>
+    <id>691</id>
+    <name>Rosoman Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>67</state_code>
+    <type></type>
+    <latitude>41.48480060</latitude>
+    <longitude>21.88070640</longitude>
+  </state>
+  <state>
+    <id>667</id>
+    <name>Saraj Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>68</state_code>
+    <type></type>
+    <latitude>41.98694960</latitude>
+    <longitude>21.26065540</longitude>
+  </state>
+  <state>
+    <id>719</id>
+    <name>Sopište Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>70</state_code>
+    <type></type>
+    <latitude>41.86384920</latitude>
+    <longitude>21.30834990</longitude>
+  </state>
+  <state>
+    <id>643</id>
+    <name>Staro Nagoričane Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>71</state_code>
+    <type></type>
+    <latitude>42.21916920</latitude>
+    <longitude>21.90455410</longitude>
+  </state>
+  <state>
+    <id>661</id>
+    <name>Štip Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>83</state_code>
+    <type></type>
+    <latitude>41.70792970</latitude>
+    <longitude>22.19071220</longitude>
+  </state>
+  <state>
+    <id>700</id>
+    <name>Struga Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>72</state_code>
+    <type></type>
+    <latitude>41.31737440</latitude>
+    <longitude>20.66456830</longitude>
+  </state>
+  <state>
+    <id>710</id>
+    <name>Strumica Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>73</state_code>
+    <type></type>
+    <latitude>41.43780040</latitude>
+    <longitude>22.64274280</longitude>
+  </state>
+  <state>
+    <id>711</id>
+    <name>Studeničani Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>74</state_code>
+    <type></type>
+    <latitude>41.92256390</latitude>
+    <longitude>21.53639650</longitude>
+  </state>
+  <state>
+    <id>680</id>
+    <name>Šuto Orizari Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>84</state_code>
+    <type></type>
+    <latitude>42.02904160</latitude>
+    <longitude>21.40970270</longitude>
+  </state>
+  <state>
+    <id>640</id>
+    <name>Sveti Nikole Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>69</state_code>
+    <type></type>
+    <latitude>41.89803120</latitude>
+    <longitude>21.99994350</longitude>
+  </state>
+  <state>
+    <id>654</id>
+    <name>Tearce Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>75</state_code>
+    <type></type>
+    <latitude>42.07775110</latitude>
+    <longitude>21.05349230</longitude>
+  </state>
+  <state>
+    <id>663</id>
+    <name>Tetovo Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>76</state_code>
+    <type></type>
+    <latitude>42.02748600</latitude>
+    <longitude>20.95066360</longitude>
+  </state>
+  <state>
+    <id>671</id>
+    <name>Valandovo Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>10</state_code>
+    <type></type>
+    <latitude>41.32119090</latitude>
+    <longitude>22.50066930</longitude>
+  </state>
+  <state>
+    <id>658</id>
+    <name>Vasilevo Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>11</state_code>
+    <type></type>
+    <latitude>41.47416990</latitude>
+    <longitude>22.64221280</longitude>
+  </state>
+  <state>
+    <id>651</id>
+    <name>Veles Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>13</state_code>
+    <type></type>
+    <latitude>41.72744260</latitude>
+    <longitude>21.71376940</longitude>
+  </state>
+  <state>
+    <id>662</id>
+    <name>Vevčani Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>12</state_code>
+    <type></type>
+    <latitude>41.24075430</latitude>
+    <longitude>20.59156490</longitude>
+  </state>
+  <state>
+    <id>672</id>
+    <name>Vinica Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>14</state_code>
+    <type></type>
+    <latitude>41.85710200</latitude>
+    <longitude>22.57218810</longitude>
+  </state>
+  <state>
+    <id>650</id>
+    <name>Vraneštica Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>15</state_code>
+    <type></type>
+    <latitude>41.48290870</latitude>
+    <longitude>21.05796320</longitude>
+  </state>
+  <state>
+    <id>689</id>
+    <name>Vrapčište Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>16</state_code>
+    <type></type>
+    <latitude>41.87911600</latitude>
+    <longitude>20.83145000</longitude>
+  </state>
+  <state>
+    <id>642</id>
+    <name>Zajas Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>31</state_code>
+    <type></type>
+    <latitude>41.60303280</latitude>
+    <longitude>20.87913430</longitude>
+  </state>
+  <state>
+    <id>706</id>
+    <name>Zelenikovo Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>32</state_code>
+    <type></type>
+    <latitude>41.87338120</latitude>
+    <longitude>21.60272500</longitude>
+  </state>
+  <state>
+    <id>668</id>
+    <name>Želino Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>30</state_code>
+    <type></type>
+    <latitude>41.90065310</latitude>
+    <longitude>21.11757670</longitude>
+  </state>
+  <state>
+    <id>673</id>
+    <name>Zrnovci Municipality</name>
+    <country_id>129</country_id>
+    <country_code>MK</country_code>
+    <country_name>North Macedonia</country_name>
+    <state_code>33</state_code>
+    <type></type>
+    <latitude>41.82282210</latitude>
+    <longitude>22.41722560</longitude>
+  </state>
+  <state>
+    <id>1014</id>
+    <name>Agder</name>
     <country_id>165</country_id>
     <country_code>NO</country_code>
     <country_name>Norway</country_name>
-    <state_code>12</state_code>
-    <type></type>
-    <latitude>60.27336740</latitude>
-    <longitude>5.72201940</longitude>
+    <state_code>42</state_code>
+    <type>county</type>
+    <latitude>58.74069340</latitude>
+    <longitude>6.75315210</longitude>
+  </state>
+  <state>
+    <id>1009</id>
+    <name>Innlandet</name>
+    <country_id>165</country_id>
+    <country_code>NO</country_code>
+    <country_name>Norway</country_name>
+    <state_code>34</state_code>
+    <type>county</type>
+    <latitude>61.19357870</latitude>
+    <longitude>5.50832660</longitude>
   </state>
   <state>
     <id>1026</id>
@@ -33315,7 +33007,7 @@
     <country_code>NO</country_code>
     <country_name>Norway</country_name>
     <state_code>22</state_code>
-    <type></type>
+    <type>arctic region</type>
     <latitude>71.03181800</latitude>
     <longitude>-8.29203460</longitude>
   </state>
@@ -33326,20 +33018,9 @@
     <country_code>NO</country_code>
     <country_name>Norway</country_name>
     <state_code>15</state_code>
-    <type></type>
+    <type>county</type>
     <latitude>62.84068330</latitude>
     <longitude>7.00714300</longitude>
-  </state>
-  <state>
-    <id>1012</id>
-    <name>Nord-Trøndelag</name>
-    <country_id>165</country_id>
-    <country_code>NO</country_code>
-    <country_name>Norway</country_name>
-    <state_code>17</state_code>
-    <type></type>
-    <latitude>64.43707920</latitude>
-    <longitude>11.74629500</longitude>
   </state>
   <state>
     <id>1025</id>
@@ -33348,20 +33029,9 @@
     <country_code>NO</country_code>
     <country_name>Norway</country_name>
     <state_code>18</state_code>
-    <type></type>
+    <type>county</type>
     <latitude>67.69305800</latitude>
     <longitude>12.70739360</longitude>
-  </state>
-  <state>
-    <id>1009</id>
-    <name>Oppland</name>
-    <country_id>165</country_id>
-    <country_code>NO</country_code>
-    <country_name>Norway</country_name>
-    <state_code>05</state_code>
-    <type></type>
-    <latitude>61.54227520</latitude>
-    <longitude>9.71663150</longitude>
   </state>
   <state>
     <id>1007</id>
@@ -33370,20 +33040,9 @@
     <country_code>NO</country_code>
     <country_name>Norway</country_name>
     <state_code>03</state_code>
-    <type></type>
+    <type>county</type>
     <latitude>59.91386880</latitude>
     <longitude>10.75224540</longitude>
-  </state>
-  <state>
-    <id>1022</id>
-    <name>Østfold</name>
-    <country_id>165</country_id>
-    <country_code>NO</country_code>
-    <country_name>Norway</country_name>
-    <state_code>01</state_code>
-    <type></type>
-    <latitude>59.25582860</latitude>
-    <longitude>11.32790060</longitude>
   </state>
   <state>
     <id>1021</id>
@@ -33392,31 +33051,9 @@
     <country_code>NO</country_code>
     <country_name>Norway</country_name>
     <state_code>11</state_code>
-    <type></type>
+    <type>county</type>
     <latitude>59.14895440</latitude>
     <longitude>6.01434320</longitude>
-  </state>
-  <state>
-    <id>1018</id>
-    <name>Sogn og Fjordane</name>
-    <country_id>165</country_id>
-    <country_code>NO</country_code>
-    <country_name>Norway</country_name>
-    <state_code>14</state_code>
-    <type></type>
-    <latitude>61.55394350</latitude>
-    <longitude>6.33258790</longitude>
-  </state>
-  <state>
-    <id>1010</id>
-    <name>Sør-Trøndelag</name>
-    <country_id>165</country_id>
-    <country_code>NO</country_code>
-    <country_name>Norway</country_name>
-    <state_code>16</state_code>
-    <type></type>
-    <latitude>63.01368230</latitude>
-    <longitude>10.34871360</longitude>
   </state>
   <state>
     <id>1013</id>
@@ -33425,31 +33062,20 @@
     <country_code>NO</country_code>
     <country_name>Norway</country_name>
     <state_code>21</state_code>
-    <type></type>
+    <type>arctic region</type>
     <latitude>77.87497250</latitude>
     <longitude>20.97518210</longitude>
   </state>
   <state>
-    <id>1024</id>
-    <name>Telemark</name>
-    <country_id>165</country_id>
-    <country_code>NO</country_code>
-    <country_name>Norway</country_name>
-    <state_code>08</state_code>
-    <type></type>
-    <latitude>59.39139850</latitude>
-    <longitude>8.32112090</longitude>
-  </state>
-  <state>
     <id>1015</id>
-    <name>Troms</name>
+    <name>Troms og Finnmark</name>
     <country_id>165</country_id>
     <country_code>NO</country_code>
     <country_name>Norway</country_name>
-    <state_code>19</state_code>
-    <type></type>
-    <latitude>69.81782420</latitude>
-    <longitude>18.78193650</longitude>
+    <state_code>54</state_code>
+    <type>county</type>
+    <latitude>69.77890670</latitude>
+    <longitude>18.99401840</longitude>
   </state>
   <state>
     <id>1006</id>
@@ -33458,31 +33084,42 @@
     <country_code>NO</country_code>
     <country_name>Norway</country_name>
     <state_code>50</state_code>
-    <type></type>
+    <type>county</type>
     <latitude>63.54201250</latitude>
     <longitude>10.93692670</longitude>
   </state>
   <state>
-    <id>1014</id>
-    <name>Vest-Agder</name>
+    <id>1024</id>
+    <name>Vestfold og Telemark</name>
     <country_id>165</country_id>
     <country_code>NO</country_code>
     <country_name>Norway</country_name>
-    <state_code>10</state_code>
-    <type></type>
-    <latitude>58.09990810</latitude>
-    <longitude>6.58698090</longitude>
+    <state_code>38</state_code>
+    <type>county</type>
+    <latitude>59.41174820</latitude>
+    <longitude>7.76471750</longitude>
   </state>
   <state>
-    <id>1008</id>
-    <name>Vestfold</name>
+    <id>1018</id>
+    <name>Vestland</name>
     <country_id>165</country_id>
     <country_code>NO</country_code>
     <country_name>Norway</country_name>
-    <state_code>07</state_code>
-    <type></type>
-    <latitude>59.17078620</latitude>
-    <longitude>10.11443550</longitude>
+    <state_code>46</state_code>
+    <type>county</type>
+    <latitude>60.90694420</latitude>
+    <longitude>3.96270810</longitude>
+  </state>
+  <state>
+    <id>1011</id>
+    <name>Viken</name>
+    <country_id>165</country_id>
+    <country_code>NO</country_code>
+    <country_name>Norway</country_name>
+    <state_code>30</state_code>
+    <type>county</type>
+    <latitude>59.96530050</latitude>
+    <longitude>7.45051440</longitude>
   </state>
   <state>
     <id>3058</id>
@@ -33892,6 +33529,182 @@
     <longitude>132.22391170</longitude>
   </state>
   <state>
+    <id>5118</id>
+    <name>Bethlehem</name>
+    <country_id>169</country_id>
+    <country_code>PS</country_code>
+    <country_name>Palestinian Territory Occupied</country_name>
+    <state_code>BTH</state_code>
+    <type>governorate</type>
+    <latitude>31.70539960</latitude>
+    <longitude>35.19368770</longitude>
+  </state>
+  <state>
+    <id>5119</id>
+    <name>Deir El Balah</name>
+    <country_id>169</country_id>
+    <country_code>PS</country_code>
+    <country_name>Palestinian Territory Occupied</country_name>
+    <state_code>DEB</state_code>
+    <type>governorate</type>
+    <latitude></latitude>
+    <longitude></longitude>
+  </state>
+  <state>
+    <id>5120</id>
+    <name>Gaza</name>
+    <country_id>169</country_id>
+    <country_code>PS</country_code>
+    <country_name>Palestinian Territory Occupied</country_name>
+    <state_code>GZA</state_code>
+    <type>governorate</type>
+    <latitude></latitude>
+    <longitude></longitude>
+  </state>
+  <state>
+    <id>5121</id>
+    <name>Hebron</name>
+    <country_id>169</country_id>
+    <country_code>PS</country_code>
+    <country_name>Palestinian Territory Occupied</country_name>
+    <state_code>HBN</state_code>
+    <type>governorate</type>
+    <latitude>31.53260010</latitude>
+    <longitude>35.06394750</longitude>
+  </state>
+  <state>
+    <id>5122</id>
+    <name>Jenin</name>
+    <country_id>169</country_id>
+    <country_code>PS</country_code>
+    <country_name>Palestinian Territory Occupied</country_name>
+    <state_code>JEN</state_code>
+    <type>governorate</type>
+    <latitude></latitude>
+    <longitude></longitude>
+  </state>
+  <state>
+    <id>5123</id>
+    <name>Jericho and Al Aghwar</name>
+    <country_id>169</country_id>
+    <country_code>PS</country_code>
+    <country_name>Palestinian Territory Occupied</country_name>
+    <state_code>JRH</state_code>
+    <type>governorate</type>
+    <latitude></latitude>
+    <longitude></longitude>
+  </state>
+  <state>
+    <id>5124</id>
+    <name>Jerusalem</name>
+    <country_id>169</country_id>
+    <country_code>PS</country_code>
+    <country_name>Palestinian Territory Occupied</country_name>
+    <state_code>JEM</state_code>
+    <type>governorate</type>
+    <latitude></latitude>
+    <longitude></longitude>
+  </state>
+  <state>
+    <id>5125</id>
+    <name>Khan Yunis</name>
+    <country_id>169</country_id>
+    <country_code>PS</country_code>
+    <country_name>Palestinian Territory Occupied</country_name>
+    <state_code>KYS</state_code>
+    <type>governorate</type>
+    <latitude></latitude>
+    <longitude></longitude>
+  </state>
+  <state>
+    <id>5126</id>
+    <name>Nablus</name>
+    <country_id>169</country_id>
+    <country_code>PS</country_code>
+    <country_name>Palestinian Territory Occupied</country_name>
+    <state_code>NBS</state_code>
+    <type>governorate</type>
+    <latitude></latitude>
+    <longitude></longitude>
+  </state>
+  <state>
+    <id>5127</id>
+    <name>North Gaza</name>
+    <country_id>169</country_id>
+    <country_code>PS</country_code>
+    <country_name>Palestinian Territory Occupied</country_name>
+    <state_code>NGZ</state_code>
+    <type>governorate</type>
+    <latitude></latitude>
+    <longitude></longitude>
+  </state>
+  <state>
+    <id>5128</id>
+    <name>Qalqilya</name>
+    <country_id>169</country_id>
+    <country_code>PS</country_code>
+    <country_name>Palestinian Territory Occupied</country_name>
+    <state_code>QQA</state_code>
+    <type>governorate</type>
+    <latitude></latitude>
+    <longitude></longitude>
+  </state>
+  <state>
+    <id>5129</id>
+    <name>Rafah</name>
+    <country_id>169</country_id>
+    <country_code>PS</country_code>
+    <country_name>Palestinian Territory Occupied</country_name>
+    <state_code>RFH</state_code>
+    <type>governorate</type>
+    <latitude></latitude>
+    <longitude></longitude>
+  </state>
+  <state>
+    <id>5130</id>
+    <name>Ramallah</name>
+    <country_id>169</country_id>
+    <country_code>PS</country_code>
+    <country_name>Palestinian Territory Occupied</country_name>
+    <state_code>RBH</state_code>
+    <type>governorate</type>
+    <latitude></latitude>
+    <longitude></longitude>
+  </state>
+  <state>
+    <id>5131</id>
+    <name>Salfit</name>
+    <country_id>169</country_id>
+    <country_code>PS</country_code>
+    <country_name>Palestinian Territory Occupied</country_name>
+    <state_code>SLT</state_code>
+    <type>governorate</type>
+    <latitude></latitude>
+    <longitude></longitude>
+  </state>
+  <state>
+    <id>5132</id>
+    <name>Tubas</name>
+    <country_id>169</country_id>
+    <country_code>PS</country_code>
+    <country_name>Palestinian Territory Occupied</country_name>
+    <state_code>TBS</state_code>
+    <type>governorate</type>
+    <latitude></latitude>
+    <longitude></longitude>
+  </state>
+  <state>
+    <id>5133</id>
+    <name>Tulkarm</name>
+    <country_id>169</country_id>
+    <country_code>PS</country_code>
+    <country_name>Palestinian Territory Occupied</country_name>
+    <state_code>TKM</state_code>
+    <type>governorate</type>
+    <latitude></latitude>
+    <longitude></longitude>
+  </state>
+  <state>
     <id>1393</id>
     <name>Bocas del Toro Province</name>
     <country_id>170</country_id>
@@ -34039,7 +33852,7 @@
     <name>Bougainville</name>
     <country_id>171</country_id>
     <country_code>PG</country_code>
-    <country_name>Papua new Guinea</country_name>
+    <country_name>Papua New Guinea</country_name>
     <state_code>NSB</state_code>
     <type></type>
     <latitude>-6.37539190</latitude>
@@ -34050,7 +33863,7 @@
     <name>Central Province</name>
     <country_id>171</country_id>
     <country_code>PG</country_code>
-    <country_name>Papua new Guinea</country_name>
+    <country_name>Papua New Guinea</country_name>
     <state_code>CPM</state_code>
     <type></type>
     <latitude></latitude>
@@ -34061,7 +33874,7 @@
     <name>Chimbu Province</name>
     <country_id>171</country_id>
     <country_code>PG</country_code>
-    <country_name>Papua new Guinea</country_name>
+    <country_name>Papua New Guinea</country_name>
     <state_code>CPK</state_code>
     <type></type>
     <latitude>-6.30876820</latitude>
@@ -34072,7 +33885,7 @@
     <name>East New Britain</name>
     <country_id>171</country_id>
     <country_code>PG</country_code>
-    <country_name>Papua new Guinea</country_name>
+    <country_name>Papua New Guinea</country_name>
     <state_code>EBR</state_code>
     <type></type>
     <latitude>-4.61289430</latitude>
@@ -34083,7 +33896,7 @@
     <name>Eastern Highlands Province</name>
     <country_id>171</country_id>
     <country_code>PG</country_code>
-    <country_name>Papua new Guinea</country_name>
+    <country_name>Papua New Guinea</country_name>
     <state_code>EHG</state_code>
     <type></type>
     <latitude>-6.58616740</latitude>
@@ -34094,7 +33907,7 @@
     <name>Enga Province</name>
     <country_id>171</country_id>
     <country_code>PG</country_code>
-    <country_name>Papua new Guinea</country_name>
+    <country_name>Papua New Guinea</country_name>
     <state_code>EPW</state_code>
     <type></type>
     <latitude>-5.30058490</latitude>
@@ -34105,7 +33918,7 @@
     <name>Gulf</name>
     <country_id>171</country_id>
     <country_code>PG</country_code>
-    <country_name>Papua new Guinea</country_name>
+    <country_name>Papua New Guinea</country_name>
     <state_code>GPK</state_code>
     <type></type>
     <latitude>37.05483150</latitude>
@@ -34116,7 +33929,7 @@
     <name>Hela</name>
     <country_id>171</country_id>
     <country_code>PG</country_code>
-    <country_name>Papua new Guinea</country_name>
+    <country_name>Papua New Guinea</country_name>
     <state_code>HLA</state_code>
     <type></type>
     <latitude>42.33295160</latitude>
@@ -34127,7 +33940,7 @@
     <name>Jiwaka Province</name>
     <country_id>171</country_id>
     <country_code>PG</country_code>
-    <country_name>Papua new Guinea</country_name>
+    <country_name>Papua New Guinea</country_name>
     <state_code>JWK</state_code>
     <type></type>
     <latitude>-5.86911540</latitude>
@@ -34138,7 +33951,7 @@
     <name>Madang Province</name>
     <country_id>171</country_id>
     <country_code>PG</country_code>
-    <country_name>Papua new Guinea</country_name>
+    <country_name>Papua New Guinea</country_name>
     <state_code>MPM</state_code>
     <type></type>
     <latitude>-4.98497330</latitude>
@@ -34149,7 +33962,7 @@
     <name>Manus Province</name>
     <country_id>171</country_id>
     <country_code>PG</country_code>
-    <country_name>Papua new Guinea</country_name>
+    <country_name>Papua New Guinea</country_name>
     <state_code>MRL</state_code>
     <type></type>
     <latitude>-2.09411690</latitude>
@@ -34160,7 +33973,7 @@
     <name>Milne Bay Province</name>
     <country_id>171</country_id>
     <country_code>PG</country_code>
-    <country_name>Papua new Guinea</country_name>
+    <country_name>Papua New Guinea</country_name>
     <state_code>MBA</state_code>
     <type></type>
     <latitude>-9.52214510</latitude>
@@ -34171,7 +33984,7 @@
     <name>Morobe Province</name>
     <country_id>171</country_id>
     <country_code>PG</country_code>
-    <country_name>Papua new Guinea</country_name>
+    <country_name>Papua New Guinea</country_name>
     <state_code>MPL</state_code>
     <type></type>
     <latitude>-6.80137370</latitude>
@@ -34182,7 +33995,7 @@
     <name>New Ireland Province</name>
     <country_id>171</country_id>
     <country_code>PG</country_code>
-    <country_name>Papua new Guinea</country_name>
+    <country_name>Papua New Guinea</country_name>
     <state_code>NIK</state_code>
     <type></type>
     <latitude>-4.28532560</latitude>
@@ -34193,7 +34006,7 @@
     <name>Oro Province</name>
     <country_id>171</country_id>
     <country_code>PG</country_code>
-    <country_name>Papua new Guinea</country_name>
+    <country_name>Papua New Guinea</country_name>
     <state_code>NPP</state_code>
     <type></type>
     <latitude>-8.89880630</latitude>
@@ -34204,7 +34017,7 @@
     <name>Port Moresby</name>
     <country_id>171</country_id>
     <country_code>PG</country_code>
-    <country_name>Papua new Guinea</country_name>
+    <country_name>Papua New Guinea</country_name>
     <state_code>NCD</state_code>
     <type></type>
     <latitude>-9.44380040</latitude>
@@ -34215,7 +34028,7 @@
     <name>Sandaun Province</name>
     <country_id>171</country_id>
     <country_code>PG</country_code>
-    <country_name>Papua new Guinea</country_name>
+    <country_name>Papua New Guinea</country_name>
     <state_code>SAN</state_code>
     <type></type>
     <latitude>-3.71261790</latitude>
@@ -34226,7 +34039,7 @@
     <name>Southern Highlands Province</name>
     <country_id>171</country_id>
     <country_code>PG</country_code>
-    <country_name>Papua new Guinea</country_name>
+    <country_name>Papua New Guinea</country_name>
     <state_code>SHM</state_code>
     <type></type>
     <latitude>-6.41790830</latitude>
@@ -34237,7 +34050,7 @@
     <name>West New Britain Province</name>
     <country_id>171</country_id>
     <country_code>PG</country_code>
-    <country_name>Papua new Guinea</country_name>
+    <country_name>Papua New Guinea</country_name>
     <state_code>WBK</state_code>
     <type></type>
     <latitude>-5.70474320</latitude>
@@ -34248,7 +34061,7 @@
     <name>Western Highlands Province</name>
     <country_id>171</country_id>
     <country_code>PG</country_code>
-    <country_name>Papua new Guinea</country_name>
+    <country_name>Papua New Guinea</country_name>
     <state_code>WHM</state_code>
     <type></type>
     <latitude>-5.62681280</latitude>
@@ -34259,7 +34072,7 @@
     <name>Western Province</name>
     <country_id>171</country_id>
     <country_code>PG</country_code>
-    <country_name>Papua new Guinea</country_name>
+    <country_name>Papua New Guinea</country_name>
     <state_code>WPD</state_code>
     <type></type>
     <latitude></latitude>
@@ -34297,6 +34110,17 @@
     <type></type>
     <latitude>-22.55902720</latitude>
     <longitude>-56.02499820</longitude>
+  </state>
+  <state>
+    <id>5221</id>
+    <name>Asuncion</name>
+    <country_id>172</country_id>
+    <country_code>PY</country_code>
+    <country_name>Paraguay</country_name>
+    <state_code>ASU</state_code>
+    <type>capital</type>
+    <latitude>-25.29682970</latitude>
+    <longitude>-57.68066230</longitude>
   </state>
   <state>
     <id>2780</id>
@@ -36202,15 +36026,136 @@
     <longitude>-7.91475600</longitude>
   </state>
   <state>
+    <id>5134</id>
+    <name>Adjuntas</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>001</state_code>
+    <type>municipalities</type>
+    <latitude>18.16348480</latitude>
+    <longitude>-66.72315800</longitude>
+  </state>
+  <state>
+    <id>5135</id>
+    <name>Aguada</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>003</state_code>
+    <type>municipalities</type>
+    <latitude>18.38015790</latitude>
+    <longitude>-67.18870400</longitude>
+  </state>
+  <state>
+    <id>5136</id>
+    <name>Aguadilla</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>005</state_code>
+    <type>municipalities</type>
+    <latitude>18.42744540</latitude>
+    <longitude>-67.15406980</longitude>
+  </state>
+  <state>
+    <id>5137</id>
+    <name>Aguas Buenas</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>007</state_code>
+    <type>municipalities</type>
+    <latitude>18.25689890</latitude>
+    <longitude>-66.10294420</longitude>
+  </state>
+  <state>
+    <id>5138</id>
+    <name>Aibonito</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>009</state_code>
+    <type>municipalities</type>
+    <latitude>18.13995940</latitude>
+    <longitude>-66.26600160</longitude>
+  </state>
+  <state>
+    <id>5139</id>
+    <name>Añasco</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>011</state_code>
+    <type>municipalities</type>
+    <latitude>18.28544760</latitude>
+    <longitude>-67.14029350</longitude>
+  </state>
+  <state>
+    <id>5140</id>
+    <name>Arecibo</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>013</state_code>
+    <type>municipalities</type>
+    <latitude>18.47051370</latitude>
+    <longitude>-66.72184720</longitude>
+  </state>
+  <state>
     <id>5081</id>
     <name>Arecibo</name>
     <country_id>178</country_id>
     <country_code>PR</country_code>
     <country_name>Puerto Rico</country_name>
     <state_code>AR</state_code>
-    <type>state</type>
+    <type>region</type>
     <latitude>18.47055556</latitude>
     <longitude>-66.72083333</longitude>
+  </state>
+  <state>
+    <id>5141</id>
+    <name>Arroyo</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>015</state_code>
+    <type>municipalities</type>
+    <latitude>17.99642200</latitude>
+    <longitude>-66.09248790</longitude>
+  </state>
+  <state>
+    <id>5142</id>
+    <name>Barceloneta</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>017</state_code>
+    <type>municipalities</type>
+    <latitude>41.38010610</latitude>
+    <longitude>2.18969570</longitude>
+  </state>
+  <state>
+    <id>5143</id>
+    <name>Barranquitas</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>019</state_code>
+    <type>municipalities</type>
+    <latitude>18.18662420</latitude>
+    <longitude>-66.30628020</longitude>
+  </state>
+  <state>
+    <id>5144</id>
+    <name>Bayamón</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>021</state_code>
+    <type>municipalities</type>
+    <latitude>18.38939600</latitude>
+    <longitude>-66.16532240</longitude>
   </state>
   <state>
     <id>5076</id>
@@ -36219,9 +36164,31 @@
     <country_code>PR</country_code>
     <country_name>Puerto Rico</country_name>
     <state_code>BY</state_code>
-    <type>state</type>
+    <type>region</type>
     <latitude>18.17777778</latitude>
     <longitude>-66.11333333</longitude>
+  </state>
+  <state>
+    <id>5145</id>
+    <name>Cabo Rojo</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>023</state_code>
+    <type>municipalities</type>
+    <latitude>18.08662650</latitude>
+    <longitude>-67.14573470</longitude>
+  </state>
+  <state>
+    <id>5146</id>
+    <name>Caguas</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>025</state_code>
+    <type>municipalities</type>
+    <latitude>18.23879950</latitude>
+    <longitude>-66.03524900</longitude>
   </state>
   <state>
     <id>5079</id>
@@ -36230,9 +36197,42 @@
     <country_code>PR</country_code>
     <country_name>Puerto Rico</country_name>
     <state_code>CG</state_code>
-    <type>state</type>
+    <type>region</type>
     <latitude>18.23333333</latitude>
     <longitude>-66.03333333</longitude>
+  </state>
+  <state>
+    <id>5147</id>
+    <name>Camuy</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>027</state_code>
+    <type>municipalities</type>
+    <latitude>18.48383300</latitude>
+    <longitude>-66.84489940</longitude>
+  </state>
+  <state>
+    <id>5148</id>
+    <name>Canóvanas</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>029</state_code>
+    <type>municipalities</type>
+    <latitude>18.37487480</latitude>
+    <longitude>-65.89975330</longitude>
+  </state>
+  <state>
+    <id>5149</id>
+    <name>Carolina</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>031</state_code>
+    <type>municipalities</type>
+    <latitude>18.36808770</latitude>
+    <longitude>-66.04247340</longitude>
   </state>
   <state>
     <id>5077</id>
@@ -36241,9 +36241,185 @@
     <country_code>PR</country_code>
     <country_name>Puerto Rico</country_name>
     <state_code>CL</state_code>
-    <type>state</type>
+    <type>region</type>
     <latitude>18.38888889</latitude>
     <longitude>-65.96666667</longitude>
+  </state>
+  <state>
+    <id>5150</id>
+    <name>Cataño</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>033</state_code>
+    <type>municipalities</type>
+    <latitude>18.44653550</latitude>
+    <longitude>-66.13557750</longitude>
+  </state>
+  <state>
+    <id>5151</id>
+    <name>Cayey</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>035</state_code>
+    <type>municipalities</type>
+    <latitude>18.11190510</latitude>
+    <longitude>-66.16600000</longitude>
+  </state>
+  <state>
+    <id>5152</id>
+    <name>Ceiba</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>037</state_code>
+    <type>municipalities</type>
+    <latitude>18.24751770</latitude>
+    <longitude>-65.90849530</longitude>
+  </state>
+  <state>
+    <id>5153</id>
+    <name>Ciales</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>039</state_code>
+    <type>municipalities</type>
+    <latitude>18.33606220</latitude>
+    <longitude>-66.46878230</longitude>
+  </state>
+  <state>
+    <id>5154</id>
+    <name>Cidra</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>041</state_code>
+    <type>municipalities</type>
+    <latitude>18.17579140</latitude>
+    <longitude>-66.16127790</longitude>
+  </state>
+  <state>
+    <id>5155</id>
+    <name>Coamo</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>043</state_code>
+    <type>municipalities</type>
+    <latitude>18.07996160</latitude>
+    <longitude>-66.35794730</longitude>
+  </state>
+  <state>
+    <id>5156</id>
+    <name>Comerío</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>045</state_code>
+    <type>municipalities</type>
+    <latitude>18.21920010</latitude>
+    <longitude>-66.22560220</longitude>
+  </state>
+  <state>
+    <id>5157</id>
+    <name>Corozal</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>047</state_code>
+    <type>municipalities</type>
+    <latitude>18.40308020</latitude>
+    <longitude>-88.39675360</longitude>
+  </state>
+  <state>
+    <id>5158</id>
+    <name>Culebra</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>049</state_code>
+    <type>municipalities</type>
+    <latitude>18.31039400</latitude>
+    <longitude>-65.30307050</longitude>
+  </state>
+  <state>
+    <id>5159</id>
+    <name>Dorado</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>051</state_code>
+    <type>municipalities</type>
+    <latitude>43.14805560</latitude>
+    <longitude>-77.57722220</longitude>
+  </state>
+  <state>
+    <id>5160</id>
+    <name>Fajardo</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>053</state_code>
+    <type>municipalities</type>
+    <latitude>18.32521480</latitude>
+    <longitude>-65.65393560</longitude>
+  </state>
+  <state>
+    <id>5161</id>
+    <name>Florida</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>054</state_code>
+    <type>municipalities</type>
+    <latitude>27.66482740</latitude>
+    <longitude>-81.51575350</longitude>
+  </state>
+  <state>
+    <id>5162</id>
+    <name>Guánica</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>055</state_code>
+    <type>municipalities</type>
+    <latitude>17.97251450</latitude>
+    <longitude>-66.90862640</longitude>
+  </state>
+  <state>
+    <id>5163</id>
+    <name>Guayama</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>057</state_code>
+    <type>municipalities</type>
+    <latitude>17.98413280</latitude>
+    <longitude>-66.11377670</longitude>
+  </state>
+  <state>
+    <id>5164</id>
+    <name>Guayanilla</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>059</state_code>
+    <type>municipalities</type>
+    <latitude>18.01913140</latitude>
+    <longitude>-66.79184200</longitude>
+  </state>
+  <state>
+    <id>5165</id>
+    <name>Guaynabo</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>061</state_code>
+    <type>municipalities</type>
+    <latitude>18.36129540</latitude>
+    <longitude>-66.11029570</longitude>
   </state>
   <state>
     <id>5080</id>
@@ -36252,9 +36428,207 @@
     <country_code>PR</country_code>
     <country_name>Puerto Rico</country_name>
     <state_code>GN</state_code>
-    <type>state</type>
+    <type>region</type>
     <latitude>18.36666667</latitude>
     <longitude>-66.10000000</longitude>
+  </state>
+  <state>
+    <id>5166</id>
+    <name>Gurabo</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>063</state_code>
+    <type>municipalities</type>
+    <latitude>18.25439870</latitude>
+    <longitude>-65.97294210</longitude>
+  </state>
+  <state>
+    <id>5167</id>
+    <name>Hatillo</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>065</state_code>
+    <type>municipalities</type>
+    <latitude>18.42846420</latitude>
+    <longitude>-66.78753210</longitude>
+  </state>
+  <state>
+    <id>5168</id>
+    <name>Hormigueros</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>067</state_code>
+    <type>municipalities</type>
+    <latitude>18.13346380</latitude>
+    <longitude>-67.11281230</longitude>
+  </state>
+  <state>
+    <id>5169</id>
+    <name>Humacao</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>069</state_code>
+    <type>municipalities</type>
+    <latitude>18.15157360</latitude>
+    <longitude>-65.82485290</longitude>
+  </state>
+  <state>
+    <id>5170</id>
+    <name>Isabela</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>071</state_code>
+    <type>municipalities</type>
+    <latitude>16.97537580</latitude>
+    <longitude>121.81070790</longitude>
+  </state>
+  <state>
+    <id>5171</id>
+    <name>Jayuya</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>073</state_code>
+    <type>municipalities</type>
+    <latitude>18.21856740</latitude>
+    <longitude>-66.59156170</longitude>
+  </state>
+  <state>
+    <id>5172</id>
+    <name>Juana Díaz</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>075</state_code>
+    <type>municipalities</type>
+    <latitude>18.05343720</latitude>
+    <longitude>-66.50750790</longitude>
+  </state>
+  <state>
+    <id>5173</id>
+    <name>Juncos</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>077</state_code>
+    <type>municipalities</type>
+    <latitude>18.22745580</latitude>
+    <longitude>-65.92099700</longitude>
+  </state>
+  <state>
+    <id>5174</id>
+    <name>Lajas</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>079</state_code>
+    <type>municipalities</type>
+    <latitude>18.04996200</latitude>
+    <longitude>-67.05934490</longitude>
+  </state>
+  <state>
+    <id>5175</id>
+    <name>Lares</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>081</state_code>
+    <type>municipalities</type>
+    <latitude>34.02508020</latitude>
+    <longitude>-118.45945930</longitude>
+  </state>
+  <state>
+    <id>5176</id>
+    <name>Las Marías</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>083</state_code>
+    <type>municipalities</type>
+    <latitude>35.83822380</latitude>
+    <longitude>-78.61035660</longitude>
+  </state>
+  <state>
+    <id>5177</id>
+    <name>Las Piedras</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>085</state_code>
+    <type>municipalities</type>
+    <latitude>18.18557530</latitude>
+    <longitude>-65.87362450</longitude>
+  </state>
+  <state>
+    <id>5178</id>
+    <name>Loíza</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>087</state_code>
+    <type>municipalities</type>
+    <latitude>18.43299040</latitude>
+    <longitude>-65.87836000</longitude>
+  </state>
+  <state>
+    <id>5179</id>
+    <name>Luquillo</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>089</state_code>
+    <type>municipalities</type>
+    <latitude>18.37245070</latitude>
+    <longitude>-65.71655110</longitude>
+  </state>
+  <state>
+    <id>5180</id>
+    <name>Manatí</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>091</state_code>
+    <type>municipalities</type>
+    <latitude>18.41812150</latitude>
+    <longitude>-66.52627830</longitude>
+  </state>
+  <state>
+    <id>5181</id>
+    <name>Maricao</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>093</state_code>
+    <type>municipalities</type>
+    <latitude>18.18079020</latitude>
+    <longitude>-66.97990010</longitude>
+  </state>
+  <state>
+    <id>5182</id>
+    <name>Maunabo</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>095</state_code>
+    <type>municipalities</type>
+    <latitude>18.00718850</latitude>
+    <longitude>-65.89932890</longitude>
+  </state>
+  <state>
+    <id>5183</id>
+    <name>Mayagüez</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>097</state_code>
+    <type>municipalities</type>
+    <latitude>18.20134520</latitude>
+    <longitude>-67.14515490</longitude>
   </state>
   <state>
     <id>5083</id>
@@ -36263,9 +36637,97 @@
     <country_code>PR</country_code>
     <country_name>Puerto Rico</country_name>
     <state_code>MG</state_code>
-    <type>state</type>
+    <type>region</type>
     <latitude>18.20111111</latitude>
     <longitude>-67.13972222</longitude>
+  </state>
+  <state>
+    <id>5184</id>
+    <name>Moca</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>099</state_code>
+    <type>municipalities</type>
+    <latitude>18.39679290</latitude>
+    <longitude>-67.14790350</longitude>
+  </state>
+  <state>
+    <id>5185</id>
+    <name>Morovis</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>101</state_code>
+    <type>municipalities</type>
+    <latitude>18.32578500</latitude>
+    <longitude>-66.40655920</longitude>
+  </state>
+  <state>
+    <id>5186</id>
+    <name>Naguabo</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>103</state_code>
+    <type>municipalities</type>
+    <latitude>18.21162470</latitude>
+    <longitude>-65.73488410</longitude>
+  </state>
+  <state>
+    <id>5187</id>
+    <name>Naranjito</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>105</state_code>
+    <type>municipalities</type>
+    <latitude>18.30078610</latitude>
+    <longitude>-66.24489040</longitude>
+  </state>
+  <state>
+    <id>5188</id>
+    <name>Orocovis</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>107</state_code>
+    <type>municipalities</type>
+    <latitude>18.22692240</latitude>
+    <longitude>-66.39116860</longitude>
+  </state>
+  <state>
+    <id>5189</id>
+    <name>Patillas</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>109</state_code>
+    <type>municipalities</type>
+    <latitude>18.00373810</latitude>
+    <longitude>-66.01340590</longitude>
+  </state>
+  <state>
+    <id>5190</id>
+    <name>Peñuelas</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>111</state_code>
+    <type>municipalities</type>
+    <latitude>18.06335770</latitude>
+    <longitude>-66.72738960</longitude>
+  </state>
+  <state>
+    <id>5191</id>
+    <name>Ponce</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>113</state_code>
+    <type>municipalities</type>
+    <latitude>18.01107680</latitude>
+    <longitude>-66.61406160</longitude>
   </state>
   <state>
     <id>5078</id>
@@ -36274,9 +36736,86 @@
     <country_code>PR</country_code>
     <country_name>Puerto Rico</country_name>
     <state_code>PO</state_code>
-    <type>state</type>
+    <type>region</type>
     <latitude>18.00000000</latitude>
     <longitude>-66.61666667</longitude>
+  </state>
+  <state>
+    <id>5192</id>
+    <name>Quebradillas</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>115</state_code>
+    <type>municipalities</type>
+    <latitude>18.47383300</latitude>
+    <longitude>-66.93851200</longitude>
+  </state>
+  <state>
+    <id>5193</id>
+    <name>Rincón</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>117</state_code>
+    <type>municipalities</type>
+    <latitude>18.34015140</latitude>
+    <longitude>-67.24994590</longitude>
+  </state>
+  <state>
+    <id>5194</id>
+    <name>Río Grande</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>119</state_code>
+    <type>municipalities</type>
+    <latitude>28.81063826</latitude>
+    <longitude>-101.83538780</longitude>
+  </state>
+  <state>
+    <id>5195</id>
+    <name>Sabana Grande</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>121</state_code>
+    <type>municipalities</type>
+    <latitude>18.07773920</latitude>
+    <longitude>-66.96045490</longitude>
+  </state>
+  <state>
+    <id>5196</id>
+    <name>Salinas</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>123</state_code>
+    <type>municipalities</type>
+    <latitude>36.67773720</latitude>
+    <longitude>-121.65550130</longitude>
+  </state>
+  <state>
+    <id>5197</id>
+    <name>San Germán</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>125</state_code>
+    <type>municipalities</type>
+    <latitude>18.08070820</latitude>
+    <longitude>-67.04110960</longitude>
+  </state>
+  <state>
+    <id>5198</id>
+    <name>San Juan</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>127</state_code>
+    <type>municipalities</type>
+    <latitude>18.46320300</latitude>
+    <longitude>-66.11475710</longitude>
   </state>
   <state>
     <id>5075</id>
@@ -36285,9 +36824,64 @@
     <country_code>PR</country_code>
     <country_name>Puerto Rico</country_name>
     <state_code>SJ</state_code>
-    <type>state</type>
+    <type>region</type>
     <latitude>18.45000000</latitude>
     <longitude>-66.06666667</longitude>
+  </state>
+  <state>
+    <id>5199</id>
+    <name>San Lorenzo</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>129</state_code>
+    <type>municipalities</type>
+    <latitude>18.18869120</latitude>
+    <longitude>-65.97658620</longitude>
+  </state>
+  <state>
+    <id>5200</id>
+    <name>San Sebastián</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>131</state_code>
+    <type>municipalities</type>
+    <latitude>43.31833400</latitude>
+    <longitude>-1.98123130</longitude>
+  </state>
+  <state>
+    <id>5201</id>
+    <name>Santa Isabel</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>133</state_code>
+    <type>municipalities</type>
+    <latitude>17.96607750</latitude>
+    <longitude>-66.40489200</longitude>
+  </state>
+  <state>
+    <id>5202</id>
+    <name>Toa Alta</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>135</state_code>
+    <type>municipalities</type>
+    <latitude>18.38828230</latitude>
+    <longitude>-66.24822370</longitude>
+  </state>
+  <state>
+    <id>5203</id>
+    <name>Toa Baja</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>137</state_code>
+    <type>municipalities</type>
+    <latitude>18.44447090</latitude>
+    <longitude>-66.25432930</longitude>
   </state>
   <state>
     <id>5082</id>
@@ -36296,9 +36890,20 @@
     <country_code>PR</country_code>
     <country_name>Puerto Rico</country_name>
     <state_code>TB</state_code>
-    <type>state</type>
+    <type>region</type>
     <latitude>18.44388900</latitude>
     <longitude>-66.25972200</longitude>
+  </state>
+  <state>
+    <id>5204</id>
+    <name>Trujillo Alto</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>139</state_code>
+    <type>municipalities</type>
+    <latitude>18.35467190</latitude>
+    <longitude>-66.00738760</longitude>
   </state>
   <state>
     <id>5084</id>
@@ -36307,9 +36912,86 @@
     <country_code>PR</country_code>
     <country_name>Puerto Rico</country_name>
     <state_code>TA</state_code>
-    <type>state</type>
+    <type>region</type>
     <latitude>18.36277800</latitude>
     <longitude>-66.01750000</longitude>
+  </state>
+  <state>
+    <id>5205</id>
+    <name>Utuado</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>141</state_code>
+    <type>municipalities</type>
+    <latitude>18.26550950</latitude>
+    <longitude>-66.70045190</longitude>
+  </state>
+  <state>
+    <id>5206</id>
+    <name>Vega Alta</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>143</state_code>
+    <type>municipalities</type>
+    <latitude>18.41217030</latitude>
+    <longitude>-66.33128050</longitude>
+  </state>
+  <state>
+    <id>5207</id>
+    <name>Vega Baja</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>145</state_code>
+    <type>municipalities</type>
+    <latitude>18.44614590</latitude>
+    <longitude>-66.40419670</longitude>
+  </state>
+  <state>
+    <id>5208</id>
+    <name>Vieques</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>147</state_code>
+    <type>municipalities</type>
+    <latitude>18.12628540</latitude>
+    <longitude>-65.44009850</longitude>
+  </state>
+  <state>
+    <id>5209</id>
+    <name>Villalba</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>149</state_code>
+    <type>municipalities</type>
+    <latitude>18.12175540</latitude>
+    <longitude>-66.49857870</longitude>
+  </state>
+  <state>
+    <id>5210</id>
+    <name>Yabucoa</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>151</state_code>
+    <type>municipalities</type>
+    <latitude>18.05052010</latitude>
+    <longitude>-65.87932880</longitude>
+  </state>
+  <state>
+    <id>5211</id>
+    <name>Yauco</name>
+    <country_id>178</country_id>
+    <country_code>PR</country_code>
+    <country_name>Puerto Rico</country_name>
+    <state_code>153</state_code>
+    <type>municipalities</type>
+    <latitude>18.03496400</latitude>
+    <longitude>-66.84989830</longitude>
   </state>
   <state>
     <id>3182</id>
@@ -37577,17 +38259,6 @@
     <longitude>46.75393970</longitude>
   </state>
   <state>
-    <id>1912</id>
-    <name>Sevastopol</name>
-    <country_id>182</country_id>
-    <country_code>RU</country_code>
-    <country_name>Russia</country_name>
-    <state_code>UA-40</state_code>
-    <type></type>
-    <latitude>44.61665000</latitude>
-    <longitude>33.52536710</longitude>
-  </state>
-  <state>
     <id>1885</id>
     <name>Smolensk Oblast</name>
     <country_id>182</country_id>
@@ -37845,7 +38516,7 @@
     <name>Christ Church Nichola Town Parish</name>
     <country_id>185</country_id>
     <country_code>KN</country_code>
-    <country_name>Saint Kitts And Nevis</country_name>
+    <country_name>Saint Kitts and Nevis</country_name>
     <state_code>01</state_code>
     <type></type>
     <latitude>17.36048120</latitude>
@@ -37856,7 +38527,7 @@
     <name>Nevis</name>
     <country_id>185</country_id>
     <country_code>KN</country_code>
-    <country_name>Saint Kitts And Nevis</country_name>
+    <country_name>Saint Kitts and Nevis</country_name>
     <state_code>N</state_code>
     <type></type>
     <latitude>17.15535580</latitude>
@@ -37867,7 +38538,7 @@
     <name>Saint Anne Sandy Point Parish</name>
     <country_id>185</country_id>
     <country_code>KN</country_code>
-    <country_name>Saint Kitts And Nevis</country_name>
+    <country_name>Saint Kitts and Nevis</country_name>
     <state_code>02</state_code>
     <type></type>
     <latitude>17.37253330</latitude>
@@ -37878,7 +38549,7 @@
     <name>Saint George Gingerland Parish</name>
     <country_id>185</country_id>
     <country_code>KN</country_code>
-    <country_name>Saint Kitts And Nevis</country_name>
+    <country_name>Saint Kitts and Nevis</country_name>
     <state_code>04</state_code>
     <type></type>
     <latitude>17.12577590</latitude>
@@ -37889,7 +38560,7 @@
     <name>Saint James Windward Parish</name>
     <country_id>185</country_id>
     <country_code>KN</country_code>
-    <country_name>Saint Kitts And Nevis</country_name>
+    <country_name>Saint Kitts and Nevis</country_name>
     <state_code>05</state_code>
     <type></type>
     <latitude>17.17696330</latitude>
@@ -37900,7 +38571,7 @@
     <name>Saint John Capisterre Parish</name>
     <country_id>185</country_id>
     <country_code>KN</country_code>
-    <country_name>Saint Kitts And Nevis</country_name>
+    <country_name>Saint Kitts and Nevis</country_name>
     <state_code>06</state_code>
     <type></type>
     <latitude>17.38103410</latitude>
@@ -37911,7 +38582,7 @@
     <name>Saint John Figtree Parish</name>
     <country_id>185</country_id>
     <country_code>KN</country_code>
-    <country_name>Saint Kitts And Nevis</country_name>
+    <country_name>Saint Kitts and Nevis</country_name>
     <state_code>07</state_code>
     <type></type>
     <latitude>17.11557480</latitude>
@@ -37922,7 +38593,7 @@
     <name>Saint Kitts</name>
     <country_id>185</country_id>
     <country_code>KN</country_code>
-    <country_name>Saint Kitts And Nevis</country_name>
+    <country_name>Saint Kitts and Nevis</country_name>
     <state_code>K</state_code>
     <type></type>
     <latitude>17.34337960</latitude>
@@ -37933,7 +38604,7 @@
     <name>Saint Mary Cayon Parish</name>
     <country_id>185</country_id>
     <country_code>KN</country_code>
-    <country_name>Saint Kitts And Nevis</country_name>
+    <country_name>Saint Kitts and Nevis</country_name>
     <state_code>08</state_code>
     <type></type>
     <latitude>17.34620710</latitude>
@@ -37944,7 +38615,7 @@
     <name>Saint Paul Capisterre Parish</name>
     <country_id>185</country_id>
     <country_code>KN</country_code>
-    <country_name>Saint Kitts And Nevis</country_name>
+    <country_name>Saint Kitts and Nevis</country_name>
     <state_code>09</state_code>
     <type></type>
     <latitude>17.40166830</latitude>
@@ -37955,7 +38626,7 @@
     <name>Saint Paul Charlestown Parish</name>
     <country_id>185</country_id>
     <country_code>KN</country_code>
-    <country_name>Saint Kitts And Nevis</country_name>
+    <country_name>Saint Kitts and Nevis</country_name>
     <state_code>10</state_code>
     <type></type>
     <latitude>17.13462970</latitude>
@@ -37966,7 +38637,7 @@
     <name>Saint Peter Basseterre Parish</name>
     <country_id>185</country_id>
     <country_code>KN</country_code>
-    <country_name>Saint Kitts And Nevis</country_name>
+    <country_name>Saint Kitts and Nevis</country_name>
     <state_code>11</state_code>
     <type></type>
     <latitude>17.31029110</latitude>
@@ -37977,7 +38648,7 @@
     <name>Saint Thomas Lowland Parish</name>
     <country_id>185</country_id>
     <country_code>KN</country_code>
-    <country_name>Saint Kitts And Nevis</country_name>
+    <country_name>Saint Kitts and Nevis</country_name>
     <state_code>12</state_code>
     <type></type>
     <latitude>17.16505130</latitude>
@@ -37988,7 +38659,7 @@
     <name>Saint Thomas Middle Island Parish</name>
     <country_id>185</country_id>
     <country_code>KN</country_code>
-    <country_name>Saint Kitts And Nevis</country_name>
+    <country_name>Saint Kitts and Nevis</country_name>
     <state_code>13</state_code>
     <type></type>
     <latitude>17.33488130</latitude>
@@ -37999,7 +38670,7 @@
     <name>Trinity Palmetto Point Parish</name>
     <country_id>185</country_id>
     <country_code>KN</country_code>
-    <country_name>Saint Kitts And Nevis</country_name>
+    <country_name>Saint Kitts and Nevis</country_name>
     <state_code>15</state_code>
     <type></type>
     <latitude>17.30635190</latitude>
@@ -38142,7 +38813,7 @@
     <name>Charlotte Parish</name>
     <country_id>188</country_id>
     <country_code>VC</country_code>
-    <country_name>Saint Vincent And The Grenadines</country_name>
+    <country_name>Saint Vincent and the Grenadines</country_name>
     <state_code>01</state_code>
     <type></type>
     <latitude>13.21754510</latitude>
@@ -38153,7 +38824,7 @@
     <name>Grenadines Parish</name>
     <country_id>188</country_id>
     <country_code>VC</country_code>
-    <country_name>Saint Vincent And The Grenadines</country_name>
+    <country_name>Saint Vincent and the Grenadines</country_name>
     <state_code>06</state_code>
     <type></type>
     <latitude>13.01229650</latitude>
@@ -38164,7 +38835,7 @@
     <name>Saint Andrew Parish</name>
     <country_id>188</country_id>
     <country_code>VC</country_code>
-    <country_name>Saint Vincent And The Grenadines</country_name>
+    <country_name>Saint Vincent and the Grenadines</country_name>
     <state_code>02</state_code>
     <type></type>
     <latitude>43.02429990</latitude>
@@ -38175,7 +38846,7 @@
     <name>Saint David Parish</name>
     <country_id>188</country_id>
     <country_code>VC</country_code>
-    <country_name>Saint Vincent And The Grenadines</country_name>
+    <country_name>Saint Vincent and the Grenadines</country_name>
     <state_code>03</state_code>
     <type></type>
     <latitude>43.85230950</latitude>
@@ -38186,7 +38857,7 @@
     <name>Saint George Parish</name>
     <country_id>188</country_id>
     <country_code>VC</country_code>
-    <country_name>Saint Vincent And The Grenadines</country_name>
+    <country_name>Saint Vincent and the Grenadines</country_name>
     <state_code>04</state_code>
     <type></type>
     <latitude>42.95760900</latitude>
@@ -38197,7 +38868,7 @@
     <name>Saint Patrick Parish</name>
     <country_id>188</country_id>
     <country_code>VC</country_code>
-    <country_name>Saint Vincent And The Grenadines</country_name>
+    <country_name>Saint Vincent and the Grenadines</country_name>
     <state_code>05</state_code>
     <type></type>
     <latitude>39.75091860</latitude>
@@ -38452,7 +39123,7 @@
     <country_code>SA</country_code>
     <country_name>Saudi Arabia</country_name>
     <state_code>14</state_code>
-    <type></type>
+    <type>region</type>
     <latitude>19.09690620</latitude>
     <longitude>42.86378750</longitude>
   </state>
@@ -38463,7 +39134,7 @@
     <country_code>SA</country_code>
     <country_name>Saudi Arabia</country_name>
     <state_code>11</state_code>
-    <type></type>
+    <type>region</type>
     <latitude>20.27227390</latitude>
     <longitude>41.44125100</longitude>
   </state>
@@ -38474,7 +39145,7 @@
     <country_code>SA</country_code>
     <country_name>Saudi Arabia</country_name>
     <state_code>12</state_code>
-    <type></type>
+    <type>region</type>
     <latitude>29.88735600</latitude>
     <longitude>39.32062410</longitude>
   </state>
@@ -38485,7 +39156,7 @@
     <country_code>SA</country_code>
     <country_name>Saudi Arabia</country_name>
     <state_code>03</state_code>
-    <type></type>
+    <type>region</type>
     <latitude>24.84039770</latitude>
     <longitude>39.32062410</longitude>
   </state>
@@ -38496,7 +39167,7 @@
     <country_code>SA</country_code>
     <country_name>Saudi Arabia</country_name>
     <state_code>05</state_code>
-    <type></type>
+    <type>region</type>
     <latitude>26.20782600</latitude>
     <longitude>43.48373800</longitude>
   </state>
@@ -38507,7 +39178,7 @@
     <country_code>SA</country_code>
     <country_name>Saudi Arabia</country_name>
     <state_code>04</state_code>
-    <type></type>
+    <type>region</type>
     <latitude>24.04399320</latitude>
     <longitude>45.65892250</longitude>
   </state>
@@ -38518,7 +39189,7 @@
     <country_code>SA</country_code>
     <country_name>Saudi Arabia</country_name>
     <state_code>06</state_code>
-    <type></type>
+    <type>region</type>
     <latitude>27.70761430</latitude>
     <longitude>41.91964710</longitude>
   </state>
@@ -38529,7 +39200,7 @@
     <country_code>SA</country_code>
     <country_name>Saudi Arabia</country_name>
     <state_code>09</state_code>
-    <type></type>
+    <type>region</type>
     <latitude>17.17381760</latitude>
     <longitude>42.70761070</longitude>
   </state>
@@ -38540,7 +39211,7 @@
     <country_code>SA</country_code>
     <country_name>Saudi Arabia</country_name>
     <state_code>02</state_code>
-    <type></type>
+    <type>region</type>
     <latitude>21.52355840</latitude>
     <longitude>41.91964710</longitude>
   </state>
@@ -38551,7 +39222,7 @@
     <country_code>SA</country_code>
     <country_name>Saudi Arabia</country_name>
     <state_code>10</state_code>
-    <type></type>
+    <type>region</type>
     <latitude>18.35146640</latitude>
     <longitude>45.60071080</longitude>
   </state>
@@ -38562,7 +39233,7 @@
     <country_code>SA</country_code>
     <country_name>Saudi Arabia</country_name>
     <state_code>08</state_code>
-    <type></type>
+    <type>region</type>
     <latitude>30.07991620</latitude>
     <longitude>42.86378750</longitude>
   </state>
@@ -38573,7 +39244,7 @@
     <country_code>SA</country_code>
     <country_name>Saudi Arabia</country_name>
     <state_code>01</state_code>
-    <type></type>
+    <type>region</type>
     <latitude>22.75543850</latitude>
     <longitude>46.20915470</longitude>
   </state>
@@ -38584,7 +39255,7 @@
     <country_code>SA</country_code>
     <country_name>Saudi Arabia</country_name>
     <state_code>07</state_code>
-    <type></type>
+    <type>region</type>
     <latitude>28.24533350</latitude>
     <longitude>37.63866220</longitude>
   </state>
@@ -39338,58 +40009,58 @@
   </state>
   <state>
     <id>4651</id>
-    <name>Central Singapore Community Development Council</name>
+    <name>Central Singapore</name>
     <country_id>199</country_id>
     <country_code>SG</country_code>
     <country_name>Singapore</country_name>
     <state_code>01</state_code>
-    <type></type>
-    <latitude>1.28951400</latitude>
-    <longitude>103.81438790</longitude>
+    <type>district</type>
+    <latitude>1.28840000</latitude>
+    <longitude>103.85350000</longitude>
   </state>
   <state>
     <id>4649</id>
-    <name>North East Community Development Council</name>
+    <name>North East</name>
     <country_id>199</country_id>
     <country_code>SG</country_code>
     <country_name>Singapore</country_name>
     <state_code>02</state_code>
-    <type></type>
-    <latitude>45.01181130</latitude>
-    <longitude>-93.24681070</longitude>
+    <type>district</type>
+    <latitude>1.38240000</latitude>
+    <longitude>103.89720000</longitude>
   </state>
   <state>
     <id>4653</id>
-    <name>North West Community Development Council</name>
+    <name>North West</name>
     <country_id>199</country_id>
     <country_code>SG</country_code>
     <country_name>Singapore</country_name>
     <state_code>03</state_code>
-    <type></type>
-    <latitude>39.10709300</latitude>
-    <longitude>-94.45733600</longitude>
+    <type>district</type>
+    <latitude>1.41800000</latitude>
+    <longitude>103.82750000</longitude>
   </state>
   <state>
     <id>4650</id>
-    <name>South East Community Development Council</name>
+    <name>South East</name>
     <country_id>199</country_id>
     <country_code>SG</country_code>
     <country_name>Singapore</country_name>
     <state_code>04</state_code>
-    <type></type>
-    <latitude>39.28630700</latitude>
-    <longitude>-76.56912370</longitude>
+    <type>district</type>
+    <latitude>1.35710000</latitude>
+    <longitude>103.70040000</longitude>
   </state>
   <state>
     <id>4652</id>
-    <name>South West Community Development Council</name>
+    <name>South West</name>
     <country_id>199</country_id>
     <country_code>SG</country_code>
     <country_name>Singapore</country_name>
     <state_code>05</state_code>
-    <type></type>
-    <latitude>39.92569100</latitude>
-    <longitude>-75.23105800</longitude>
+    <type>district</type>
+    <latitude>1.35710000</latitude>
+    <longitude>103.94510000</longitude>
   </state>
   <state>
     <id>4352</id>
@@ -42571,17 +43242,6 @@
     <longitude>-7.02269830</longitude>
   </state>
   <state>
-    <id>1174</id>
-    <name>Balearic Islands</name>
-    <country_id>207</country_id>
-    <country_code>ES</country_code>
-    <country_name>Spain</country_name>
-    <state_code>PM</state_code>
-    <type>province</type>
-    <latitude>39.35877590</latitude>
-    <longitude>2.73563280</longitude>
-  </state>
-  <state>
     <id>5102</id>
     <name>Barcelona</name>
     <country_id>207</country_id>
@@ -42637,6 +43297,17 @@
     <longitude>-6.29997670</longitude>
   </state>
   <state>
+    <id>5222</id>
+    <name>Canarias</name>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <country_name>Spain</country_name>
+    <state_code>CN</state_code>
+    <type>autonomous community</type>
+    <latitude>28.29160000</latitude>
+    <longitude>16.62910000</longitude>
+  </state>
+  <state>
     <id>1170</id>
     <name>Cantabria</name>
     <country_id>207</country_id>
@@ -42657,6 +43328,17 @@
     <type>province</type>
     <latitude>39.98114350</latitude>
     <longitude>0.00884070</longitude>
+  </state>
+  <state>
+    <id>5223</id>
+    <name>Ceuta</name>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <country_name>Spain</country_name>
+    <state_code>CE</state_code>
+    <type>autonomous city in North Africa</type>
+    <latitude>35.88900000</latitude>
+    <longitude>-5.31870000</longitude>
   </state>
   <state>
     <id>5105</id>
@@ -42758,6 +43440,17 @@
     <longitude>-0.90566230</longitude>
   </state>
   <state>
+    <id>1174</id>
+    <name>Islas Baleares</name>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <country_name>Spain</country_name>
+    <state_code>PM</state_code>
+    <type>province</type>
+    <latitude>39.35877590</latitude>
+    <longitude>2.73563280</longitude>
+  </state>
+  <state>
     <id>5100</id>
     <name>Jaén</name>
     <country_id>207</country_id>
@@ -42792,7 +43485,7 @@
   </state>
   <state>
     <id>1200</id>
-    <name>Léon</name>
+    <name>León</name>
     <country_id>207</country_id>
     <country_code>ES</country_code>
     <country_name>Spain</country_name>
@@ -42844,6 +43537,17 @@
     <type>province</type>
     <latitude>36.71820150</latitude>
     <longitude>-4.51930600</longitude>
+  </state>
+  <state>
+    <id>5224</id>
+    <name>Melilla</name>
+    <country_id>207</country_id>
+    <country_code>ES</country_code>
+    <country_name>Spain</country_name>
+    <state_code>ML</state_code>
+    <type>autonomous city in North Africa</type>
+    <latitude>35.29370000</latitude>
+    <longitude>-2.93830000</longitude>
   </state>
   <state>
     <id>1176</id>
@@ -43704,59 +44408,15 @@
     <longitude>-55.27012350</longitude>
   </state>
   <state>
-    <id>969</id>
-    <name>Hhohho District</name>
-    <country_id>212</country_id>
-    <country_code>SZ</country_code>
-    <country_name>Swaziland</country_name>
-    <state_code>HH</state_code>
-    <type></type>
-    <latitude>-26.13656620</latitude>
-    <longitude>31.35416310</longitude>
-  </state>
-  <state>
-    <id>970</id>
-    <name>Lubombo District</name>
-    <country_id>212</country_id>
-    <country_code>SZ</country_code>
-    <country_name>Swaziland</country_name>
-    <state_code>LU</state_code>
-    <type></type>
-    <latitude>-26.78517730</latitude>
-    <longitude>31.81070790</longitude>
-  </state>
-  <state>
-    <id>968</id>
-    <name>Manzini District</name>
-    <country_id>212</country_id>
-    <country_code>SZ</country_code>
-    <country_name>Swaziland</country_name>
-    <state_code>MA</state_code>
-    <type></type>
-    <latitude>-26.50819990</latitude>
-    <longitude>31.37131640</longitude>
-  </state>
-  <state>
-    <id>971</id>
-    <name>Shiselweni District</name>
-    <country_id>212</country_id>
-    <country_code>SZ</country_code>
-    <country_name>Swaziland</country_name>
-    <state_code>SH</state_code>
-    <type></type>
-    <latitude>-26.98275770</latitude>
-    <longitude>31.35416310</longitude>
-  </state>
-  <state>
     <id>1537</id>
-    <name>Blekinge</name>
+    <name>Blekinge County</name>
     <country_id>213</country_id>
     <country_code>SE</country_code>
     <country_name>Sweden</country_name>
     <state_code>K</state_code>
     <type></type>
-    <latitude>56.27838370</latitude>
-    <longitude>15.01800580</longitude>
+    <latitude>56.28333333</latitude>
+    <longitude>15.11666666</longitude>
   </state>
   <state>
     <id>1534</id>
@@ -43801,6 +44461,17 @@
     <type></type>
     <latitude>56.89668050</latitude>
     <longitude>12.80339930</longitude>
+  </state>
+  <state>
+    <id>5117</id>
+    <name>Jämtland County</name>
+    <country_id>213</country_id>
+    <country_code>SE</country_code>
+    <country_name>Sweden</country_name>
+    <state_code>0</state_code>
+    <type>SE-Z</type>
+    <latitude>63.28306200</latitude>
+    <longitude>14.23828100</longitude>
   </state>
   <state>
     <id>1550</id>
@@ -44441,17 +45112,6 @@
     <longitude>120.44911130</longitude>
   </state>
   <state>
-    <id>3423</id>
-    <name>Hsinchu</name>
-    <country_id>216</country_id>
-    <country_code>TW</country_code>
-    <country_name>Taiwan</country_name>
-    <state_code>HSQ</state_code>
-    <type>county</type>
-    <latitude>24.83872260</latitude>
-    <longitude>121.01772460</longitude>
-  </state>
-  <state>
     <id>3417</id>
     <name>Hsinchu</name>
     <country_id>216</country_id>
@@ -44461,6 +45121,17 @@
     <type>city</type>
     <latitude>24.81382870</latitude>
     <longitude>120.96747980</longitude>
+  </state>
+  <state>
+    <id>3423</id>
+    <name>Hsinchu</name>
+    <country_id>216</country_id>
+    <country_code>TW</country_code>
+    <country_name>Taiwan</country_name>
+    <state_code>HSQ</state_code>
+    <type>county</type>
+    <latitude>24.83872260</latitude>
+    <longitude>121.01772460</longitude>
   </state>
   <state>
     <id>3411</id>
@@ -46355,6 +47026,138 @@
     <longitude>-78.52065000</longitude>
   </state>
   <state>
+    <id>4520</id>
+    <name>Aileu municipality</name>
+    <country_id>63</country_id>
+    <country_code>TL</country_code>
+    <country_name>Timor-Leste</country_name>
+    <state_code>AL</state_code>
+    <type></type>
+    <latitude>-8.70439940</latitude>
+    <longitude>125.60954740</longitude>
+  </state>
+  <state>
+    <id>4518</id>
+    <name>Ainaro Municipality</name>
+    <country_id>63</country_id>
+    <country_code>TL</country_code>
+    <country_name>Timor-Leste</country_name>
+    <state_code>AN</state_code>
+    <type></type>
+    <latitude>-9.01131710</latitude>
+    <longitude>125.52200120</longitude>
+  </state>
+  <state>
+    <id>4521</id>
+    <name>Baucau Municipality</name>
+    <country_id>63</country_id>
+    <country_code>TL</country_code>
+    <country_name>Timor-Leste</country_name>
+    <state_code>BA</state_code>
+    <type></type>
+    <latitude>-8.47143080</latitude>
+    <longitude>126.45759910</longitude>
+  </state>
+  <state>
+    <id>4525</id>
+    <name>Bobonaro Municipality</name>
+    <country_id>63</country_id>
+    <country_code>TL</country_code>
+    <country_name>Timor-Leste</country_name>
+    <state_code>BO</state_code>
+    <type></type>
+    <latitude>-8.96554060</latitude>
+    <longitude>125.25879640</longitude>
+  </state>
+  <state>
+    <id>4522</id>
+    <name>Cova Lima Municipality</name>
+    <country_id>63</country_id>
+    <country_code>TL</country_code>
+    <country_name>Timor-Leste</country_name>
+    <state_code>CO</state_code>
+    <type></type>
+    <latitude>-9.26503750</latitude>
+    <longitude>125.25879640</longitude>
+  </state>
+  <state>
+    <id>4524</id>
+    <name>Dili municipality</name>
+    <country_id>63</country_id>
+    <country_code>TL</country_code>
+    <country_name>Timor-Leste</country_name>
+    <state_code>DI</state_code>
+    <type></type>
+    <latitude>-8.24496130</latitude>
+    <longitude>125.58766970</longitude>
+  </state>
+  <state>
+    <id>4516</id>
+    <name>Ermera District</name>
+    <country_id>63</country_id>
+    <country_code>TL</country_code>
+    <country_name>Timor-Leste</country_name>
+    <state_code>ER</state_code>
+    <type></type>
+    <latitude>-8.75248020</latitude>
+    <longitude>125.39872940</longitude>
+  </state>
+  <state>
+    <id>4523</id>
+    <name>Lautém Municipality</name>
+    <country_id>63</country_id>
+    <country_code>TL</country_code>
+    <country_name>Timor-Leste</country_name>
+    <state_code>LA</state_code>
+    <type></type>
+    <latitude>-8.36423070</latitude>
+    <longitude>126.90438450</longitude>
+  </state>
+  <state>
+    <id>4515</id>
+    <name>Liquiçá Municipality</name>
+    <country_id>63</country_id>
+    <country_code>TL</country_code>
+    <country_name>Timor-Leste</country_name>
+    <state_code>LI</state_code>
+    <type></type>
+    <latitude>-8.66740950</latitude>
+    <longitude>125.25879640</longitude>
+  </state>
+  <state>
+    <id>4517</id>
+    <name>Manatuto District</name>
+    <country_id>63</country_id>
+    <country_code>TL</country_code>
+    <country_name>Timor-Leste</country_name>
+    <state_code>MT</state_code>
+    <type></type>
+    <latitude>-8.51556080</latitude>
+    <longitude>126.01592550</longitude>
+  </state>
+  <state>
+    <id>4519</id>
+    <name>Manufahi Municipality</name>
+    <country_id>63</country_id>
+    <country_code>TL</country_code>
+    <country_name>Timor-Leste</country_name>
+    <state_code>MF</state_code>
+    <type></type>
+    <latitude>-9.01454950</latitude>
+    <longitude>125.82799590</longitude>
+  </state>
+  <state>
+    <id>4514</id>
+    <name>Viqueque Municipality</name>
+    <country_id>63</country_id>
+    <country_code>TL</country_code>
+    <country_name>Timor-Leste</country_name>
+    <state_code>VI</state_code>
+    <type></type>
+    <latitude>-8.85979180</latitude>
+    <longitude>126.36335160</longitude>
+  </state>
+  <state>
     <id>2575</id>
     <name>Centrale Region</name>
     <country_id>220</country_id>
@@ -46469,7 +47272,7 @@
     <name>Arima</name>
     <country_id>223</country_id>
     <country_code>TT</country_code>
-    <country_name>Trinidad And Tobago</country_name>
+    <country_name>Trinidad and Tobago</country_name>
     <state_code>ARI</state_code>
     <type></type>
     <latitude>46.79316040</latitude>
@@ -46480,7 +47283,7 @@
     <name>Chaguanas</name>
     <country_id>223</country_id>
     <country_code>TT</country_code>
-    <country_name>Trinidad And Tobago</country_name>
+    <country_name>Trinidad and Tobago</country_name>
     <state_code>CHA</state_code>
     <type></type>
     <latitude>10.51683870</latitude>
@@ -46491,7 +47294,7 @@
     <name>Couva-Tabaquite-Talparo Regional Corporation</name>
     <country_id>223</country_id>
     <country_code>TT</country_code>
-    <country_name>Trinidad And Tobago</country_name>
+    <country_name>Trinidad and Tobago</country_name>
     <state_code>CTT</state_code>
     <type></type>
     <latitude>10.42971450</latitude>
@@ -46502,7 +47305,7 @@
     <name>Diego Martin Regional Corporation</name>
     <country_id>223</country_id>
     <country_code>TT</country_code>
-    <country_name>Trinidad And Tobago</country_name>
+    <country_name>Trinidad and Tobago</country_name>
     <state_code>DMN</state_code>
     <type></type>
     <latitude>10.73622860</latitude>
@@ -46513,7 +47316,7 @@
     <name>Eastern Tobago</name>
     <country_id>223</country_id>
     <country_code>TT</country_code>
-    <country_name>Trinidad And Tobago</country_name>
+    <country_name>Trinidad and Tobago</country_name>
     <state_code>ETO</state_code>
     <type></type>
     <latitude>11.29793480</latitude>
@@ -46524,7 +47327,7 @@
     <name>Penal-Debe Regional Corporation</name>
     <country_id>223</country_id>
     <country_code>TT</country_code>
-    <country_name>Trinidad And Tobago</country_name>
+    <country_name>Trinidad and Tobago</country_name>
     <state_code>PED</state_code>
     <type></type>
     <latitude>10.13374020</latitude>
@@ -46535,7 +47338,7 @@
     <name>Point Fortin</name>
     <country_id>223</country_id>
     <country_code>TT</country_code>
-    <country_name>Trinidad And Tobago</country_name>
+    <country_name>Trinidad and Tobago</country_name>
     <state_code>PTF</state_code>
     <type></type>
     <latitude>10.17027370</latitude>
@@ -46546,7 +47349,7 @@
     <name>Port of Spain</name>
     <country_id>223</country_id>
     <country_code>TT</country_code>
-    <country_name>Trinidad And Tobago</country_name>
+    <country_name>Trinidad and Tobago</country_name>
     <state_code>POS</state_code>
     <type></type>
     <latitude>10.66031960</latitude>
@@ -46557,7 +47360,7 @@
     <name>Princes Town Regional Corporation</name>
     <country_id>223</country_id>
     <country_code>TT</country_code>
-    <country_name>Trinidad And Tobago</country_name>
+    <country_name>Trinidad and Tobago</country_name>
     <state_code>PRT</state_code>
     <type></type>
     <latitude>10.17867460</latitude>
@@ -46568,7 +47371,7 @@
     <name>Rio Claro-Mayaro Regional Corporation</name>
     <country_id>223</country_id>
     <country_code>TT</country_code>
-    <country_name>Trinidad And Tobago</country_name>
+    <country_name>Trinidad and Tobago</country_name>
     <state_code>MRC</state_code>
     <type></type>
     <latitude>10.24128320</latitude>
@@ -46579,7 +47382,7 @@
     <name>San Fernando</name>
     <country_id>223</country_id>
     <country_code>TT</country_code>
-    <country_name>Trinidad And Tobago</country_name>
+    <country_name>Trinidad and Tobago</country_name>
     <state_code>SFO</state_code>
     <type></type>
     <latitude>34.28194610</latitude>
@@ -46590,7 +47393,7 @@
     <name>San Juan-Laventille Regional Corporation</name>
     <country_id>223</country_id>
     <country_code>TT</country_code>
-    <country_name>Trinidad And Tobago</country_name>
+    <country_name>Trinidad and Tobago</country_name>
     <state_code>SJL</state_code>
     <type></type>
     <latitude>10.69085780</latitude>
@@ -46601,7 +47404,7 @@
     <name>Sangre Grande Regional Corporation</name>
     <country_id>223</country_id>
     <country_code>TT</country_code>
-    <country_name>Trinidad And Tobago</country_name>
+    <country_name>Trinidad and Tobago</country_name>
     <state_code>SGE</state_code>
     <type></type>
     <latitude>10.58529390</latitude>
@@ -46612,7 +47415,7 @@
     <name>Siparia Regional Corporation</name>
     <country_id>223</country_id>
     <country_code>TT</country_code>
-    <country_name>Trinidad And Tobago</country_name>
+    <country_name>Trinidad and Tobago</country_name>
     <state_code>SIP</state_code>
     <type></type>
     <latitude>10.12456260</latitude>
@@ -46623,7 +47426,7 @@
     <name>Tunapuna-Piarco Regional Corporation</name>
     <country_id>223</country_id>
     <country_code>TT</country_code>
-    <country_name>Trinidad And Tobago</country_name>
+    <country_name>Trinidad and Tobago</country_name>
     <state_code>TUP</state_code>
     <type></type>
     <latitude>10.68590960</latitude>
@@ -46634,7 +47437,7 @@
     <name>Western Tobago</name>
     <country_id>223</country_id>
     <country_code>TT</country_code>
-    <country_name>Trinidad And Tobago</country_name>
+    <country_name>Trinidad and Tobago</country_name>
     <state_code>WTO</state_code>
     <type></type>
     <latitude>11.18970720</latitude>
@@ -46650,6 +47453,17 @@
     <type>governorate</type>
     <latitude>36.99227510</latitude>
     <longitude>10.12551640</longitude>
+  </state>
+  <state>
+    <id>2572</id>
+    <name>Béja</name>
+    <country_id>224</country_id>
+    <country_code>TN</country_code>
+    <country_name>Tunisia</country_name>
+    <state_code>31</state_code>
+    <type>governorate</type>
+    <latitude>35.17227160</latitude>
+    <longitude>8.83076260</longitude>
   </state>
   <state>
     <id>2566</id>
@@ -46727,17 +47541,6 @@
     <type>governorate</type>
     <latitude>35.08091480</latitude>
     <longitude>8.66005860</longitude>
-  </state>
-  <state>
-    <id>2572</id>
-    <name>Kassrine</name>
-    <country_id>224</country_id>
-    <country_code>TN</country_code>
-    <country_name>Tunisia</country_name>
-    <state_code>31</state_code>
-    <type>governorate</type>
-    <latitude>35.17227160</latitude>
-    <longitude>8.83076260</longitude>
   </state>
   <state>
     <id>2562</id>
@@ -47335,7 +48138,7 @@
   </state>
   <state>
     <id>2170</id>
-    <name>Istanbul</name>
+    <name>İstanbul</name>
     <country_id>225</country_id>
     <country_code>TR</country_code>
     <country_name>Turkey</country_name>
@@ -49532,6 +50335,17 @@
     <type>region</type>
     <latitude>50.61990000</latitude>
     <longitude>26.25161700</longitude>
+  </state>
+  <state>
+    <id>1912</id>
+    <name>Sevastopol</name>
+    <country_id>230</country_id>
+    <country_code>UA</country_code>
+    <country_name>Ukraine</country_name>
+    <state_code>40</state_code>
+    <type></type>
+    <latitude>44.61665000</latitude>
+    <longitude>33.52536710</longitude>
   </state>
   <state>
     <id>4685</id>
@@ -53131,8 +53945,107 @@
     <longitude>-107.29028390</longitude>
   </state>
   <state>
+    <id>5212</id>
+    <name>Baker Island</name>
+    <country_id>234</country_id>
+    <country_code>UM</country_code>
+    <country_name>United States Minor Outlying Islands</country_name>
+    <state_code>81</state_code>
+    <type>island</type>
+    <latitude>0.19362660</latitude>
+    <longitude>-176.47690800</longitude>
+  </state>
+  <state>
+    <id>5213</id>
+    <name>Howland Island</name>
+    <country_id>234</country_id>
+    <country_code>UM</country_code>
+    <country_name>United States Minor Outlying Islands</country_name>
+    <state_code>84</state_code>
+    <type>island</type>
+    <latitude>0.81132190</latitude>
+    <longitude>-176.61827360</longitude>
+  </state>
+  <state>
+    <id>5214</id>
+    <name>Jarvis Island</name>
+    <country_id>234</country_id>
+    <country_code>UM</country_code>
+    <country_name>United States Minor Outlying Islands</country_name>
+    <state_code>86</state_code>
+    <type>island</type>
+    <latitude>-0.37435030</latitude>
+    <longitude>-159.99672060</longitude>
+  </state>
+  <state>
+    <id>5215</id>
+    <name>Johnston Atoll</name>
+    <country_id>234</country_id>
+    <country_code>UM</country_code>
+    <country_name>United States Minor Outlying Islands</country_name>
+    <state_code>67</state_code>
+    <type>island</type>
+    <latitude>16.72950350</latitude>
+    <longitude>-169.53364770</longitude>
+  </state>
+  <state>
+    <id>5216</id>
+    <name>Kingman Reef</name>
+    <country_id>234</country_id>
+    <country_code>UM</country_code>
+    <country_name>United States Minor Outlying Islands</country_name>
+    <state_code>89</state_code>
+    <type>island</type>
+    <latitude>6.38333300</latitude>
+    <longitude>-162.41666700</longitude>
+  </state>
+  <state>
+    <id>5217</id>
+    <name>Midway Islands</name>
+    <country_id>234</country_id>
+    <country_code>UM</country_code>
+    <country_name>United States Minor Outlying Islands</country_name>
+    <state_code>71</state_code>
+    <type>island</type>
+    <latitude>28.20721680</latitude>
+    <longitude>-177.37349260</longitude>
+  </state>
+  <state>
+    <id>5218</id>
+    <name>Navassa Island</name>
+    <country_id>234</country_id>
+    <country_code>UM</country_code>
+    <country_name>United States Minor Outlying Islands</country_name>
+    <state_code>76</state_code>
+    <type>island</type>
+    <latitude>18.41006890</latitude>
+    <longitude>-75.01146120</longitude>
+  </state>
+  <state>
+    <id>5219</id>
+    <name>Palmyra Atoll</name>
+    <country_id>234</country_id>
+    <country_code>UM</country_code>
+    <country_name>United States Minor Outlying Islands</country_name>
+    <state_code>95</state_code>
+    <type>island</type>
+    <latitude>5.88850260</latitude>
+    <longitude>-162.07866560</longitude>
+  </state>
+  <state>
+    <id>5220</id>
+    <name>Wake Island</name>
+    <country_id>234</country_id>
+    <country_code>UM</country_code>
+    <country_name>United States Minor Outlying Islands</country_name>
+    <state_code>79</state_code>
+    <type>island</type>
+    <latitude>19.27961900</latitude>
+    <longitude>166.64993480</longitude>
+  </state>
+  <state>
     <id>3205</id>
-    <name>Artigas Department</name>
+    <name>Artigas</name>
     <country_id>235</country_id>
     <country_code>UY</country_code>
     <country_name>Uruguay</country_name>
@@ -53143,7 +54056,7 @@
   </state>
   <state>
     <id>3213</id>
-    <name>Canelones Department</name>
+    <name>Canelones</name>
     <country_id>235</country_id>
     <country_code>UY</country_code>
     <country_name>Uruguay</country_name>
@@ -53154,7 +54067,7 @@
   </state>
   <state>
     <id>3211</id>
-    <name>Cerro Largo Department</name>
+    <name>Cerro Largo</name>
     <country_id>235</country_id>
     <country_code>UY</country_code>
     <country_name>Uruguay</country_name>
@@ -53165,7 +54078,7 @@
   </state>
   <state>
     <id>3208</id>
-    <name>Colonia Department</name>
+    <name>Colonia</name>
     <country_id>235</country_id>
     <country_code>UY</country_code>
     <country_name>Uruguay</country_name>
@@ -53176,7 +54089,7 @@
   </state>
   <state>
     <id>3209</id>
-    <name>Durazno Department</name>
+    <name>Durazno</name>
     <country_id>235</country_id>
     <country_code>UY</country_code>
     <country_name>Uruguay</country_name>
@@ -53187,7 +54100,7 @@
   </state>
   <state>
     <id>3203</id>
-    <name>Flores Department</name>
+    <name>Flores</name>
     <country_id>235</country_id>
     <country_code>UY</country_code>
     <country_name>Uruguay</country_name>
@@ -53198,7 +54111,7 @@
   </state>
   <state>
     <id>3217</id>
-    <name>Florida Department</name>
+    <name>Florida</name>
     <country_id>235</country_id>
     <country_code>UY</country_code>
     <country_name>Uruguay</country_name>
@@ -53209,7 +54122,7 @@
   </state>
   <state>
     <id>3215</id>
-    <name>Lavalleja Department</name>
+    <name>Lavalleja</name>
     <country_id>235</country_id>
     <country_code>UY</country_code>
     <country_name>Uruguay</country_name>
@@ -53220,7 +54133,7 @@
   </state>
   <state>
     <id>3206</id>
-    <name>Maldonado Department</name>
+    <name>Maldonado</name>
     <country_id>235</country_id>
     <country_code>UY</country_code>
     <country_name>Uruguay</country_name>
@@ -53231,7 +54144,7 @@
   </state>
   <state>
     <id>3218</id>
-    <name>Montevideo Department</name>
+    <name>Montevideo</name>
     <country_id>235</country_id>
     <country_code>UY</country_code>
     <country_name>Uruguay</country_name>
@@ -53242,7 +54155,7 @@
   </state>
   <state>
     <id>3212</id>
-    <name>Paysandú Department</name>
+    <name>Paysandú</name>
     <country_id>235</country_id>
     <country_code>UY</country_code>
     <country_name>Uruguay</country_name>
@@ -53253,7 +54166,7 @@
   </state>
   <state>
     <id>3210</id>
-    <name>Río Negro Department</name>
+    <name>Río Negro</name>
     <country_id>235</country_id>
     <country_code>UY</country_code>
     <country_name>Uruguay</country_name>
@@ -53264,7 +54177,7 @@
   </state>
   <state>
     <id>3207</id>
-    <name>Rivera Department</name>
+    <name>Rivera</name>
     <country_id>235</country_id>
     <country_code>UY</country_code>
     <country_name>Uruguay</country_name>
@@ -53275,7 +54188,7 @@
   </state>
   <state>
     <id>3216</id>
-    <name>Rocha Department</name>
+    <name>Rocha</name>
     <country_id>235</country_id>
     <country_code>UY</country_code>
     <country_name>Uruguay</country_name>
@@ -53286,7 +54199,7 @@
   </state>
   <state>
     <id>3220</id>
-    <name>Salto Department</name>
+    <name>Salto</name>
     <country_id>235</country_id>
     <country_code>UY</country_code>
     <country_name>Uruguay</country_name>
@@ -53297,7 +54210,7 @@
   </state>
   <state>
     <id>3204</id>
-    <name>San José Department</name>
+    <name>San José</name>
     <country_id>235</country_id>
     <country_code>UY</country_code>
     <country_name>Uruguay</country_name>
@@ -53308,7 +54221,7 @@
   </state>
   <state>
     <id>3219</id>
-    <name>Soriano Department</name>
+    <name>Soriano</name>
     <country_id>235</country_id>
     <country_code>UY</country_code>
     <country_name>Uruguay</country_name>
@@ -53319,7 +54232,7 @@
   </state>
   <state>
     <id>3221</id>
-    <name>Tacuarembó Department</name>
+    <name>Tacuarembó</name>
     <country_id>235</country_id>
     <country_code>UY</country_code>
     <country_name>Uruguay</country_name>
@@ -53330,7 +54243,7 @@
   </state>
   <state>
     <id>3214</id>
-    <name>Treinta y Tres Department</name>
+    <name>Treinta y Tres</name>
     <country_id>235</country_id>
     <country_code>UY</country_code>
     <country_name>Uruguay</country_name>
@@ -54649,6 +55562,17 @@
     <longitude>43.56069460</longitude>
   </state>
   <state>
+    <id>1232</id>
+    <name>Amanat Al Asimah</name>
+    <country_id>245</country_id>
+    <country_code>YE</country_code>
+    <country_name>Yemen</country_name>
+    <state_code>SA</state_code>
+    <type></type>
+    <latitude>15.36944510</latitude>
+    <longitude>44.19100660</longitude>
+  </state>
+  <state>
     <id>1246</id>
     <name>Dhamar</name>
     <country_id>245</country_id>
@@ -54746,17 +55670,6 @@
     <type></type>
     <latitude>15.31689130</latitude>
     <longitude>44.47480180</longitude>
-  </state>
-  <state>
-    <id>1232</id>
-    <name>Sana'a</name>
-    <country_id>245</country_id>
-    <country_code>YE</country_code>
-    <country_name>Yemen</country_name>
-    <state_code>SA</state_code>
-    <type></type>
-    <latitude>15.36944510</latitude>
-    <longitude>44.19100660</longitude>
   </state>
   <state>
     <id>1247</id>

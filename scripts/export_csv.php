@@ -17,6 +17,14 @@ $files = array(
         'from' => '/cities.json',
         'to' => '/csv/cities.csv',
     ),
+    'regions' => array(
+        'from' => '/regions.json',
+        'to' => '/csv/regions.csv',
+    ),
+    'subregions' => array(
+        'from' => '/subregions.json',
+        'to' => '/csv/subregions.csv',
+    ),
 );
 
 foreach ($files as $root => $v) :
@@ -37,7 +45,7 @@ foreach ($files as $root => $v) :
     // Loop through the associative array.
     foreach ($csc as $row) :
         // Update timezones to make readable
-        if(is_array($row['timezones'])) {
+        if(!empty($row['timezones'])) {
             $row['timezones'] = json_encode($row['timezones']);
             $row['timezones'] = preg_replace('/"/', "'", $row['timezones']);
             $row['timezones'] = preg_replace("/'([a-zA-Z]+[a-zA-Z0-9_]*)':/", '$1:', $row['timezones']);

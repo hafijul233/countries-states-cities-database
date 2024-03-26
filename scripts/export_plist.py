@@ -6,6 +6,8 @@ import plistlib
 import os
 
 files = [
+    './csv/regions.csv',
+    './csv/subregions.csv',
     './csv/countries.csv',
     './csv/states.csv',
     './csv/cities.csv',

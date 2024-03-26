@@ -1001,7 +1001,7 @@ state:
     longitude: '0.90566230'
   -
     id: 4905
-    name: 'El M''ghair'
+    name: "El M'ghair"
     country_id: 4
     country_code: DZ
     country_name: Algeria
@@ -1121,7 +1121,7 @@ state:
     longitude: '2.86282940'
   -
     id: 1134
-    name: 'M''Sila'
+    name: "M'Sila"
     country_id: 4
     country_code: DZ
     country_name: Algeria
@@ -1624,7 +1624,7 @@ state:
     name: Barbuda
     country_id: 10
     country_code: AG
-    country_name: 'Antigua And Barbuda'
+    country_name: 'Antigua and Barbuda'
     state_code: '10'
     type: null
     latitude: '17.62662420'
@@ -1634,7 +1634,7 @@ state:
     name: Redonda
     country_id: 10
     country_code: AG
-    country_name: 'Antigua And Barbuda'
+    country_name: 'Antigua and Barbuda'
     state_code: '11'
     type: null
     latitude: '16.93841600'
@@ -1644,7 +1644,7 @@ state:
     name: 'Saint George Parish'
     country_id: 10
     country_code: AG
-    country_name: 'Antigua And Barbuda'
+    country_name: 'Antigua and Barbuda'
     state_code: '03'
     type: null
     latitude: null
@@ -1654,7 +1654,7 @@ state:
     name: 'Saint John Parish'
     country_id: 10
     country_code: AG
-    country_name: 'Antigua And Barbuda'
+    country_name: 'Antigua and Barbuda'
     state_code: '04'
     type: null
     latitude: null
@@ -1664,7 +1664,7 @@ state:
     name: 'Saint Mary Parish'
     country_id: 10
     country_code: AG
-    country_name: 'Antigua And Barbuda'
+    country_name: 'Antigua and Barbuda'
     state_code: '05'
     type: null
     latitude: null
@@ -1674,7 +1674,7 @@ state:
     name: 'Saint Paul Parish'
     country_id: 10
     country_code: AG
-    country_name: 'Antigua And Barbuda'
+    country_name: 'Antigua and Barbuda'
     state_code: '06'
     type: null
     latitude: null
@@ -1684,7 +1684,7 @@ state:
     name: 'Saint Peter Parish'
     country_id: 10
     country_code: AG
-    country_name: 'Antigua And Barbuda'
+    country_name: 'Antigua and Barbuda'
     state_code: '07'
     type: null
     latitude: null
@@ -1694,7 +1694,7 @@ state:
     name: 'Saint Philip Parish'
     country_id: 10
     country_code: AG
-    country_name: 'Antigua And Barbuda'
+    country_name: 'Antigua and Barbuda'
     state_code: '08'
     type: null
     latitude: '40.43682580'
@@ -3171,7 +3171,7 @@ state:
     longitude: '91.18089960'
   -
     id: 751
-    name: 'Cox''s Bazar District'
+    name: "Cox's Bazar District"
     country_id: 19
     country_code: BD
     country_name: Bangladesh
@@ -4027,8 +4027,8 @@ state:
     country_name: Belgium
     state_code: VWV
     type: null
-    latitude: '40.01793340'
-    longitude: '-105.28067330'
+    latitude: '51.04047470'
+    longitude: '2.99942130'
   -
     id: 264
     name: 'Belize District'
@@ -4211,92 +4211,92 @@ state:
     longitude: '2.06651970'
   -
     id: 4860
-    name: 'Devonshire Parish'
+    name: Devonshire
     country_id: 25
     country_code: BM
     country_name: Bermuda
     state_code: DEV
-    type: null
+    type: municipality
     latitude: '32.30380620'
     longitude: '-64.76069540'
   -
     id: 4861
-    name: 'Hamilton Parish'
+    name: Hamilton
     country_id: 25
     country_code: BM
     country_name: Bermuda
     state_code: HA
-    type: null
+    type: municipality
     latitude: '32.34494320'
     longitude: '-64.72365000'
   -
     id: 4863
-    name: 'Paget Parish'
+    name: Paget
     country_id: 25
     country_code: BM
     country_name: Bermuda
     state_code: PAG
-    type: null
+    type: municipality
     latitude: '32.28107400'
     longitude: '-64.77847870'
   -
     id: 4864
-    name: 'Pembroke Parish'
+    name: Pembroke
     country_id: 25
     country_code: BM
     country_name: Bermuda
     state_code: PEM
-    type: null
+    type: municipality
     latitude: '32.30076720'
     longitude: '-64.79626300'
   -
     id: 4866
-    name: 'Saint George''s Parish'
+    name: "Saint George's"
     country_id: 25
     country_code: BM
     country_name: Bermuda
     state_code: SGE
-    type: null
+    type: municipality
     latitude: '17.12577590'
     longitude: '-62.56198110'
   -
     id: 4867
-    name: 'Sandys Parish'
+    name: Sandys
     country_id: 25
     country_code: BM
     country_name: Bermuda
     state_code: SAN
-    type: null
+    type: municipality
     latitude: '32.29995280'
     longitude: '-64.86741030'
   -
     id: 4868
-    name: 'Smith''s Parish,'
+    name: "Smith's"
     country_id: 25
     country_code: BM
     country_name: Bermuda
     state_code: SMI
-    type: null
+    type: municipality
     latitude: '32.31339660'
     longitude: '-64.73105880'
   -
     id: 4869
-    name: 'Southampton Parish'
+    name: Southampton
     country_id: 25
     country_code: BM
     country_name: Bermuda
     state_code: SOU
-    type: null
+    type: municipality
     latitude: '32.25400950'
     longitude: '-64.82590580'
   -
     id: 4870
-    name: 'Warwick Parish'
+    name: Warwick
     country_id: 25
     country_code: BM
     country_name: Bermuda
     state_code: WAR
-    type: null
+    type: municipality
     latitude: '32.26615340'
     longitude: '-64.80811980'
   -
@@ -6991,7 +6991,7 @@ state:
     longitude: '15.21948080'
   -
     id: 1255
-    name: 'Ombella-M''Poko Prefecture'
+    name: "Ombella-M'Poko Prefecture"
     country_id: 42
     country_code: CF
     country_name: 'Central African Republic'
@@ -7211,7 +7211,7 @@ state:
     longitude: '18.42760470'
   -
     id: 3586
-    name: 'N''Djamena'
+    name: "N'Djamena"
     country_id: 43
     country_code: TD
     country_name: Chad
@@ -7351,7 +7351,7 @@ state:
     longitude: '-72.33111300'
   -
     id: 2838
-    name: 'Libertador General Bernardo O''Higgins'
+    name: "Libertador General Bernardo O'Higgins"
     country_id: 44
     country_code: CL
     country_name: Chile
@@ -8334,7 +8334,7 @@ state:
     name: Abidjan
     country_id: 54
     country_code: CI
-    country_name: 'Cote D''Ivoire (Ivory Coast)'
+    country_name: "Cote D'Ivoire (Ivory Coast)"
     state_code: AB
     type: null
     latitude: '5.35995170'
@@ -8344,7 +8344,7 @@ state:
     name: Agnéby
     country_id: 54
     country_code: CI
-    country_name: 'Cote D''Ivoire (Ivory Coast)'
+    country_name: "Cote D'Ivoire (Ivory Coast)"
     state_code: '16'
     type: null
     latitude: '5.32245030'
@@ -8354,7 +8354,7 @@ state:
     name: 'Bafing Region'
     country_id: 54
     country_code: CI
-    country_name: 'Cote D''Ivoire (Ivory Coast)'
+    country_name: "Cote D'Ivoire (Ivory Coast)"
     state_code: '17'
     type: null
     latitude: '8.32520470'
@@ -8364,7 +8364,7 @@ state:
     name: 'Bas-Sassandra District'
     country_id: 54
     country_code: CI
-    country_name: 'Cote D''Ivoire (Ivory Coast)'
+    country_name: "Cote D'Ivoire (Ivory Coast)"
     state_code: BS
     type: null
     latitude: '5.27983560'
@@ -8374,7 +8374,7 @@ state:
     name: 'Bas-Sassandra Region'
     country_id: 54
     country_code: CI
-    country_name: 'Cote D''Ivoire (Ivory Coast)'
+    country_name: "Cote D'Ivoire (Ivory Coast)"
     state_code: '09'
     type: null
     latitude: '5.35679160'
@@ -8384,7 +8384,7 @@ state:
     name: 'Comoé District'
     country_id: 54
     country_code: CI
-    country_name: 'Cote D''Ivoire (Ivory Coast)'
+    country_name: "Cote D'Ivoire (Ivory Coast)"
     state_code: CM
     type: null
     latitude: '5.55279300'
@@ -8394,7 +8394,7 @@ state:
     name: 'Denguélé District'
     country_id: 54
     country_code: CI
-    country_name: 'Cote D''Ivoire (Ivory Coast)'
+    country_name: "Cote D'Ivoire (Ivory Coast)"
     state_code: DN
     type: null
     latitude: '48.07077630'
@@ -8404,7 +8404,7 @@ state:
     name: 'Denguélé Region'
     country_id: 54
     country_code: CI
-    country_name: 'Cote D''Ivoire (Ivory Coast)'
+    country_name: "Cote D'Ivoire (Ivory Coast)"
     state_code: '10'
     type: null
     latitude: '9.46623720'
@@ -8414,7 +8414,7 @@ state:
     name: 'Dix-Huit Montagnes'
     country_id: 54
     country_code: CI
-    country_name: 'Cote D''Ivoire (Ivory Coast)'
+    country_name: "Cote D'Ivoire (Ivory Coast)"
     state_code: '06'
     type: null
     latitude: '7.37623730'
@@ -8424,7 +8424,7 @@ state:
     name: Fromager
     country_id: 54
     country_code: CI
-    country_name: 'Cote D''Ivoire (Ivory Coast)'
+    country_name: "Cote D'Ivoire (Ivory Coast)"
     state_code: '18'
     type: null
     latitude: '45.54502130'
@@ -8434,7 +8434,7 @@ state:
     name: 'Gôh-Djiboua District'
     country_id: 54
     country_code: CI
-    country_name: 'Cote D''Ivoire (Ivory Coast)'
+    country_name: "Cote D'Ivoire (Ivory Coast)"
     state_code: GD
     type: null
     latitude: '5.87113930'
@@ -8444,7 +8444,7 @@ state:
     name: Haut-Sassandra
     country_id: 54
     country_code: CI
-    country_name: 'Cote D''Ivoire (Ivory Coast)'
+    country_name: "Cote D'Ivoire (Ivory Coast)"
     state_code: '02'
     type: null
     latitude: '6.87578480'
@@ -8454,7 +8454,7 @@ state:
     name: 'Lacs District'
     country_id: 54
     country_code: CI
-    country_name: 'Cote D''Ivoire (Ivory Coast)'
+    country_name: "Cote D'Ivoire (Ivory Coast)"
     state_code: LC
     type: null
     latitude: '48.19801690'
@@ -8464,7 +8464,7 @@ state:
     name: 'Lacs Region'
     country_id: 54
     country_code: CI
-    country_name: 'Cote D''Ivoire (Ivory Coast)'
+    country_name: "Cote D'Ivoire (Ivory Coast)"
     state_code: '07'
     type: null
     latitude: '47.73958660'
@@ -8474,7 +8474,7 @@ state:
     name: 'Lagunes District'
     country_id: 54
     country_code: CI
-    country_name: 'Cote D''Ivoire (Ivory Coast)'
+    country_name: "Cote D'Ivoire (Ivory Coast)"
     state_code: LG
     type: null
     latitude: '5.88273340'
@@ -8484,7 +8484,7 @@ state:
     name: 'Lagunes region'
     country_id: 54
     country_code: CI
-    country_name: 'Cote D''Ivoire (Ivory Coast)'
+    country_name: "Cote D'Ivoire (Ivory Coast)"
     state_code: '01'
     type: null
     latitude: '5.88273340'
@@ -8494,7 +8494,7 @@ state:
     name: 'Marahoué Region'
     country_id: 54
     country_code: CI
-    country_name: 'Cote D''Ivoire (Ivory Coast)'
+    country_name: "Cote D'Ivoire (Ivory Coast)"
     state_code: '12'
     type: null
     latitude: '6.88462070'
@@ -8504,7 +8504,7 @@ state:
     name: 'Montagnes District'
     country_id: 54
     country_code: CI
-    country_name: 'Cote D''Ivoire (Ivory Coast)'
+    country_name: "Cote D'Ivoire (Ivory Coast)"
     state_code: MG
     type: null
     latitude: '7.37623730'
@@ -8514,7 +8514,7 @@ state:
     name: Moyen-Cavally
     country_id: 54
     country_code: CI
-    country_name: 'Cote D''Ivoire (Ivory Coast)'
+    country_name: "Cote D'Ivoire (Ivory Coast)"
     state_code: '19'
     type: null
     latitude: '6.52087930'
@@ -8524,17 +8524,17 @@ state:
     name: Moyen-Comoé
     country_id: 54
     country_code: CI
-    country_name: 'Cote D''Ivoire (Ivory Coast)'
+    country_name: "Cote D'Ivoire (Ivory Coast)"
     state_code: '05'
     type: null
     latitude: '6.65149170'
     longitude: '-3.50034540'
   -
     id: 2655
-    name: 'N''zi-Comoé'
+    name: "N'zi-Comoé"
     country_id: 54
     country_code: CI
-    country_name: 'Cote D''Ivoire (Ivory Coast)'
+    country_name: "Cote D'Ivoire (Ivory Coast)"
     state_code: '11'
     type: null
     latitude: '7.24567490'
@@ -8544,7 +8544,7 @@ state:
     name: 'Sassandra-Marahoué District'
     country_id: 54
     country_code: CI
-    country_name: 'Cote D''Ivoire (Ivory Coast)'
+    country_name: "Cote D'Ivoire (Ivory Coast)"
     state_code: SM
     type: null
     latitude: '6.88033480'
@@ -8554,7 +8554,7 @@ state:
     name: 'Savanes Region'
     country_id: 54
     country_code: CI
-    country_name: 'Cote D''Ivoire (Ivory Coast)'
+    country_name: "Cote D'Ivoire (Ivory Coast)"
     state_code: '03'
     type: null
     latitude: null
@@ -8564,7 +8564,7 @@ state:
     name: Sud-Bandama
     country_id: 54
     country_code: CI
-    country_name: 'Cote D''Ivoire (Ivory Coast)'
+    country_name: "Cote D'Ivoire (Ivory Coast)"
     state_code: '15'
     type: null
     latitude: '5.53570830'
@@ -8574,7 +8574,7 @@ state:
     name: Sud-Comoé
     country_id: 54
     country_code: CI
-    country_name: 'Cote D''Ivoire (Ivory Coast)'
+    country_name: "Cote D'Ivoire (Ivory Coast)"
     state_code: '13'
     type: null
     latitude: '5.55279300'
@@ -8584,7 +8584,7 @@ state:
     name: 'Vallée du Bandama District'
     country_id: 54
     country_code: CI
-    country_name: 'Cote D''Ivoire (Ivory Coast)'
+    country_name: "Cote D'Ivoire (Ivory Coast)"
     state_code: VB
     type: null
     latitude: '8.27897800'
@@ -8594,7 +8594,7 @@ state:
     name: 'Vallée du Bandama Region'
     country_id: 54
     country_code: CI
-    country_name: 'Cote D''Ivoire (Ivory Coast)'
+    country_name: "Cote D'Ivoire (Ivory Coast)"
     state_code: '04'
     type: null
     latitude: '8.27897800'
@@ -8604,7 +8604,7 @@ state:
     name: 'Woroba District'
     country_id: 54
     country_code: CI
-    country_name: 'Cote D''Ivoire (Ivory Coast)'
+    country_name: "Cote D'Ivoire (Ivory Coast)"
     state_code: WR
     type: null
     latitude: '8.24913720'
@@ -8614,7 +8614,7 @@ state:
     name: Worodougou
     country_id: 54
     country_code: CI
-    country_name: 'Cote D''Ivoire (Ivory Coast)'
+    country_name: "Cote D'Ivoire (Ivory Coast)"
     state_code: '14'
     type: null
     latitude: '8.25489620'
@@ -8624,7 +8624,7 @@ state:
     name: Yamoussoukro
     country_id: 54
     country_code: CI
-    country_name: 'Cote D''Ivoire (Ivory Coast)'
+    country_name: "Cote D'Ivoire (Ivory Coast)"
     state_code: YM
     type: null
     latitude: '6.82762280'
@@ -8634,7 +8634,7 @@ state:
     name: 'Zanzan Region'
     country_id: 54
     country_code: CI
-    country_name: 'Cote D''Ivoire (Ivory Coast)'
+    country_name: "Cote D'Ivoire (Ivory Coast)"
     state_code: ZZ
     type: null
     latitude: '8.82079040'
@@ -10750,126 +10750,6 @@ state:
     latitude: '19.58812210'
     longitude: '-70.98033100'
   -
-    id: 4520
-    name: 'Aileu municipality'
-    country_id: 63
-    country_code: TL
-    country_name: 'East Timor'
-    state_code: AL
-    type: null
-    latitude: '-8.70439940'
-    longitude: '125.60954740'
-  -
-    id: 4518
-    name: 'Ainaro Municipality'
-    country_id: 63
-    country_code: TL
-    country_name: 'East Timor'
-    state_code: AN
-    type: null
-    latitude: '-9.01131710'
-    longitude: '125.52200120'
-  -
-    id: 4521
-    name: 'Baucau Municipality'
-    country_id: 63
-    country_code: TL
-    country_name: 'East Timor'
-    state_code: BA
-    type: null
-    latitude: '-8.47143080'
-    longitude: '126.45759910'
-  -
-    id: 4525
-    name: 'Bobonaro Municipality'
-    country_id: 63
-    country_code: TL
-    country_name: 'East Timor'
-    state_code: BO
-    type: null
-    latitude: '-8.96554060'
-    longitude: '125.25879640'
-  -
-    id: 4522
-    name: 'Cova Lima Municipality'
-    country_id: 63
-    country_code: TL
-    country_name: 'East Timor'
-    state_code: CO
-    type: null
-    latitude: '-9.26503750'
-    longitude: '125.25879640'
-  -
-    id: 4524
-    name: 'Dili municipality'
-    country_id: 63
-    country_code: TL
-    country_name: 'East Timor'
-    state_code: DI
-    type: null
-    latitude: '-8.24496130'
-    longitude: '125.58766970'
-  -
-    id: 4516
-    name: 'Ermera District'
-    country_id: 63
-    country_code: TL
-    country_name: 'East Timor'
-    state_code: ER
-    type: null
-    latitude: '-8.75248020'
-    longitude: '125.39872940'
-  -
-    id: 4523
-    name: 'Lautém Municipality'
-    country_id: 63
-    country_code: TL
-    country_name: 'East Timor'
-    state_code: LA
-    type: null
-    latitude: '-8.36423070'
-    longitude: '126.90438450'
-  -
-    id: 4515
-    name: 'Liquiçá Municipality'
-    country_id: 63
-    country_code: TL
-    country_name: 'East Timor'
-    state_code: LI
-    type: null
-    latitude: '-8.66740950'
-    longitude: '125.25879640'
-  -
-    id: 4517
-    name: 'Manatuto District'
-    country_id: 63
-    country_code: TL
-    country_name: 'East Timor'
-    state_code: MT
-    type: null
-    latitude: '-8.51556080'
-    longitude: '126.01592550'
-  -
-    id: 4519
-    name: 'Manufahi Municipality'
-    country_id: 63
-    country_code: TL
-    country_name: 'East Timor'
-    state_code: MF
-    type: null
-    latitude: '-9.01454950'
-    longitude: '125.82799590'
-  -
-    id: 4514
-    name: 'Viqueque Municipality'
-    country_id: 63
-    country_code: TL
-    country_name: 'East Timor'
-    state_code: VI
-    type: null
-    latitude: '-8.85979180'
-    longitude: '126.36335160'
-  -
     id: 2923
     name: Azuay
     country_id: 64
@@ -11820,6 +11700,46 @@ state:
     latitude: '57.73773720'
     longitude: '27.13989380'
   -
+    id: 969
+    name: 'Hhohho District'
+    country_id: 212
+    country_code: SZ
+    country_name: Eswatini
+    state_code: HH
+    type: null
+    latitude: '-26.13656620'
+    longitude: '31.35416310'
+  -
+    id: 970
+    name: 'Lubombo District'
+    country_id: 212
+    country_code: SZ
+    country_name: Eswatini
+    state_code: LU
+    type: null
+    latitude: '-26.78517730'
+    longitude: '31.81070790'
+  -
+    id: 968
+    name: 'Manzini District'
+    country_id: 212
+    country_code: SZ
+    country_name: Eswatini
+    state_code: MA
+    type: null
+    latitude: '-26.50819990'
+    longitude: '31.37131640'
+  -
+    id: 971
+    name: 'Shiselweni District'
+    country_id: 212
+    country_code: SZ
+    country_name: Eswatini
+    state_code: SH
+    type: null
+    latitude: '-26.98275770'
+    longitude: '31.35416310'
+  -
     id: 11
     name: 'Addis Ababa'
     country_id: 70
@@ -11911,7 +11831,7 @@ state:
     longitude: '43.79084530'
   -
     id: 1
-    name: 'Southern Nations, Nationalities, and Peoples'' Region'
+    name: "Southern Nations, Nationalities, and Peoples' Region"
     country_id: 70
     country_code: ET
     country_name: Ethiopia
@@ -12581,7 +12501,7 @@ state:
     longitude: '8.41091830'
   -
     id: 4987
-    name: 'Côte-d''Or'
+    name: "Côte-d'Or"
     country_id: 75
     country_code: FR
     country_name: France
@@ -12591,7 +12511,7 @@ state:
     longitude: '4.23154950'
   -
     id: 4988
-    name: 'Côtes-d''Armor'
+    name: "Côtes-d'Armor"
     country_id: 75
     country_code: FR
     country_name: France
@@ -13441,7 +13361,7 @@ state:
     longitude: '6.66962000'
   -
     id: 5063
-    name: 'Val-d''Oise'
+    name: "Val-d'Oise"
     country_id: 75
     country_code: FR
     country_name: France
@@ -13690,6 +13610,16 @@ state:
     latitude: '5.97727980'
     longitude: '116.07542880'
   -
+    id: 901
+    name: Abkhazia
+    country_id: 81
+    country_code: GE
+    country_name: Georgia
+    state_code: AB
+    type: null
+    latitude: '43.00155440'
+    longitude: '41.02340700'
+  -
     id: 900
     name: Adjara
     country_id: 81
@@ -13699,16 +13629,6 @@ state:
     type: null
     latitude: '41.60056260'
     longitude: '42.06883830'
-  -
-    id: 901
-    name: 'Autonomous Republic of Abkhazia'
-    country_id: 81
-    country_code: GE
-    country_name: Georgia
-    state_code: AB
-    type: null
-    latitude: '43.00155440'
-    longitude: '41.02340700'
   -
     id: 907
     name: Guria
@@ -15441,7 +15361,7 @@ state:
     longitude: '-96.77738820'
   -
     id: 4119
-    name: 'Grand''Anse'
+    name: "Grand'Anse"
     country_id: 95
     country_code: HT
     country_name: Haiti
@@ -15701,12 +15621,12 @@ state:
     longitude: '-87.14228950'
   -
     id: 4889
-    name: 'Central and Western District'
+    name: 'Central and Western'
     country_id: 98
     country_code: HK
     country_name: 'Hong Kong S.A.R.'
     state_code: HCW
-    type: null
+    type: district
     latitude: '22.28666000'
     longitude: '114.15497000'
   -
@@ -15716,17 +15636,17 @@ state:
     country_code: HK
     country_name: 'Hong Kong S.A.R.'
     state_code: HEA
-    type: null
+    type: district
     latitude: '22.28411000'
     longitude: '114.22414000'
   -
     id: 4888
-    name: 'Islands District'
+    name: Islands
     country_id: 98
     country_code: HK
     country_name: 'Hong Kong S.A.R.'
     state_code: NIS
-    type: null
+    type: district
     latitude: '22.26114000'
     longitude: '113.94608000'
   -
@@ -15736,7 +15656,7 @@ state:
     country_code: HK
     country_name: 'Hong Kong S.A.R.'
     state_code: KKC
-    type: null
+    type: district
     latitude: '22.32820000'
     longitude: '114.19155000'
   -
@@ -15746,7 +15666,7 @@ state:
     country_code: HK
     country_name: 'Hong Kong S.A.R.'
     state_code: NKT
-    type: null
+    type: district
     latitude: '22.35488000'
     longitude: '114.08401000'
   -
@@ -15756,7 +15676,7 @@ state:
     country_code: HK
     country_name: 'Hong Kong S.A.R.'
     state_code: KKT
-    type: null
+    type: district
     latitude: '22.31326000'
     longitude: '114.22581000'
   -
@@ -15766,17 +15686,17 @@ state:
     country_code: HK
     country_name: 'Hong Kong S.A.R.'
     state_code: NNO
-    type: null
+    type: district
     latitude: '22.49471000'
     longitude: '114.13812000'
   -
     id: 4887
-    name: 'Sai Kung District'
+    name: 'Sai Kung'
     country_id: 98
     country_code: HK
     country_name: 'Hong Kong S.A.R.'
     state_code: NSK
-    type: null
+    type: district
     latitude: '22.38143000'
     longitude: '114.27052000'
   -
@@ -15786,7 +15706,7 @@ state:
     country_code: HK
     country_name: 'Hong Kong S.A.R.'
     state_code: NST
-    type: null
+    type: district
     latitude: '22.38715000'
     longitude: '114.19534000'
   -
@@ -15796,7 +15716,7 @@ state:
     country_code: HK
     country_name: 'Hong Kong S.A.R.'
     state_code: KSS
-    type: null
+    type: district
     latitude: '22.33074000'
     longitude: '114.16220000'
   -
@@ -15806,27 +15726,27 @@ state:
     country_code: HK
     country_name: 'Hong Kong S.A.R.'
     state_code: HSO
-    type: null
+    type: district
     latitude: '22.24725000'
     longitude: '114.15884000'
   -
     id: 4885
-    name: 'Tai Po District'
+    name: 'Tai Po'
     country_id: 98
-    country_code: KH
+    country_code: HK
     country_name: 'Hong Kong S.A.R.'
     state_code: NTP
-    type: null
+    type: district
     latitude: '22.45085000'
     longitude: '114.16422000'
   -
     id: 4884
-    name: 'Tsuen Wan District'
+    name: 'Tsuen Wan'
     country_id: 98
     country_code: HK
     country_name: 'Hong Kong S.A.R.'
     state_code: NTW
-    type: null
+    type: district
     latitude: '22.36281000'
     longitude: '114.12907000'
   -
@@ -15836,7 +15756,7 @@ state:
     country_code: HK
     country_name: 'Hong Kong S.A.R.'
     state_code: NTM
-    type: null
+    type: district
     latitude: '22.39163000'
     longitude: '113.97708850'
   -
@@ -15846,7 +15766,7 @@ state:
     country_code: HK
     country_name: 'Hong Kong S.A.R.'
     state_code: HWC
-    type: null
+    type: district
     latitude: '22.27968000'
     longitude: '114.17168000'
   -
@@ -15856,7 +15776,7 @@ state:
     country_code: HK
     country_name: 'Hong Kong S.A.R.'
     state_code: KWT
-    type: null
+    type: district
     latitude: '22.33353000'
     longitude: '114.19686000'
   -
@@ -15866,17 +15786,17 @@ state:
     country_code: HK
     country_name: 'Hong Kong S.A.R.'
     state_code: KYT
-    type: null
+    type: district
     latitude: '22.32138000'
     longitude: '114.17260000'
   -
     id: 4883
-    name: 'Yuen Long District'
+    name: 'Yuen Long'
     country_id: 98
     country_code: HK
     country_name: 'Hong Kong S.A.R.'
     state_code: NYL
-    type: null
+    type: district
     latitude: '22.44559000'
     longitude: '114.02218000'
   -
@@ -16735,7 +16655,7 @@ state:
     country_id: 101
     country_code: IN
     country_name: India
-    state_code: UT
+    state_code: UK
     type: state
     latitude: '30.06675300'
     longitude: '79.01929970'
@@ -18020,16 +17940,6 @@ state:
     latitude: '40.99645100'
     longitude: '15.12589550'
   -
-    id: 1772
-    name: Bari
-    country_id: 107
-    country_code: IT
-    country_name: Italy
-    state_code: BA
-    type: 'metropolitan city'
-    latitude: '41.11714320'
-    longitude: '16.87187150'
-  -
     id: 1686
     name: Barletta-Andria-Trani
     country_id: 107
@@ -18090,16 +18000,6 @@ state:
     latitude: '45.56281760'
     longitude: '8.05827170'
   -
-    id: 1684
-    name: Bologna
-    country_id: 107
-    country_code: IT
-    country_name: Italy
-    state_code: BO
-    type: 'metropolitan city'
-    latitude: '44.49488700'
-    longitude: '11.34261620'
-  -
     id: 1717
     name: Brescia
     country_id: 107
@@ -18119,16 +18019,6 @@ state:
     type: province
     latitude: '40.61126630'
     longitude: '17.76362100'
-  -
-    id: 1682
-    name: Cagliari
-    country_id: 107
-    country_code: IT
-    country_name: Italy
-    state_code: CA
-    type: 'metropolitan city'
-    latitude: '39.22384110'
-    longitude: '9.12166130'
   -
     id: 1703
     name: Calabria
@@ -18179,16 +18069,6 @@ state:
     type: province
     latitude: '41.20783540'
     longitude: '14.10013260'
-  -
-    id: 1766
-    name: Catania
-    country_id: 107
-    country_code: IT
-    country_name: Italy
-    state_code: CT
-    type: 'metropolitan city'
-    latitude: '37.45154380'
-    longitude: '15.05574150'
   -
     id: 1728
     name: Catanzaro
@@ -18300,16 +18180,6 @@ state:
     latitude: '44.76636800'
     longitude: '11.76440680'
   -
-    id: 1680
-    name: Florence
-    country_id: 107
-    country_code: IT
-    country_name: Italy
-    state_code: FI
-    type: 'metropolitan city'
-    latitude: '43.76791780'
-    longitude: '11.25237920'
-  -
     id: 1771
     name: Foggia
     country_id: 107
@@ -18349,16 +18219,6 @@ state:
     type: province
     latitude: '41.65765280'
     longitude: '13.63627150'
-  -
-    id: 1699
-    name: Genoa
-    country_id: 107
-    country_code: IT
-    country_name: Italy
-    state_code: GE
-    type: 'metropolitan city'
-    latitude: '44.40564930'
-    longitude: '8.94625640'
   -
     id: 1777
     name: Gorizia
@@ -18401,7 +18261,7 @@ state:
     longitude: '14.19309180'
   -
     id: 1781
-    name: 'L''Aquila'
+    name: "L'Aquila"
     country_id: 107
     country_code: IT
     country_name: Italy
@@ -18570,26 +18430,6 @@ state:
     latitude: '39.53173890'
     longitude: '8.70407500'
   -
-    id: 1770
-    name: Messina
-    country_id: 107
-    country_code: IT
-    country_name: Italy
-    state_code: ME
-    type: 'metropolitan city'
-    latitude: '38.19373350'
-    longitude: '15.55420570'
-  -
-    id: 1698
-    name: Milan
-    country_id: 107
-    country_code: IT
-    country_name: Italy
-    state_code: MI
-    type: 'metropolitan city'
-    latitude: '45.45862600'
-    longitude: '9.18187300'
-  -
     id: 1757
     name: Modena
     country_id: 107
@@ -18619,16 +18459,6 @@ state:
     type: province
     latitude: '45.62359900'
     longitude: '9.25880150'
-  -
-    id: 1724
-    name: Naples
-    country_id: 107
-    country_code: IT
-    country_name: Italy
-    state_code: NA
-    type: 'metropolitan city'
-    latitude: '40.90197500'
-    longitude: '14.33264400'
   -
     id: 1774
     name: Novara
@@ -18820,16 +18650,6 @@ state:
     latitude: '44.41844430'
     longitude: '12.20359980'
   -
-    id: 1671
-    name: 'Reggio Calabria'
-    country_id: 107
-    country_code: IT
-    country_name: Italy
-    state_code: RC
-    type: 'metropolitan city'
-    latitude: '38.10843960'
-    longitude: '15.64370480'
-  -
     id: 1708
     name: 'Reggio Emilia'
     country_id: 107
@@ -18859,16 +18679,6 @@ state:
     type: province
     latitude: '44.06782880'
     longitude: '12.56951580'
-  -
-    id: 1711
-    name: Rome
-    country_id: 107
-    country_code: IT
-    country_name: Italy
-    state_code: RM
-    type: 'metropolitan city'
-    latitude: '41.90270080'
-    longitude: '12.49623520'
   -
     id: 1719
     name: Rovigo
@@ -18970,16 +18780,6 @@ state:
     latitude: '39.38935350'
     longitude: '8.93970000'
   -
-    id: 1767
-    name: 'South Tyrol'
-    country_id: 107
-    country_code: IT
-    country_name: Italy
-    state_code: BZ
-    type: 'autonomous province'
-    latitude: '46.49494500'
-    longitude: '11.34026570'
-  -
     id: 1743
     name: Taranto
     country_id: 107
@@ -19020,16 +18820,6 @@ state:
     latitude: '38.01831160'
     longitude: '12.51482650'
   -
-    id: 1748
-    name: Trentino
-    country_id: 107
-    country_code: IT
-    country_name: Italy
-    state_code: TN
-    type: 'autonomous province'
-    latitude: '46.05120040'
-    longitude: '11.11753920'
-  -
     id: 1725
     name: 'Trentino-South Tyrol'
     country_id: 107
@@ -19059,16 +18849,6 @@ state:
     type: 'decentralized regional entity'
     latitude: '45.68948230'
     longitude: '13.78330720'
-  -
-    id: 1710
-    name: Turin
-    country_id: 107
-    country_code: IT
-    country_name: Italy
-    state_code: TO
-    type: 'metropolitan city'
-    latitude: '45.06329900'
-    longitude: '7.66928900'
   -
     id: 1664
     name: Tuscany
@@ -19119,16 +18899,6 @@ state:
     type: region
     latitude: '45.44146620'
     longitude: '12.31525950'
-  -
-    id: 1673
-    name: Venice
-    country_id: 107
-    country_code: IT
-    country_name: Italy
-    state_code: VE
-    type: 'metropolitan city'
-    latitude: '45.44146850'
-    longitude: '12.31526720'
   -
     id: 1726
     name: Verbano-Cusio-Ossola
@@ -19871,7 +19641,7 @@ state:
     longitude: '35.70476820'
   -
     id: 964
-    name: 'Ma''an'
+    name: "Ma'an"
     country_id: 111
     country_code: JO
     country_name: Jordan
@@ -20371,7 +20141,7 @@ state:
     longitude: '39.71371810'
   -
     id: 178
-    name: 'Murang''a'
+    name: "Murang'a"
     country_id: 113
     country_code: KE
     country_name: Kenya
@@ -22311,7 +22081,7 @@ state:
     longitude: '27.83114280'
   -
     id: 3023
-    name: 'Mohale''s Hoek District'
+    name: "Mohale's Hoek District"
     country_id: 122
     country_code: LS
     country_name: Lesotho
@@ -22331,7 +22101,7 @@ state:
     longitude: '28.95286450'
   -
     id: 3025
-    name: 'Qacha''s Nek District'
+    name: "Qacha's Nek District"
     country_id: 122
     country_code: LS
     country_name: Lesotho
@@ -23669,846 +23439,6 @@ state:
     type: null
     latitude: '49.59537060'
     longitude: '6.13331780'
-  -
-    id: 703
-    name: 'Aerodrom Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '01'
-    type: null
-    latitude: '41.94643630'
-    longitude: '21.49317130'
-  -
-    id: 656
-    name: 'Aračinovo Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '02'
-    type: null
-    latitude: '42.02473810'
-    longitude: '21.57664070'
-  -
-    id: 716
-    name: 'Berovo Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '03'
-    type: null
-    latitude: '41.66619290'
-    longitude: '22.76288300'
-  -
-    id: 679
-    name: 'Bitola Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '04'
-    type: null
-    latitude: '41.03633020'
-    longitude: '21.33219740'
-  -
-    id: 649
-    name: 'Bogdanci Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '05'
-    type: null
-    latitude: '41.18696160'
-    longitude: '22.59602680'
-  -
-    id: 721
-    name: 'Bogovinje Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '06'
-    type: null
-    latitude: '41.92363710'
-    longitude: '20.91638870'
-  -
-    id: 652
-    name: 'Bosilovo Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '07'
-    type: null
-    latitude: '41.49048640'
-    longitude: '22.78671740'
-  -
-    id: 660
-    name: 'Brvenica Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '08'
-    type: null
-    latitude: '41.96814820'
-    longitude: '20.98195860'
-  -
-    id: 694
-    name: 'Butel Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '09'
-    type: null
-    latitude: '42.08950680'
-    longitude: '21.46336100'
-  -
-    id: 704
-    name: 'Čair Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '79'
-    type: null
-    latitude: '41.99303550'
-    longitude: '21.43653180'
-  -
-    id: 676
-    name: 'Čaška Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '80'
-    type: null
-    latitude: '41.64743800'
-    longitude: '21.69141150'
-  -
-    id: 702
-    name: 'Centar Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '77'
-    type: null
-    latitude: '41.96989340'
-    longitude: '21.42162670'
-  -
-    id: 720
-    name: 'Centar Župa Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '78'
-    type: null
-    latitude: '41.46522590'
-    longitude: '20.59305480'
-  -
-    id: 644
-    name: 'Češinovo-Obleševo Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '81'
-    type: null
-    latitude: '41.86393160'
-    longitude: '22.26224600'
-  -
-    id: 715
-    name: 'Čučer-Sandevo Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '82'
-    type: null
-    latitude: '42.14839460'
-    longitude: '21.40374070'
-  -
-    id: 645
-    name: 'Debarca Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '22'
-    type: null
-    latitude: '41.35840770'
-    longitude: '20.85529190'
-  -
-    id: 695
-    name: 'Delčevo Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '23'
-    type: null
-    latitude: '41.96843870'
-    longitude: '22.76288300'
-  -
-    id: 687
-    name: 'Demir Hisar Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '25'
-    type: null
-    latitude: '41.22708300'
-    longitude: '21.14142260'
-  -
-    id: 655
-    name: 'Demir Kapija Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '24'
-    type: null
-    latitude: '41.37955380'
-    longitude: '22.21455710'
-  -
-    id: 697
-    name: 'Dojran Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '26'
-    type: null
-    latitude: '41.24366720'
-    longitude: '22.69137640'
-  -
-    id: 675
-    name: 'Dolneni Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '27'
-    type: null
-    latitude: '41.46409350'
-    longitude: '21.40374070'
-  -
-    id: 657
-    name: 'Drugovo Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '28'
-    type: null
-    latitude: '41.44081530'
-    longitude: '20.92682010'
-  -
-    id: 707
-    name: 'Gazi Baba Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '17'
-    type: null
-    latitude: '42.01629610'
-    longitude: '21.49913340'
-  -
-    id: 648
-    name: 'Gevgelija Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '18'
-    type: null
-    latitude: '41.21186060'
-    longitude: '22.38146240'
-  -
-    id: 722
-    name: 'Gjorče Petrov Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '29'
-    type: null
-    latitude: '42.06063740'
-    longitude: '21.32027360'
-  -
-    id: 693
-    name: 'Gostivar Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '19'
-    type: null
-    latitude: '41.80255410'
-    longitude: '20.90893780'
-  -
-    id: 708
-    name: 'Gradsko Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '20'
-    type: null
-    latitude: '41.59916080'
-    longitude: '21.88070640'
-  -
-    id: 684
-    name: 'Greater Skopje'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '85'
-    type: null
-    latitude: '41.99812940'
-    longitude: '21.42543550'
-  -
-    id: 690
-    name: 'Ilinden Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '34'
-    type: null
-    latitude: '41.99574430'
-    longitude: '21.56769750'
-  -
-    id: 678
-    name: 'Jegunovce Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '35'
-    type: null
-    latitude: '42.07407200'
-    longitude: '21.12204780'
-  -
-    id: 674
-    name: Karbinci
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '37'
-    type: null
-    latitude: '41.81801590'
-    longitude: '22.23247580'
-  -
-    id: 681
-    name: 'Karpoš Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '38'
-    type: null
-    latitude: '41.97096610'
-    longitude: '21.39181680'
-  -
-    id: 713
-    name: 'Kavadarci Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '36'
-    type: null
-    latitude: '41.28900680'
-    longitude: '21.99994350'
-  -
-    id: 688
-    name: 'Kičevo Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '40'
-    type: null
-    latitude: '41.51291120'
-    longitude: '20.95250650'
-  -
-    id: 686
-    name: 'Kisela Voda Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '39'
-    type: null
-    latitude: '41.92748000'
-    longitude: '21.49317130'
-  -
-    id: 723
-    name: 'Kočani Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '42'
-    type: null
-    latitude: '41.98583740'
-    longitude: '22.40530460'
-  -
-    id: 665
-    name: 'Konče Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '41'
-    type: null
-    latitude: '41.51710110'
-    longitude: '22.38146240'
-  -
-    id: 641
-    name: 'Kratovo Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '43'
-    type: null
-    latitude: '42.05371410'
-    longitude: '22.07148350'
-  -
-    id: 677
-    name: 'Kriva Palanka Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '44'
-    type: null
-    latitude: '42.20584540'
-    longitude: '22.33079650'
-  -
-    id: 647
-    name: 'Krivogaštani Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '45'
-    type: null
-    latitude: '41.30823060'
-    longitude: '21.36796890'
-  -
-    id: 714
-    name: 'Kruševo Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '46'
-    type: null
-    latitude: '41.37693310'
-    longitude: '21.26065540'
-  -
-    id: 683
-    name: 'Kumanovo Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '47'
-    type: null
-    latitude: '42.07326130'
-    longitude: '21.78531430'
-  -
-    id: 659
-    name: 'Lipkovo Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '48'
-    type: null
-    latitude: '42.20066260'
-    longitude: '21.61837550'
-  -
-    id: 705
-    name: 'Lozovo Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '49'
-    type: null
-    latitude: '41.78181390'
-    longitude: '21.90008270'
-  -
-    id: 701
-    name: 'Makedonska Kamenica Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '51'
-    type: null
-    latitude: '42.06946040'
-    longitude: '22.54834900'
-  -
-    id: 692
-    name: 'Makedonski Brod Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '52'
-    type: null
-    latitude: '41.51330880'
-    longitude: '21.21743290'
-  -
-    id: 669
-    name: 'Mavrovo and Rostuša Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '50'
-    type: null
-    latitude: '41.60924270'
-    longitude: '20.60124880'
-  -
-    id: 653
-    name: 'Mogila Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '53'
-    type: null
-    latitude: '41.14796450'
-    longitude: '21.45143690'
-  -
-    id: 664
-    name: 'Negotino Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '54'
-    type: null
-    latitude: '41.49899850'
-    longitude: '22.09532970'
-  -
-    id: 696
-    name: 'Novaci Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '55'
-    type: null
-    latitude: '41.04426610'
-    longitude: '21.45888940'
-  -
-    id: 718
-    name: 'Novo Selo Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '56'
-    type: null
-    latitude: '41.43255800'
-    longitude: '22.88204890'
-  -
-    id: 699
-    name: 'Ohrid Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '58'
-    type: null
-    latitude: '41.06820880'
-    longitude: '20.75992660'
-  -
-    id: 682
-    name: 'Oslomej Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '57'
-    type: null
-    latitude: '41.57583910'
-    longitude: '21.02219600'
-  -
-    id: 685
-    name: 'Pehčevo Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '60'
-    type: null
-    latitude: '41.77371320'
-    longitude: '22.88204890'
-  -
-    id: 698
-    name: 'Petrovec Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '59'
-    type: null
-    latitude: '41.90298970'
-    longitude: '21.68992100'
-  -
-    id: 670
-    name: 'Plasnica Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '61'
-    type: null
-    latitude: '41.45463490'
-    longitude: '21.10565390'
-  -
-    id: 666
-    name: 'Prilep Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '62'
-    type: null
-    latitude: '41.26931420'
-    longitude: '21.71376940'
-  -
-    id: 646
-    name: 'Probištip Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '63'
-    type: null
-    latitude: '41.95891460'
-    longitude: '22.16686700'
-  -
-    id: 709
-    name: 'Radoviš Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '64'
-    type: null
-    latitude: '41.64955310'
-    longitude: '22.47682870'
-  -
-    id: 717
-    name: 'Rankovce Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '65'
-    type: null
-    latitude: '42.18081410'
-    longitude: '22.09532970'
-  -
-    id: 712
-    name: 'Resen Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '66'
-    type: null
-    latitude: '40.93680930'
-    longitude: '21.04604070'
-  -
-    id: 691
-    name: 'Rosoman Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '67'
-    type: null
-    latitude: '41.48480060'
-    longitude: '21.88070640'
-  -
-    id: 667
-    name: 'Saraj Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '68'
-    type: null
-    latitude: '41.98694960'
-    longitude: '21.26065540'
-  -
-    id: 719
-    name: 'Sopište Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '70'
-    type: null
-    latitude: '41.86384920'
-    longitude: '21.30834990'
-  -
-    id: 643
-    name: 'Staro Nagoričane Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '71'
-    type: null
-    latitude: '42.21916920'
-    longitude: '21.90455410'
-  -
-    id: 661
-    name: 'Štip Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '83'
-    type: null
-    latitude: '41.70792970'
-    longitude: '22.19071220'
-  -
-    id: 700
-    name: 'Struga Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '72'
-    type: null
-    latitude: '41.31737440'
-    longitude: '20.66456830'
-  -
-    id: 710
-    name: 'Strumica Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '73'
-    type: null
-    latitude: '41.43780040'
-    longitude: '22.64274280'
-  -
-    id: 711
-    name: 'Studeničani Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '74'
-    type: null
-    latitude: '41.92256390'
-    longitude: '21.53639650'
-  -
-    id: 680
-    name: 'Šuto Orizari Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '84'
-    type: null
-    latitude: '42.02904160'
-    longitude: '21.40970270'
-  -
-    id: 640
-    name: 'Sveti Nikole Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '69'
-    type: null
-    latitude: '41.89803120'
-    longitude: '21.99994350'
-  -
-    id: 654
-    name: 'Tearce Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '75'
-    type: null
-    latitude: '42.07775110'
-    longitude: '21.05349230'
-  -
-    id: 663
-    name: 'Tetovo Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '76'
-    type: null
-    latitude: '42.02748600'
-    longitude: '20.95066360'
-  -
-    id: 671
-    name: 'Valandovo Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '10'
-    type: null
-    latitude: '41.32119090'
-    longitude: '22.50066930'
-  -
-    id: 658
-    name: 'Vasilevo Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '11'
-    type: null
-    latitude: '41.47416990'
-    longitude: '22.64221280'
-  -
-    id: 651
-    name: 'Veles Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '13'
-    type: null
-    latitude: '41.72744260'
-    longitude: '21.71376940'
-  -
-    id: 662
-    name: 'Vevčani Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '12'
-    type: null
-    latitude: '41.24075430'
-    longitude: '20.59156490'
-  -
-    id: 672
-    name: 'Vinica Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '14'
-    type: null
-    latitude: '41.85710200'
-    longitude: '22.57218810'
-  -
-    id: 650
-    name: 'Vraneštica Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '15'
-    type: null
-    latitude: '41.48290870'
-    longitude: '21.05796320'
-  -
-    id: 689
-    name: 'Vrapčište Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '16'
-    type: null
-    latitude: '41.87911600'
-    longitude: '20.83145000'
-  -
-    id: 642
-    name: 'Zajas Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '31'
-    type: null
-    latitude: '41.60303280'
-    longitude: '20.87913430'
-  -
-    id: 706
-    name: 'Zelenikovo Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '32'
-    type: null
-    latitude: '41.87338120'
-    longitude: '21.60272500'
-  -
-    id: 668
-    name: 'Želino Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '30'
-    type: null
-    latitude: '41.90065310'
-    longitude: '21.11757670'
-  -
-    id: 673
-    name: 'Zrnovci Municipality'
-    country_id: 129
-    country_code: MK
-    country_name: Macedonia
-    state_code: '33'
-    type: null
-    latitude: '41.82282210'
-    longitude: '22.41722560'
   -
     id: 2951
     name: 'Antananarivo Province'
@@ -25921,7 +24851,7 @@ state:
     longitude: '14.50290400'
   -
     id: 100
-    name: 'St. Julian''s'
+    name: "St. Julian's"
     country_id: 135
     country_code: MT
     country_name: Malta
@@ -25931,7 +24861,7 @@ state:
     longitude: '-85.89171270'
   -
     id: 139
-    name: 'St. Paul''s Bay'
+    name: "St. Paul's Bay"
     country_id: 135
     country_code: MT
     country_name: Malta
@@ -25951,7 +24881,7 @@ state:
     longitude: '14.46941860'
   -
     id: 122
-    name: 'Ta'' Xbiex'
+    name: "Ta' Xbiex"
     country_id: 135
     country_code: MT
     country_name: Malta
@@ -26241,174 +25171,124 @@ state:
     longitude: '-14.65878210'
   -
     id: 3248
-    name: Agaléga
+    name: 'Agalega Islands'
     country_id: 140
     country_code: MU
     country_name: Mauritius
     state_code: AG
-    type: null
+    type: dependency
     latitude: '-10.40000000'
     longitude: '56.61666670'
   -
-    id: 3262
-    name: 'Beau Bassin-Rose Hill'
-    country_id: 140
-    country_code: MU
-    country_name: Mauritius
-    state_code: BR
-    type: null
-    latitude: '-20.22303050'
-    longitude: '57.46838300'
-  -
-    id: 3251
-    name: 'Cargados Carajos'
-    country_id: 140
-    country_code: MU
-    country_name: Mauritius
-    state_code: CC
-    type: null
-    latitude: '-16.58333300'
-    longitude: '59.61666700'
-  -
-    id: 3255
-    name: Curepipe
-    country_id: 140
-    country_code: MU
-    country_name: Mauritius
-    state_code: CU
-    type: null
-    latitude: '-20.31708720'
-    longitude: '57.52652890'
-  -
-    id: 3254
-    name: 'Flacq District'
-    country_id: 140
-    country_code: MU
-    country_name: Mauritius
-    state_code: FL
-    type: null
-    latitude: '-20.22578360'
-    longitude: '57.71192740'
-  -
-    id: 3264
-    name: 'Grand Port District'
-    country_id: 140
-    country_code: MU
-    country_name: Mauritius
-    state_code: GP
-    type: null
-    latitude: '-20.38515460'
-    longitude: '57.66657420'
-  -
-    id: 3253
-    name: 'Moka District'
-    country_id: 140
-    country_code: MU
-    country_name: Mauritius
-    state_code: MO
-    type: null
-    latitude: '-20.23997820'
-    longitude: '57.57592600'
-  -
-    id: 3250
-    name: 'Pamplemousses District'
-    country_id: 140
-    country_code: MU
-    country_name: Mauritius
-    state_code: PA
-    type: null
-    latitude: '-20.11360080'
-    longitude: '57.57592600'
-  -
-    id: 3263
-    name: 'Plaines Wilhems District'
-    country_id: 140
-    country_code: MU
-    country_name: Mauritius
-    state_code: PW
-    type: null
-    latitude: '-20.30548720'
-    longitude: '57.48535610'
-  -
-    id: 3256
-    name: 'Port Louis'
-    country_id: 140
-    country_code: MU
-    country_name: Mauritius
-    state_code: PU
-    type: null
-    latitude: '-20.16089120'
-    longitude: '57.50122220'
-  -
-    id: 3260
-    name: 'Port Louis District'
-    country_id: 140
-    country_code: MU
-    country_name: Mauritius
-    state_code: PL
-    type: null
-    latitude: '-20.16089120'
-    longitude: '57.50122220'
-  -
-    id: 3258
-    name: 'Quatre Bornes'
-    country_id: 140
-    country_code: MU
-    country_name: Mauritius
-    state_code: QB
-    type: null
-    latitude: '-20.26747180'
-    longitude: '57.47969810'
-  -
-    id: 3261
-    name: 'Rivière du Rempart District'
-    country_id: 140
-    country_code: MU
-    country_name: Mauritius
-    state_code: RR
-    type: null
-    latitude: '-20.05609830'
-    longitude: '57.65523890'
-  -
     id: 3259
-    name: 'Rivière Noire District'
+    name: 'Black River'
     country_id: 140
     country_code: MU
     country_name: Mauritius
     state_code: BL
-    type: null
+    type: district
     latitude: '-20.37084920'
     longitude: '57.39486490'
   -
+    id: 3254
+    name: Flacq
+    country_id: 140
+    country_code: MU
+    country_name: Mauritius
+    state_code: FL
+    type: district
+    latitude: '-20.22578360'
+    longitude: '57.71192740'
+  -
+    id: 3264
+    name: 'Grand Port'
+    country_id: 140
+    country_code: MU
+    country_name: Mauritius
+    state_code: GP
+    type: district
+    latitude: '-20.38515460'
+    longitude: '57.66657420'
+  -
+    id: 3253
+    name: Moka
+    country_id: 140
+    country_code: MU
+    country_name: Mauritius
+    state_code: MO
+    type: district
+    latitude: '-20.23997820'
+    longitude: '57.57592600'
+  -
+    id: 3250
+    name: Pamplemousses
+    country_id: 140
+    country_code: MU
+    country_name: Mauritius
+    state_code: PA
+    type: district
+    latitude: '-20.11360080'
+    longitude: '57.57592600'
+  -
+    id: 3263
+    name: 'Plaines Wilhems'
+    country_id: 140
+    country_code: MU
+    country_name: Mauritius
+    state_code: PW
+    type: district
+    latitude: '-20.30548720'
+    longitude: '57.48535610'
+  -
+    id: 3260
+    name: 'Port Louis'
+    country_id: 140
+    country_code: MU
+    country_name: Mauritius
+    state_code: PL
+    type: district
+    latitude: '-20.16089120'
+    longitude: '57.50122220'
+  -
+    id: 3261
+    name: 'Rivière du Rempart'
+    country_id: 140
+    country_code: MU
+    country_name: Mauritius
+    state_code: RR
+    type: district
+    latitude: '-20.05609830'
+    longitude: '57.65523890'
+  -
     id: 3249
-    name: Rodrigues
+    name: 'Rodrigues Island'
     country_id: 140
     country_code: MU
     country_name: Mauritius
     state_code: RO
-    type: null
+    type: dependency
     latitude: '-19.72453850'
     longitude: '63.42721850'
   -
+    id: 3251
+    name: 'Saint Brandon Islands'
+    country_id: 140
+    country_code: MU
+    country_name: Mauritius
+    state_code: CC
+    type: dependency
+    latitude: '-16.58333300'
+    longitude: '59.61666700'
+  -
     id: 3257
-    name: 'Savanne District'
+    name: Savanne
     country_id: 140
     country_code: MU
     country_name: Mauritius
     state_code: SA
-    type: null
+    type: district
     latitude: '-20.47395300'
     longitude: '57.48535610'
-  -
-    id: 3252
-    name: Vacoas-Phoenix
-    country_id: 140
-    country_code: MU
-    country_name: Mauritius
-    state_code: VP
-    type: null
-    latitude: '-20.29840260'
-    longitude: '57.49383550'
   -
     id: 3456
     name: Aguascalientes
@@ -26475,7 +25355,7 @@ state:
     country_id: 142
     country_code: MX
     country_name: Mexico
-    state_code: CDMX
+    state_code: CMX
     type: 'federal district'
     latitude: '19.43260770'
     longitude: '-99.13320800'
@@ -28011,7 +26891,7 @@ state:
     longitude: '-6.92086550'
   -
     id: 3271
-    name: 'L''Oriental'
+    name: "L'Oriental"
     country_id: 149
     country_code: MA
     country_name: Morocco
@@ -29317,8 +28197,8 @@ state:
     country_name: Netherlands
     state_code: ZH
     type: province
-    latitude: '41.60086810'
-    longitude: '-87.60698940'
+    latitude: '51.99667920'
+    longitude: '4.55973970'
   -
     id: 2610
     name: Utrecht
@@ -29339,6 +28219,36 @@ state:
     type: province
     latitude: '51.49403090'
     longitude: '3.84968150'
+  -
+    id: 5227
+    name: 'Loyalty Islands Province'
+    country_id: 157
+    country_code: NC
+    country_name: 'New Caledonia'
+    state_code: '03'
+    type: province
+    latitude: '-20.96670000'
+    longitude: '167.23330000'
+  -
+    id: 5226
+    name: 'North Province'
+    country_id: 157
+    country_code: NC
+    country_name: 'New Caledonia'
+    state_code: '02'
+    type: province
+    latitude: '-22.27580000'
+    longitude: '166.45800000'
+  -
+    id: 5225
+    name: 'South Province'
+    country_id: 157
+    country_code: NC
+    country_name: 'New Caledonia'
+    state_code: '01'
+    type: province
+    latitude: '-22.27580000'
+    longitude: '166.45800000'
   -
     id: 4072
     name: 'Auckland Region'
@@ -29391,7 +28301,7 @@ state:
     longitude: '178.32393090'
   -
     id: 4075
-    name: 'Hawke''s Bay Region'
+    name: "Hawke's Bay Region"
     country_id: 158
     country_code: NZ
     country_name: 'New Zealand'
@@ -30230,55 +29140,865 @@ state:
     latitude: '39.35391780'
     longitude: '126.16827100'
   -
-    id: 1017
-    name: Akershus
-    country_id: 165
-    country_code: 'NO'
-    country_name: Norway
+    id: 703
+    name: 'Aerodrom Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '01'
+    type: null
+    latitude: '41.94643630'
+    longitude: '21.49317130'
+  -
+    id: 656
+    name: 'Aračinovo Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
     state_code: '02'
     type: null
-    latitude: '28.37042030'
-    longitude: '-81.54680580'
+    latitude: '42.02473810'
+    longitude: '21.57664070'
   -
-    id: 1011
-    name: Buskerud
-    country_id: 165
-    country_code: 'NO'
-    country_name: Norway
-    state_code: '06'
+    id: 716
+    name: 'Berovo Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '03'
     type: null
-    latitude: '60.48460250'
-    longitude: '8.69837640'
+    latitude: '41.66619290'
+    longitude: '22.76288300'
   -
-    id: 1016
-    name: Finnmark
-    country_id: 165
-    country_code: 'NO'
-    country_name: Norway
-    state_code: '20'
-    type: null
-    latitude: '70.48303880'
-    longitude: '26.01351070'
-  -
-    id: 1019
-    name: Hedmark
-    country_id: 165
-    country_code: 'NO'
-    country_name: Norway
+    id: 679
+    name: 'Bitola Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
     state_code: '04'
     type: null
-    latitude: '61.39673110'
-    longitude: '11.56273690'
+    latitude: '41.03633020'
+    longitude: '21.33219740'
   -
-    id: 1023
-    name: Hordaland
+    id: 649
+    name: 'Bogdanci Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '05'
+    type: null
+    latitude: '41.18696160'
+    longitude: '22.59602680'
+  -
+    id: 721
+    name: 'Bogovinje Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '06'
+    type: null
+    latitude: '41.92363710'
+    longitude: '20.91638870'
+  -
+    id: 652
+    name: 'Bosilovo Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '07'
+    type: null
+    latitude: '41.49048640'
+    longitude: '22.78671740'
+  -
+    id: 660
+    name: 'Brvenica Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '08'
+    type: null
+    latitude: '41.96814820'
+    longitude: '20.98195860'
+  -
+    id: 694
+    name: 'Butel Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '09'
+    type: null
+    latitude: '42.08950680'
+    longitude: '21.46336100'
+  -
+    id: 704
+    name: 'Čair Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '79'
+    type: null
+    latitude: '41.99303550'
+    longitude: '21.43653180'
+  -
+    id: 676
+    name: 'Čaška Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '80'
+    type: null
+    latitude: '41.64743800'
+    longitude: '21.69141150'
+  -
+    id: 702
+    name: 'Centar Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '77'
+    type: null
+    latitude: '41.96989340'
+    longitude: '21.42162670'
+  -
+    id: 720
+    name: 'Centar Župa Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '78'
+    type: null
+    latitude: '41.46522590'
+    longitude: '20.59305480'
+  -
+    id: 644
+    name: 'Češinovo-Obleševo Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '81'
+    type: null
+    latitude: '41.86393160'
+    longitude: '22.26224600'
+  -
+    id: 715
+    name: 'Čučer-Sandevo Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '82'
+    type: null
+    latitude: '42.14839460'
+    longitude: '21.40374070'
+  -
+    id: 645
+    name: 'Debarca Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '22'
+    type: null
+    latitude: '41.35840770'
+    longitude: '20.85529190'
+  -
+    id: 695
+    name: 'Delčevo Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '23'
+    type: null
+    latitude: '41.96843870'
+    longitude: '22.76288300'
+  -
+    id: 687
+    name: 'Demir Hisar Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '25'
+    type: null
+    latitude: '41.22708300'
+    longitude: '21.14142260'
+  -
+    id: 655
+    name: 'Demir Kapija Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '24'
+    type: null
+    latitude: '41.37955380'
+    longitude: '22.21455710'
+  -
+    id: 697
+    name: 'Dojran Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '26'
+    type: null
+    latitude: '41.24366720'
+    longitude: '22.69137640'
+  -
+    id: 675
+    name: 'Dolneni Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '27'
+    type: null
+    latitude: '41.46409350'
+    longitude: '21.40374070'
+  -
+    id: 657
+    name: 'Drugovo Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '28'
+    type: null
+    latitude: '41.44081530'
+    longitude: '20.92682010'
+  -
+    id: 707
+    name: 'Gazi Baba Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '17'
+    type: null
+    latitude: '42.01629610'
+    longitude: '21.49913340'
+  -
+    id: 648
+    name: 'Gevgelija Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '18'
+    type: null
+    latitude: '41.21186060'
+    longitude: '22.38146240'
+  -
+    id: 722
+    name: 'Gjorče Petrov Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '29'
+    type: null
+    latitude: '42.06063740'
+    longitude: '21.32027360'
+  -
+    id: 693
+    name: 'Gostivar Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '19'
+    type: null
+    latitude: '41.80255410'
+    longitude: '20.90893780'
+  -
+    id: 708
+    name: 'Gradsko Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '20'
+    type: null
+    latitude: '41.59916080'
+    longitude: '21.88070640'
+  -
+    id: 684
+    name: 'Greater Skopje'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '85'
+    type: null
+    latitude: '41.99812940'
+    longitude: '21.42543550'
+  -
+    id: 690
+    name: 'Ilinden Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '34'
+    type: null
+    latitude: '41.99574430'
+    longitude: '21.56769750'
+  -
+    id: 678
+    name: 'Jegunovce Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '35'
+    type: null
+    latitude: '42.07407200'
+    longitude: '21.12204780'
+  -
+    id: 674
+    name: Karbinci
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '37'
+    type: null
+    latitude: '41.81801590'
+    longitude: '22.23247580'
+  -
+    id: 681
+    name: 'Karpoš Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '38'
+    type: null
+    latitude: '41.97096610'
+    longitude: '21.39181680'
+  -
+    id: 713
+    name: 'Kavadarci Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '36'
+    type: null
+    latitude: '41.28900680'
+    longitude: '21.99994350'
+  -
+    id: 688
+    name: 'Kičevo Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '40'
+    type: null
+    latitude: '41.51291120'
+    longitude: '20.95250650'
+  -
+    id: 686
+    name: 'Kisela Voda Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '39'
+    type: null
+    latitude: '41.92748000'
+    longitude: '21.49317130'
+  -
+    id: 723
+    name: 'Kočani Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '42'
+    type: null
+    latitude: '41.98583740'
+    longitude: '22.40530460'
+  -
+    id: 665
+    name: 'Konče Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '41'
+    type: null
+    latitude: '41.51710110'
+    longitude: '22.38146240'
+  -
+    id: 641
+    name: 'Kratovo Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '43'
+    type: null
+    latitude: '42.05371410'
+    longitude: '22.07148350'
+  -
+    id: 677
+    name: 'Kriva Palanka Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '44'
+    type: null
+    latitude: '42.20584540'
+    longitude: '22.33079650'
+  -
+    id: 647
+    name: 'Krivogaštani Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '45'
+    type: null
+    latitude: '41.30823060'
+    longitude: '21.36796890'
+  -
+    id: 714
+    name: 'Kruševo Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '46'
+    type: null
+    latitude: '41.37693310'
+    longitude: '21.26065540'
+  -
+    id: 683
+    name: 'Kumanovo Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '47'
+    type: null
+    latitude: '42.07326130'
+    longitude: '21.78531430'
+  -
+    id: 659
+    name: 'Lipkovo Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '48'
+    type: null
+    latitude: '42.20066260'
+    longitude: '21.61837550'
+  -
+    id: 705
+    name: 'Lozovo Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '49'
+    type: null
+    latitude: '41.78181390'
+    longitude: '21.90008270'
+  -
+    id: 701
+    name: 'Makedonska Kamenica Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '51'
+    type: null
+    latitude: '42.06946040'
+    longitude: '22.54834900'
+  -
+    id: 692
+    name: 'Makedonski Brod Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '52'
+    type: null
+    latitude: '41.51330880'
+    longitude: '21.21743290'
+  -
+    id: 669
+    name: 'Mavrovo and Rostuša Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '50'
+    type: null
+    latitude: '41.60924270'
+    longitude: '20.60124880'
+  -
+    id: 653
+    name: 'Mogila Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '53'
+    type: null
+    latitude: '41.14796450'
+    longitude: '21.45143690'
+  -
+    id: 664
+    name: 'Negotino Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '54'
+    type: null
+    latitude: '41.49899850'
+    longitude: '22.09532970'
+  -
+    id: 696
+    name: 'Novaci Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '55'
+    type: null
+    latitude: '41.04426610'
+    longitude: '21.45888940'
+  -
+    id: 718
+    name: 'Novo Selo Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '56'
+    type: null
+    latitude: '41.43255800'
+    longitude: '22.88204890'
+  -
+    id: 699
+    name: 'Ohrid Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '58'
+    type: null
+    latitude: '41.06820880'
+    longitude: '20.75992660'
+  -
+    id: 682
+    name: 'Oslomej Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '57'
+    type: null
+    latitude: '41.57583910'
+    longitude: '21.02219600'
+  -
+    id: 685
+    name: 'Pehčevo Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '60'
+    type: null
+    latitude: '41.77371320'
+    longitude: '22.88204890'
+  -
+    id: 698
+    name: 'Petrovec Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '59'
+    type: null
+    latitude: '41.90298970'
+    longitude: '21.68992100'
+  -
+    id: 670
+    name: 'Plasnica Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '61'
+    type: null
+    latitude: '41.45463490'
+    longitude: '21.10565390'
+  -
+    id: 666
+    name: 'Prilep Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '62'
+    type: null
+    latitude: '41.26931420'
+    longitude: '21.71376940'
+  -
+    id: 646
+    name: 'Probištip Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '63'
+    type: null
+    latitude: '41.95891460'
+    longitude: '22.16686700'
+  -
+    id: 709
+    name: 'Radoviš Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '64'
+    type: null
+    latitude: '41.64955310'
+    longitude: '22.47682870'
+  -
+    id: 717
+    name: 'Rankovce Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '65'
+    type: null
+    latitude: '42.18081410'
+    longitude: '22.09532970'
+  -
+    id: 712
+    name: 'Resen Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '66'
+    type: null
+    latitude: '40.93680930'
+    longitude: '21.04604070'
+  -
+    id: 691
+    name: 'Rosoman Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '67'
+    type: null
+    latitude: '41.48480060'
+    longitude: '21.88070640'
+  -
+    id: 667
+    name: 'Saraj Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '68'
+    type: null
+    latitude: '41.98694960'
+    longitude: '21.26065540'
+  -
+    id: 719
+    name: 'Sopište Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '70'
+    type: null
+    latitude: '41.86384920'
+    longitude: '21.30834990'
+  -
+    id: 643
+    name: 'Staro Nagoričane Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '71'
+    type: null
+    latitude: '42.21916920'
+    longitude: '21.90455410'
+  -
+    id: 661
+    name: 'Štip Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '83'
+    type: null
+    latitude: '41.70792970'
+    longitude: '22.19071220'
+  -
+    id: 700
+    name: 'Struga Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '72'
+    type: null
+    latitude: '41.31737440'
+    longitude: '20.66456830'
+  -
+    id: 710
+    name: 'Strumica Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '73'
+    type: null
+    latitude: '41.43780040'
+    longitude: '22.64274280'
+  -
+    id: 711
+    name: 'Studeničani Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '74'
+    type: null
+    latitude: '41.92256390'
+    longitude: '21.53639650'
+  -
+    id: 680
+    name: 'Šuto Orizari Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '84'
+    type: null
+    latitude: '42.02904160'
+    longitude: '21.40970270'
+  -
+    id: 640
+    name: 'Sveti Nikole Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '69'
+    type: null
+    latitude: '41.89803120'
+    longitude: '21.99994350'
+  -
+    id: 654
+    name: 'Tearce Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '75'
+    type: null
+    latitude: '42.07775110'
+    longitude: '21.05349230'
+  -
+    id: 663
+    name: 'Tetovo Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '76'
+    type: null
+    latitude: '42.02748600'
+    longitude: '20.95066360'
+  -
+    id: 671
+    name: 'Valandovo Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '10'
+    type: null
+    latitude: '41.32119090'
+    longitude: '22.50066930'
+  -
+    id: 658
+    name: 'Vasilevo Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '11'
+    type: null
+    latitude: '41.47416990'
+    longitude: '22.64221280'
+  -
+    id: 651
+    name: 'Veles Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '13'
+    type: null
+    latitude: '41.72744260'
+    longitude: '21.71376940'
+  -
+    id: 662
+    name: 'Vevčani Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '12'
+    type: null
+    latitude: '41.24075430'
+    longitude: '20.59156490'
+  -
+    id: 672
+    name: 'Vinica Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '14'
+    type: null
+    latitude: '41.85710200'
+    longitude: '22.57218810'
+  -
+    id: 650
+    name: 'Vraneštica Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '15'
+    type: null
+    latitude: '41.48290870'
+    longitude: '21.05796320'
+  -
+    id: 689
+    name: 'Vrapčište Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '16'
+    type: null
+    latitude: '41.87911600'
+    longitude: '20.83145000'
+  -
+    id: 642
+    name: 'Zajas Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '31'
+    type: null
+    latitude: '41.60303280'
+    longitude: '20.87913430'
+  -
+    id: 706
+    name: 'Zelenikovo Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '32'
+    type: null
+    latitude: '41.87338120'
+    longitude: '21.60272500'
+  -
+    id: 668
+    name: 'Želino Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '30'
+    type: null
+    latitude: '41.90065310'
+    longitude: '21.11757670'
+  -
+    id: 673
+    name: 'Zrnovci Municipality'
+    country_id: 129
+    country_code: MK
+    country_name: 'North Macedonia'
+    state_code: '33'
+    type: null
+    latitude: '41.82282210'
+    longitude: '22.41722560'
+  -
+    id: 1014
+    name: Agder
     country_id: 165
     country_code: 'NO'
     country_name: Norway
-    state_code: '12'
-    type: null
-    latitude: '60.27336740'
-    longitude: '5.72201940'
+    state_code: '42'
+    type: county
+    latitude: '58.74069340'
+    longitude: '6.75315210'
+  -
+    id: 1009
+    name: Innlandet
+    country_id: 165
+    country_code: 'NO'
+    country_name: Norway
+    state_code: '34'
+    type: county
+    latitude: '61.19357870'
+    longitude: '5.50832660'
   -
     id: 1026
     name: 'Jan Mayen'
@@ -30286,7 +30006,7 @@ state:
     country_code: 'NO'
     country_name: Norway
     state_code: '22'
-    type: null
+    type: 'arctic region'
     latitude: '71.03181800'
     longitude: '-8.29203460'
   -
@@ -30296,19 +30016,9 @@ state:
     country_code: 'NO'
     country_name: Norway
     state_code: '15'
-    type: null
+    type: county
     latitude: '62.84068330'
     longitude: '7.00714300'
-  -
-    id: 1012
-    name: Nord-Trøndelag
-    country_id: 165
-    country_code: 'NO'
-    country_name: Norway
-    state_code: '17'
-    type: null
-    latitude: '64.43707920'
-    longitude: '11.74629500'
   -
     id: 1025
     name: Nordland
@@ -30316,19 +30026,9 @@ state:
     country_code: 'NO'
     country_name: Norway
     state_code: '18'
-    type: null
+    type: county
     latitude: '67.69305800'
     longitude: '12.70739360'
-  -
-    id: 1009
-    name: Oppland
-    country_id: 165
-    country_code: 'NO'
-    country_name: Norway
-    state_code: '05'
-    type: null
-    latitude: '61.54227520'
-    longitude: '9.71663150'
   -
     id: 1007
     name: Oslo
@@ -30336,19 +30036,9 @@ state:
     country_code: 'NO'
     country_name: Norway
     state_code: '03'
-    type: null
+    type: county
     latitude: '59.91386880'
     longitude: '10.75224540'
-  -
-    id: 1022
-    name: Østfold
-    country_id: 165
-    country_code: 'NO'
-    country_name: Norway
-    state_code: '01'
-    type: null
-    latitude: '59.25582860'
-    longitude: '11.32790060'
   -
     id: 1021
     name: Rogaland
@@ -30356,29 +30046,9 @@ state:
     country_code: 'NO'
     country_name: Norway
     state_code: '11'
-    type: null
+    type: county
     latitude: '59.14895440'
     longitude: '6.01434320'
-  -
-    id: 1018
-    name: 'Sogn og Fjordane'
-    country_id: 165
-    country_code: 'NO'
-    country_name: Norway
-    state_code: '14'
-    type: null
-    latitude: '61.55394350'
-    longitude: '6.33258790'
-  -
-    id: 1010
-    name: Sør-Trøndelag
-    country_id: 165
-    country_code: 'NO'
-    country_name: Norway
-    state_code: '16'
-    type: null
-    latitude: '63.01368230'
-    longitude: '10.34871360'
   -
     id: 1013
     name: Svalbard
@@ -30386,29 +30056,19 @@ state:
     country_code: 'NO'
     country_name: Norway
     state_code: '21'
-    type: null
+    type: 'arctic region'
     latitude: '77.87497250'
     longitude: '20.97518210'
   -
-    id: 1024
-    name: Telemark
-    country_id: 165
-    country_code: 'NO'
-    country_name: Norway
-    state_code: '08'
-    type: null
-    latitude: '59.39139850'
-    longitude: '8.32112090'
-  -
     id: 1015
-    name: Troms
+    name: 'Troms og Finnmark'
     country_id: 165
     country_code: 'NO'
     country_name: Norway
-    state_code: '19'
-    type: null
-    latitude: '69.81782420'
-    longitude: '18.78193650'
+    state_code: '54'
+    type: county
+    latitude: '69.77890670'
+    longitude: '18.99401840'
   -
     id: 1006
     name: Trøndelag
@@ -30416,29 +30076,39 @@ state:
     country_code: 'NO'
     country_name: Norway
     state_code: '50'
-    type: null
+    type: county
     latitude: '63.54201250'
     longitude: '10.93692670'
   -
-    id: 1014
-    name: Vest-Agder
+    id: 1024
+    name: 'Vestfold og Telemark'
     country_id: 165
     country_code: 'NO'
     country_name: Norway
-    state_code: '10'
-    type: null
-    latitude: '58.09990810'
-    longitude: '6.58698090'
+    state_code: '38'
+    type: county
+    latitude: '59.41174820'
+    longitude: '7.76471750'
   -
-    id: 1008
-    name: Vestfold
+    id: 1018
+    name: Vestland
     country_id: 165
     country_code: 'NO'
     country_name: Norway
-    state_code: '07'
-    type: null
-    latitude: '59.17078620'
-    longitude: '10.11443550'
+    state_code: '46'
+    type: county
+    latitude: '60.90694420'
+    longitude: '3.96270810'
+  -
+    id: 1011
+    name: Viken
+    country_id: 165
+    country_code: 'NO'
+    country_name: Norway
+    state_code: '30'
+    type: county
+    latitude: '59.96530050'
+    longitude: '7.45051440'
   -
     id: 3058
     name: 'Ad Dakhiliyah'
@@ -30810,6 +30480,166 @@ state:
     latitude: '5.32681190'
     longitude: '132.22391170'
   -
+    id: 5118
+    name: Bethlehem
+    country_id: 169
+    country_code: PS
+    country_name: 'Palestinian Territory Occupied'
+    state_code: BTH
+    type: governorate
+    latitude: '31.70539960'
+    longitude: '35.19368770'
+  -
+    id: 5119
+    name: 'Deir El Balah'
+    country_id: 169
+    country_code: PS
+    country_name: 'Palestinian Territory Occupied'
+    state_code: DEB
+    type: governorate
+    latitude: null
+    longitude: null
+  -
+    id: 5120
+    name: Gaza
+    country_id: 169
+    country_code: PS
+    country_name: 'Palestinian Territory Occupied'
+    state_code: GZA
+    type: governorate
+    latitude: null
+    longitude: null
+  -
+    id: 5121
+    name: Hebron
+    country_id: 169
+    country_code: PS
+    country_name: 'Palestinian Territory Occupied'
+    state_code: HBN
+    type: governorate
+    latitude: '31.53260010'
+    longitude: '35.06394750'
+  -
+    id: 5122
+    name: Jenin
+    country_id: 169
+    country_code: PS
+    country_name: 'Palestinian Territory Occupied'
+    state_code: JEN
+    type: governorate
+    latitude: null
+    longitude: null
+  -
+    id: 5123
+    name: 'Jericho and Al Aghwar'
+    country_id: 169
+    country_code: PS
+    country_name: 'Palestinian Territory Occupied'
+    state_code: JRH
+    type: governorate
+    latitude: null
+    longitude: null
+  -
+    id: 5124
+    name: Jerusalem
+    country_id: 169
+    country_code: PS
+    country_name: 'Palestinian Territory Occupied'
+    state_code: JEM
+    type: governorate
+    latitude: null
+    longitude: null
+  -
+    id: 5125
+    name: 'Khan Yunis'
+    country_id: 169
+    country_code: PS
+    country_name: 'Palestinian Territory Occupied'
+    state_code: KYS
+    type: governorate
+    latitude: null
+    longitude: null
+  -
+    id: 5126
+    name: Nablus
+    country_id: 169
+    country_code: PS
+    country_name: 'Palestinian Territory Occupied'
+    state_code: NBS
+    type: governorate
+    latitude: null
+    longitude: null
+  -
+    id: 5127
+    name: 'North Gaza'
+    country_id: 169
+    country_code: PS
+    country_name: 'Palestinian Territory Occupied'
+    state_code: NGZ
+    type: governorate
+    latitude: null
+    longitude: null
+  -
+    id: 5128
+    name: Qalqilya
+    country_id: 169
+    country_code: PS
+    country_name: 'Palestinian Territory Occupied'
+    state_code: QQA
+    type: governorate
+    latitude: null
+    longitude: null
+  -
+    id: 5129
+    name: Rafah
+    country_id: 169
+    country_code: PS
+    country_name: 'Palestinian Territory Occupied'
+    state_code: RFH
+    type: governorate
+    latitude: null
+    longitude: null
+  -
+    id: 5130
+    name: Ramallah
+    country_id: 169
+    country_code: PS
+    country_name: 'Palestinian Territory Occupied'
+    state_code: RBH
+    type: governorate
+    latitude: null
+    longitude: null
+  -
+    id: 5131
+    name: Salfit
+    country_id: 169
+    country_code: PS
+    country_name: 'Palestinian Territory Occupied'
+    state_code: SLT
+    type: governorate
+    latitude: null
+    longitude: null
+  -
+    id: 5132
+    name: Tubas
+    country_id: 169
+    country_code: PS
+    country_name: 'Palestinian Territory Occupied'
+    state_code: TBS
+    type: governorate
+    latitude: null
+    longitude: null
+  -
+    id: 5133
+    name: Tulkarm
+    country_id: 169
+    country_code: PS
+    country_name: 'Palestinian Territory Occupied'
+    state_code: TKM
+    type: governorate
+    latitude: null
+    longitude: null
+  -
     id: 1393
     name: 'Bocas del Toro Province'
     country_id: 170
@@ -30944,7 +30774,7 @@ state:
     name: Bougainville
     country_id: 171
     country_code: PG
-    country_name: 'Papua new Guinea'
+    country_name: 'Papua New Guinea'
     state_code: NSB
     type: null
     latitude: '-6.37539190'
@@ -30954,7 +30784,7 @@ state:
     name: 'Central Province'
     country_id: 171
     country_code: PG
-    country_name: 'Papua new Guinea'
+    country_name: 'Papua New Guinea'
     state_code: CPM
     type: null
     latitude: null
@@ -30964,7 +30794,7 @@ state:
     name: 'Chimbu Province'
     country_id: 171
     country_code: PG
-    country_name: 'Papua new Guinea'
+    country_name: 'Papua New Guinea'
     state_code: CPK
     type: null
     latitude: '-6.30876820'
@@ -30974,7 +30804,7 @@ state:
     name: 'East New Britain'
     country_id: 171
     country_code: PG
-    country_name: 'Papua new Guinea'
+    country_name: 'Papua New Guinea'
     state_code: EBR
     type: null
     latitude: '-4.61289430'
@@ -30984,7 +30814,7 @@ state:
     name: 'Eastern Highlands Province'
     country_id: 171
     country_code: PG
-    country_name: 'Papua new Guinea'
+    country_name: 'Papua New Guinea'
     state_code: EHG
     type: null
     latitude: '-6.58616740'
@@ -30994,7 +30824,7 @@ state:
     name: 'Enga Province'
     country_id: 171
     country_code: PG
-    country_name: 'Papua new Guinea'
+    country_name: 'Papua New Guinea'
     state_code: EPW
     type: null
     latitude: '-5.30058490'
@@ -31004,7 +30834,7 @@ state:
     name: Gulf
     country_id: 171
     country_code: PG
-    country_name: 'Papua new Guinea'
+    country_name: 'Papua New Guinea'
     state_code: GPK
     type: null
     latitude: '37.05483150'
@@ -31014,7 +30844,7 @@ state:
     name: Hela
     country_id: 171
     country_code: PG
-    country_name: 'Papua new Guinea'
+    country_name: 'Papua New Guinea'
     state_code: HLA
     type: null
     latitude: '42.33295160'
@@ -31024,7 +30854,7 @@ state:
     name: 'Jiwaka Province'
     country_id: 171
     country_code: PG
-    country_name: 'Papua new Guinea'
+    country_name: 'Papua New Guinea'
     state_code: JWK
     type: null
     latitude: '-5.86911540'
@@ -31034,7 +30864,7 @@ state:
     name: 'Madang Province'
     country_id: 171
     country_code: PG
-    country_name: 'Papua new Guinea'
+    country_name: 'Papua New Guinea'
     state_code: MPM
     type: null
     latitude: '-4.98497330'
@@ -31044,7 +30874,7 @@ state:
     name: 'Manus Province'
     country_id: 171
     country_code: PG
-    country_name: 'Papua new Guinea'
+    country_name: 'Papua New Guinea'
     state_code: MRL
     type: null
     latitude: '-2.09411690'
@@ -31054,7 +30884,7 @@ state:
     name: 'Milne Bay Province'
     country_id: 171
     country_code: PG
-    country_name: 'Papua new Guinea'
+    country_name: 'Papua New Guinea'
     state_code: MBA
     type: null
     latitude: '-9.52214510'
@@ -31064,7 +30894,7 @@ state:
     name: 'Morobe Province'
     country_id: 171
     country_code: PG
-    country_name: 'Papua new Guinea'
+    country_name: 'Papua New Guinea'
     state_code: MPL
     type: null
     latitude: '-6.80137370'
@@ -31074,7 +30904,7 @@ state:
     name: 'New Ireland Province'
     country_id: 171
     country_code: PG
-    country_name: 'Papua new Guinea'
+    country_name: 'Papua New Guinea'
     state_code: NIK
     type: null
     latitude: '-4.28532560'
@@ -31084,7 +30914,7 @@ state:
     name: 'Oro Province'
     country_id: 171
     country_code: PG
-    country_name: 'Papua new Guinea'
+    country_name: 'Papua New Guinea'
     state_code: NPP
     type: null
     latitude: '-8.89880630'
@@ -31094,7 +30924,7 @@ state:
     name: 'Port Moresby'
     country_id: 171
     country_code: PG
-    country_name: 'Papua new Guinea'
+    country_name: 'Papua New Guinea'
     state_code: NCD
     type: null
     latitude: '-9.44380040'
@@ -31104,7 +30934,7 @@ state:
     name: 'Sandaun Province'
     country_id: 171
     country_code: PG
-    country_name: 'Papua new Guinea'
+    country_name: 'Papua New Guinea'
     state_code: SAN
     type: null
     latitude: '-3.71261790'
@@ -31114,7 +30944,7 @@ state:
     name: 'Southern Highlands Province'
     country_id: 171
     country_code: PG
-    country_name: 'Papua new Guinea'
+    country_name: 'Papua New Guinea'
     state_code: SHM
     type: null
     latitude: '-6.41790830'
@@ -31124,7 +30954,7 @@ state:
     name: 'West New Britain Province'
     country_id: 171
     country_code: PG
-    country_name: 'Papua new Guinea'
+    country_name: 'Papua New Guinea'
     state_code: WBK
     type: null
     latitude: '-5.70474320'
@@ -31134,7 +30964,7 @@ state:
     name: 'Western Highlands Province'
     country_id: 171
     country_code: PG
-    country_name: 'Papua new Guinea'
+    country_name: 'Papua New Guinea'
     state_code: WHM
     type: null
     latitude: '-5.62681280'
@@ -31144,7 +30974,7 @@ state:
     name: 'Western Province'
     country_id: 171
     country_code: PG
-    country_name: 'Papua new Guinea'
+    country_name: 'Papua New Guinea'
     state_code: WPD
     type: null
     latitude: null
@@ -31179,6 +31009,16 @@ state:
     type: null
     latitude: '-22.55902720'
     longitude: '-56.02499820'
+  -
+    id: 5221
+    name: Asuncion
+    country_id: 172
+    country_code: PY
+    country_name: Paraguay
+    state_code: ASU
+    type: capital
+    latitude: '-25.29682970'
+    longitude: '-57.68066230'
   -
     id: 2780
     name: 'Boquerón Department'
@@ -32910,15 +32750,125 @@ state:
     latitude: '40.65884240'
     longitude: '-7.91475600'
   -
+    id: 5134
+    name: Adjuntas
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '001'
+    type: municipalities
+    latitude: '18.16348480'
+    longitude: '-66.72315800'
+  -
+    id: 5135
+    name: Aguada
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '003'
+    type: municipalities
+    latitude: '18.38015790'
+    longitude: '-67.18870400'
+  -
+    id: 5136
+    name: Aguadilla
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '005'
+    type: municipalities
+    latitude: '18.42744540'
+    longitude: '-67.15406980'
+  -
+    id: 5137
+    name: 'Aguas Buenas'
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '007'
+    type: municipalities
+    latitude: '18.25689890'
+    longitude: '-66.10294420'
+  -
+    id: 5138
+    name: Aibonito
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '009'
+    type: municipalities
+    latitude: '18.13995940'
+    longitude: '-66.26600160'
+  -
+    id: 5139
+    name: Añasco
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '011'
+    type: municipalities
+    latitude: '18.28544760'
+    longitude: '-67.14029350'
+  -
+    id: 5140
+    name: Arecibo
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '013'
+    type: municipalities
+    latitude: '18.47051370'
+    longitude: '-66.72184720'
+  -
     id: 5081
     name: Arecibo
     country_id: 178
     country_code: PR
     country_name: 'Puerto Rico'
     state_code: AR
-    type: state
+    type: region
     latitude: '18.47055556'
     longitude: '-66.72083333'
+  -
+    id: 5141
+    name: Arroyo
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '015'
+    type: municipalities
+    latitude: '17.99642200'
+    longitude: '-66.09248790'
+  -
+    id: 5142
+    name: Barceloneta
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '017'
+    type: municipalities
+    latitude: '41.38010610'
+    longitude: '2.18969570'
+  -
+    id: 5143
+    name: Barranquitas
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '019'
+    type: municipalities
+    latitude: '18.18662420'
+    longitude: '-66.30628020'
+  -
+    id: 5144
+    name: Bayamón
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '021'
+    type: municipalities
+    latitude: '18.38939600'
+    longitude: '-66.16532240'
   -
     id: 5076
     name: Bayamon
@@ -32926,9 +32876,29 @@ state:
     country_code: PR
     country_name: 'Puerto Rico'
     state_code: BY
-    type: state
+    type: region
     latitude: '18.17777778'
     longitude: '-66.11333333'
+  -
+    id: 5145
+    name: 'Cabo Rojo'
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '023'
+    type: municipalities
+    latitude: '18.08662650'
+    longitude: '-67.14573470'
+  -
+    id: 5146
+    name: Caguas
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '025'
+    type: municipalities
+    latitude: '18.23879950'
+    longitude: '-66.03524900'
   -
     id: 5079
     name: Caguas
@@ -32936,9 +32906,39 @@ state:
     country_code: PR
     country_name: 'Puerto Rico'
     state_code: CG
-    type: state
+    type: region
     latitude: '18.23333333'
     longitude: '-66.03333333'
+  -
+    id: 5147
+    name: Camuy
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '027'
+    type: municipalities
+    latitude: '18.48383300'
+    longitude: '-66.84489940'
+  -
+    id: 5148
+    name: Canóvanas
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '029'
+    type: municipalities
+    latitude: '18.37487480'
+    longitude: '-65.89975330'
+  -
+    id: 5149
+    name: Carolina
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '031'
+    type: municipalities
+    latitude: '18.36808770'
+    longitude: '-66.04247340'
   -
     id: 5077
     name: Carolina
@@ -32946,9 +32946,169 @@ state:
     country_code: PR
     country_name: 'Puerto Rico'
     state_code: CL
-    type: state
+    type: region
     latitude: '18.38888889'
     longitude: '-65.96666667'
+  -
+    id: 5150
+    name: Cataño
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '033'
+    type: municipalities
+    latitude: '18.44653550'
+    longitude: '-66.13557750'
+  -
+    id: 5151
+    name: Cayey
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '035'
+    type: municipalities
+    latitude: '18.11190510'
+    longitude: '-66.16600000'
+  -
+    id: 5152
+    name: Ceiba
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '037'
+    type: municipalities
+    latitude: '18.24751770'
+    longitude: '-65.90849530'
+  -
+    id: 5153
+    name: Ciales
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '039'
+    type: municipalities
+    latitude: '18.33606220'
+    longitude: '-66.46878230'
+  -
+    id: 5154
+    name: Cidra
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '041'
+    type: municipalities
+    latitude: '18.17579140'
+    longitude: '-66.16127790'
+  -
+    id: 5155
+    name: Coamo
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '043'
+    type: municipalities
+    latitude: '18.07996160'
+    longitude: '-66.35794730'
+  -
+    id: 5156
+    name: Comerío
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '045'
+    type: municipalities
+    latitude: '18.21920010'
+    longitude: '-66.22560220'
+  -
+    id: 5157
+    name: Corozal
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '047'
+    type: municipalities
+    latitude: '18.40308020'
+    longitude: '-88.39675360'
+  -
+    id: 5158
+    name: Culebra
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '049'
+    type: municipalities
+    latitude: '18.31039400'
+    longitude: '-65.30307050'
+  -
+    id: 5159
+    name: Dorado
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '051'
+    type: municipalities
+    latitude: '43.14805560'
+    longitude: '-77.57722220'
+  -
+    id: 5160
+    name: Fajardo
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '053'
+    type: municipalities
+    latitude: '18.32521480'
+    longitude: '-65.65393560'
+  -
+    id: 5161
+    name: Florida
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '054'
+    type: municipalities
+    latitude: '27.66482740'
+    longitude: '-81.51575350'
+  -
+    id: 5162
+    name: Guánica
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '055'
+    type: municipalities
+    latitude: '17.97251450'
+    longitude: '-66.90862640'
+  -
+    id: 5163
+    name: Guayama
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '057'
+    type: municipalities
+    latitude: '17.98413280'
+    longitude: '-66.11377670'
+  -
+    id: 5164
+    name: Guayanilla
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '059'
+    type: municipalities
+    latitude: '18.01913140'
+    longitude: '-66.79184200'
+  -
+    id: 5165
+    name: Guaynabo
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '061'
+    type: municipalities
+    latitude: '18.36129540'
+    longitude: '-66.11029570'
   -
     id: 5080
     name: Guaynabo
@@ -32956,9 +33116,189 @@ state:
     country_code: PR
     country_name: 'Puerto Rico'
     state_code: GN
-    type: state
+    type: region
     latitude: '18.36666667'
     longitude: '-66.10000000'
+  -
+    id: 5166
+    name: Gurabo
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '063'
+    type: municipalities
+    latitude: '18.25439870'
+    longitude: '-65.97294210'
+  -
+    id: 5167
+    name: Hatillo
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '065'
+    type: municipalities
+    latitude: '18.42846420'
+    longitude: '-66.78753210'
+  -
+    id: 5168
+    name: Hormigueros
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '067'
+    type: municipalities
+    latitude: '18.13346380'
+    longitude: '-67.11281230'
+  -
+    id: 5169
+    name: Humacao
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '069'
+    type: municipalities
+    latitude: '18.15157360'
+    longitude: '-65.82485290'
+  -
+    id: 5170
+    name: Isabela
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '071'
+    type: municipalities
+    latitude: '16.97537580'
+    longitude: '121.81070790'
+  -
+    id: 5171
+    name: Jayuya
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '073'
+    type: municipalities
+    latitude: '18.21856740'
+    longitude: '-66.59156170'
+  -
+    id: 5172
+    name: 'Juana Díaz'
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '075'
+    type: municipalities
+    latitude: '18.05343720'
+    longitude: '-66.50750790'
+  -
+    id: 5173
+    name: Juncos
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '077'
+    type: municipalities
+    latitude: '18.22745580'
+    longitude: '-65.92099700'
+  -
+    id: 5174
+    name: Lajas
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '079'
+    type: municipalities
+    latitude: '18.04996200'
+    longitude: '-67.05934490'
+  -
+    id: 5175
+    name: Lares
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '081'
+    type: municipalities
+    latitude: '34.02508020'
+    longitude: '-118.45945930'
+  -
+    id: 5176
+    name: 'Las Marías'
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '083'
+    type: municipalities
+    latitude: '35.83822380'
+    longitude: '-78.61035660'
+  -
+    id: 5177
+    name: 'Las Piedras'
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '085'
+    type: municipalities
+    latitude: '18.18557530'
+    longitude: '-65.87362450'
+  -
+    id: 5178
+    name: Loíza
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '087'
+    type: municipalities
+    latitude: '18.43299040'
+    longitude: '-65.87836000'
+  -
+    id: 5179
+    name: Luquillo
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '089'
+    type: municipalities
+    latitude: '18.37245070'
+    longitude: '-65.71655110'
+  -
+    id: 5180
+    name: Manatí
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '091'
+    type: municipalities
+    latitude: '18.41812150'
+    longitude: '-66.52627830'
+  -
+    id: 5181
+    name: Maricao
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '093'
+    type: municipalities
+    latitude: '18.18079020'
+    longitude: '-66.97990010'
+  -
+    id: 5182
+    name: Maunabo
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '095'
+    type: municipalities
+    latitude: '18.00718850'
+    longitude: '-65.89932890'
+  -
+    id: 5183
+    name: Mayagüez
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '097'
+    type: municipalities
+    latitude: '18.20134520'
+    longitude: '-67.14515490'
   -
     id: 5083
     name: Mayagüez
@@ -32966,9 +33306,89 @@ state:
     country_code: PR
     country_name: 'Puerto Rico'
     state_code: MG
-    type: state
+    type: region
     latitude: '18.20111111'
     longitude: '-67.13972222'
+  -
+    id: 5184
+    name: Moca
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '099'
+    type: municipalities
+    latitude: '18.39679290'
+    longitude: '-67.14790350'
+  -
+    id: 5185
+    name: Morovis
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '101'
+    type: municipalities
+    latitude: '18.32578500'
+    longitude: '-66.40655920'
+  -
+    id: 5186
+    name: Naguabo
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '103'
+    type: municipalities
+    latitude: '18.21162470'
+    longitude: '-65.73488410'
+  -
+    id: 5187
+    name: Naranjito
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '105'
+    type: municipalities
+    latitude: '18.30078610'
+    longitude: '-66.24489040'
+  -
+    id: 5188
+    name: Orocovis
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '107'
+    type: municipalities
+    latitude: '18.22692240'
+    longitude: '-66.39116860'
+  -
+    id: 5189
+    name: Patillas
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '109'
+    type: municipalities
+    latitude: '18.00373810'
+    longitude: '-66.01340590'
+  -
+    id: 5190
+    name: Peñuelas
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '111'
+    type: municipalities
+    latitude: '18.06335770'
+    longitude: '-66.72738960'
+  -
+    id: 5191
+    name: Ponce
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '113'
+    type: municipalities
+    latitude: '18.01107680'
+    longitude: '-66.61406160'
   -
     id: 5078
     name: Ponce
@@ -32976,9 +33396,79 @@ state:
     country_code: PR
     country_name: 'Puerto Rico'
     state_code: PO
-    type: state
+    type: region
     latitude: '18.00000000'
     longitude: '-66.61666667'
+  -
+    id: 5192
+    name: Quebradillas
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '115'
+    type: municipalities
+    latitude: '18.47383300'
+    longitude: '-66.93851200'
+  -
+    id: 5193
+    name: Rincón
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '117'
+    type: municipalities
+    latitude: '18.34015140'
+    longitude: '-67.24994590'
+  -
+    id: 5194
+    name: 'Río Grande'
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '119'
+    type: municipalities
+    latitude: '28.81063826'
+    longitude: '-101.83538780'
+  -
+    id: 5195
+    name: 'Sabana Grande'
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '121'
+    type: municipalities
+    latitude: '18.07773920'
+    longitude: '-66.96045490'
+  -
+    id: 5196
+    name: Salinas
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '123'
+    type: municipalities
+    latitude: '36.67773720'
+    longitude: '-121.65550130'
+  -
+    id: 5197
+    name: 'San Germán'
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '125'
+    type: municipalities
+    latitude: '18.08070820'
+    longitude: '-67.04110960'
+  -
+    id: 5198
+    name: 'San Juan'
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '127'
+    type: municipalities
+    latitude: '18.46320300'
+    longitude: '-66.11475710'
   -
     id: 5075
     name: 'San Juan'
@@ -32986,9 +33476,59 @@ state:
     country_code: PR
     country_name: 'Puerto Rico'
     state_code: SJ
-    type: state
+    type: region
     latitude: '18.45000000'
     longitude: '-66.06666667'
+  -
+    id: 5199
+    name: 'San Lorenzo'
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '129'
+    type: municipalities
+    latitude: '18.18869120'
+    longitude: '-65.97658620'
+  -
+    id: 5200
+    name: 'San Sebastián'
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '131'
+    type: municipalities
+    latitude: '43.31833400'
+    longitude: '-1.98123130'
+  -
+    id: 5201
+    name: 'Santa Isabel'
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '133'
+    type: municipalities
+    latitude: '17.96607750'
+    longitude: '-66.40489200'
+  -
+    id: 5202
+    name: 'Toa Alta'
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '135'
+    type: municipalities
+    latitude: '18.38828230'
+    longitude: '-66.24822370'
+  -
+    id: 5203
+    name: 'Toa Baja'
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '137'
+    type: municipalities
+    latitude: '18.44447090'
+    longitude: '-66.25432930'
   -
     id: 5082
     name: 'Toa Baja'
@@ -32996,9 +33536,19 @@ state:
     country_code: PR
     country_name: 'Puerto Rico'
     state_code: TB
-    type: state
+    type: region
     latitude: '18.44388900'
     longitude: '-66.25972200'
+  -
+    id: 5204
+    name: 'Trujillo Alto'
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '139'
+    type: municipalities
+    latitude: '18.35467190'
+    longitude: '-66.00738760'
   -
     id: 5084
     name: 'Trujillo Alto'
@@ -33006,9 +33556,79 @@ state:
     country_code: PR
     country_name: 'Puerto Rico'
     state_code: TA
-    type: state
+    type: region
     latitude: '18.36277800'
     longitude: '-66.01750000'
+  -
+    id: 5205
+    name: Utuado
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '141'
+    type: municipalities
+    latitude: '18.26550950'
+    longitude: '-66.70045190'
+  -
+    id: 5206
+    name: 'Vega Alta'
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '143'
+    type: municipalities
+    latitude: '18.41217030'
+    longitude: '-66.33128050'
+  -
+    id: 5207
+    name: 'Vega Baja'
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '145'
+    type: municipalities
+    latitude: '18.44614590'
+    longitude: '-66.40419670'
+  -
+    id: 5208
+    name: Vieques
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '147'
+    type: municipalities
+    latitude: '18.12628540'
+    longitude: '-65.44009850'
+  -
+    id: 5209
+    name: Villalba
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '149'
+    type: municipalities
+    latitude: '18.12175540'
+    longitude: '-66.49857870'
+  -
+    id: 5210
+    name: Yabucoa
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '151'
+    type: municipalities
+    latitude: '18.05052010'
+    longitude: '-65.87932880'
+  -
+    id: 5211
+    name: Yauco
+    country_id: 178
+    country_code: PR
+    country_name: 'Puerto Rico'
+    state_code: '153'
+    type: municipalities
+    latitude: '18.03496400'
+    longitude: '-66.84989830'
   -
     id: 3182
     name: 'Al Daayen'
@@ -34160,16 +34780,6 @@ state:
     latitude: '51.83692630'
     longitude: '46.75393970'
   -
-    id: 1912
-    name: Sevastopol
-    country_id: 182
-    country_code: RU
-    country_name: Russia
-    state_code: UA-40
-    type: null
-    latitude: '44.61665000'
-    longitude: '33.52536710'
-  -
     id: 1885
     name: 'Smolensk Oblast'
     country_id: 182
@@ -34404,7 +35014,7 @@ state:
     name: 'Christ Church Nichola Town Parish'
     country_id: 185
     country_code: KN
-    country_name: 'Saint Kitts And Nevis'
+    country_name: 'Saint Kitts and Nevis'
     state_code: '01'
     type: null
     latitude: '17.36048120'
@@ -34414,7 +35024,7 @@ state:
     name: Nevis
     country_id: 185
     country_code: KN
-    country_name: 'Saint Kitts And Nevis'
+    country_name: 'Saint Kitts and Nevis'
     state_code: 'N'
     type: null
     latitude: '17.15535580'
@@ -34424,7 +35034,7 @@ state:
     name: 'Saint Anne Sandy Point Parish'
     country_id: 185
     country_code: KN
-    country_name: 'Saint Kitts And Nevis'
+    country_name: 'Saint Kitts and Nevis'
     state_code: '02'
     type: null
     latitude: '17.37253330'
@@ -34434,7 +35044,7 @@ state:
     name: 'Saint George Gingerland Parish'
     country_id: 185
     country_code: KN
-    country_name: 'Saint Kitts And Nevis'
+    country_name: 'Saint Kitts and Nevis'
     state_code: '04'
     type: null
     latitude: '17.12577590'
@@ -34444,7 +35054,7 @@ state:
     name: 'Saint James Windward Parish'
     country_id: 185
     country_code: KN
-    country_name: 'Saint Kitts And Nevis'
+    country_name: 'Saint Kitts and Nevis'
     state_code: '05'
     type: null
     latitude: '17.17696330'
@@ -34454,7 +35064,7 @@ state:
     name: 'Saint John Capisterre Parish'
     country_id: 185
     country_code: KN
-    country_name: 'Saint Kitts And Nevis'
+    country_name: 'Saint Kitts and Nevis'
     state_code: '06'
     type: null
     latitude: '17.38103410'
@@ -34464,7 +35074,7 @@ state:
     name: 'Saint John Figtree Parish'
     country_id: 185
     country_code: KN
-    country_name: 'Saint Kitts And Nevis'
+    country_name: 'Saint Kitts and Nevis'
     state_code: '07'
     type: null
     latitude: '17.11557480'
@@ -34474,7 +35084,7 @@ state:
     name: 'Saint Kitts'
     country_id: 185
     country_code: KN
-    country_name: 'Saint Kitts And Nevis'
+    country_name: 'Saint Kitts and Nevis'
     state_code: K
     type: null
     latitude: '17.34337960'
@@ -34484,7 +35094,7 @@ state:
     name: 'Saint Mary Cayon Parish'
     country_id: 185
     country_code: KN
-    country_name: 'Saint Kitts And Nevis'
+    country_name: 'Saint Kitts and Nevis'
     state_code: '08'
     type: null
     latitude: '17.34620710'
@@ -34494,7 +35104,7 @@ state:
     name: 'Saint Paul Capisterre Parish'
     country_id: 185
     country_code: KN
-    country_name: 'Saint Kitts And Nevis'
+    country_name: 'Saint Kitts and Nevis'
     state_code: '09'
     type: null
     latitude: '17.40166830'
@@ -34504,7 +35114,7 @@ state:
     name: 'Saint Paul Charlestown Parish'
     country_id: 185
     country_code: KN
-    country_name: 'Saint Kitts And Nevis'
+    country_name: 'Saint Kitts and Nevis'
     state_code: '10'
     type: null
     latitude: '17.13462970'
@@ -34514,7 +35124,7 @@ state:
     name: 'Saint Peter Basseterre Parish'
     country_id: 185
     country_code: KN
-    country_name: 'Saint Kitts And Nevis'
+    country_name: 'Saint Kitts and Nevis'
     state_code: '11'
     type: null
     latitude: '17.31029110'
@@ -34524,7 +35134,7 @@ state:
     name: 'Saint Thomas Lowland Parish'
     country_id: 185
     country_code: KN
-    country_name: 'Saint Kitts And Nevis'
+    country_name: 'Saint Kitts and Nevis'
     state_code: '12'
     type: null
     latitude: '17.16505130'
@@ -34534,7 +35144,7 @@ state:
     name: 'Saint Thomas Middle Island Parish'
     country_id: 185
     country_code: KN
-    country_name: 'Saint Kitts And Nevis'
+    country_name: 'Saint Kitts and Nevis'
     state_code: '13'
     type: null
     latitude: '17.33488130'
@@ -34544,7 +35154,7 @@ state:
     name: 'Trinity Palmetto Point Parish'
     country_id: 185
     country_code: KN
-    country_name: 'Saint Kitts And Nevis'
+    country_name: 'Saint Kitts and Nevis'
     state_code: '15'
     type: null
     latitude: '17.30635190'
@@ -34674,7 +35284,7 @@ state:
     name: 'Charlotte Parish'
     country_id: 188
     country_code: VC
-    country_name: 'Saint Vincent And The Grenadines'
+    country_name: 'Saint Vincent and the Grenadines'
     state_code: '01'
     type: null
     latitude: '13.21754510'
@@ -34684,7 +35294,7 @@ state:
     name: 'Grenadines Parish'
     country_id: 188
     country_code: VC
-    country_name: 'Saint Vincent And The Grenadines'
+    country_name: 'Saint Vincent and the Grenadines'
     state_code: '06'
     type: null
     latitude: '13.01229650'
@@ -34694,7 +35304,7 @@ state:
     name: 'Saint Andrew Parish'
     country_id: 188
     country_code: VC
-    country_name: 'Saint Vincent And The Grenadines'
+    country_name: 'Saint Vincent and the Grenadines'
     state_code: '02'
     type: null
     latitude: '43.02429990'
@@ -34704,7 +35314,7 @@ state:
     name: 'Saint David Parish'
     country_id: 188
     country_code: VC
-    country_name: 'Saint Vincent And The Grenadines'
+    country_name: 'Saint Vincent and the Grenadines'
     state_code: '03'
     type: null
     latitude: '43.85230950'
@@ -34714,7 +35324,7 @@ state:
     name: 'Saint George Parish'
     country_id: 188
     country_code: VC
-    country_name: 'Saint Vincent And The Grenadines'
+    country_name: 'Saint Vincent and the Grenadines'
     state_code: '04'
     type: null
     latitude: '42.95760900'
@@ -34724,14 +35334,14 @@ state:
     name: 'Saint Patrick Parish'
     country_id: 188
     country_code: VC
-    country_name: 'Saint Vincent And The Grenadines'
+    country_name: 'Saint Vincent and the Grenadines'
     state_code: '05'
     type: null
     latitude: '39.75091860'
     longitude: '-94.84505560'
   -
     id: 4763
-    name: 'A''ana'
+    name: "A'ana"
     country_id: 191
     country_code: WS
     country_name: Samoa
@@ -34761,7 +35371,7 @@ state:
     longitude: '-171.62542830'
   -
     id: 4764
-    name: 'Fa''asaleleaga'
+    name: "Fa'asaleleaga"
     country_id: 191
     country_code: WS
     country_name: Samoa
@@ -34771,7 +35381,7 @@ state:
     longitude: '-172.23659810'
   -
     id: 4769
-    name: 'Gaga''emauga'
+    name: "Gaga'emauga"
     country_id: 191
     country_code: WS
     country_name: Samoa
@@ -34781,7 +35391,7 @@ state:
     longitude: '-172.36688700'
   -
     id: 4771
-    name: 'Gaga''ifomauga'
+    name: "Gaga'ifomauga"
     country_id: 191
     country_code: WS
     country_name: Samoa
@@ -34801,7 +35411,7 @@ state:
     longitude: '-172.45361150'
   -
     id: 4762
-    name: 'Satupa''itea'
+    name: "Satupa'itea"
     country_id: 191
     country_code: WS
     country_name: Samoa
@@ -34821,7 +35431,7 @@ state:
     longitude: '-171.82243620'
   -
     id: 4768
-    name: 'Va''a-o-Fonoti'
+    name: "Va'a-o-Fonoti"
     country_id: 191
     country_code: WS
     country_name: Samoa
@@ -34951,12 +35561,12 @@ state:
     longitude: '6.73334300'
   -
     id: 2853
-    name: '''Asir'
+    name: "'Asir"
     country_id: 194
     country_code: SA
     country_name: 'Saudi Arabia'
     state_code: '14'
-    type: null
+    type: region
     latitude: '19.09690620'
     longitude: '42.86378750'
   -
@@ -34966,7 +35576,7 @@ state:
     country_code: SA
     country_name: 'Saudi Arabia'
     state_code: '11'
-    type: null
+    type: region
     latitude: '20.27227390'
     longitude: '41.44125100'
   -
@@ -34976,7 +35586,7 @@ state:
     country_code: SA
     country_name: 'Saudi Arabia'
     state_code: '12'
-    type: null
+    type: region
     latitude: '29.88735600'
     longitude: '39.32062410'
   -
@@ -34986,7 +35596,7 @@ state:
     country_code: SA
     country_name: 'Saudi Arabia'
     state_code: '03'
-    type: null
+    type: region
     latitude: '24.84039770'
     longitude: '39.32062410'
   -
@@ -34996,7 +35606,7 @@ state:
     country_code: SA
     country_name: 'Saudi Arabia'
     state_code: '05'
-    type: null
+    type: region
     latitude: '26.20782600'
     longitude: '43.48373800'
   -
@@ -35006,17 +35616,17 @@ state:
     country_code: SA
     country_name: 'Saudi Arabia'
     state_code: '04'
-    type: null
+    type: region
     latitude: '24.04399320'
     longitude: '45.65892250'
   -
     id: 2855
-    name: 'Ha''il'
+    name: "Ha'il"
     country_id: 194
     country_code: SA
     country_name: 'Saudi Arabia'
     state_code: '06'
-    type: null
+    type: region
     latitude: '27.70761430'
     longitude: '41.91964710'
   -
@@ -35026,7 +35636,7 @@ state:
     country_code: SA
     country_name: 'Saudi Arabia'
     state_code: '09'
-    type: null
+    type: region
     latitude: '17.17381760'
     longitude: '42.70761070'
   -
@@ -35036,7 +35646,7 @@ state:
     country_code: SA
     country_name: 'Saudi Arabia'
     state_code: '02'
-    type: null
+    type: region
     latitude: '21.52355840'
     longitude: '41.91964710'
   -
@@ -35046,7 +35656,7 @@ state:
     country_code: SA
     country_name: 'Saudi Arabia'
     state_code: '10'
-    type: null
+    type: region
     latitude: '18.35146640'
     longitude: '45.60071080'
   -
@@ -35056,7 +35666,7 @@ state:
     country_code: SA
     country_name: 'Saudi Arabia'
     state_code: '08'
-    type: null
+    type: region
     latitude: '30.07991620'
     longitude: '42.86378750'
   -
@@ -35066,7 +35676,7 @@ state:
     country_code: SA
     country_name: 'Saudi Arabia'
     state_code: '01'
-    type: null
+    type: region
     latitude: '22.75543850'
     longitude: '46.20915470'
   -
@@ -35076,7 +35686,7 @@ state:
     country_code: SA
     country_name: 'Saudi Arabia'
     state_code: '07'
-    type: null
+    type: region
     latitude: '28.24533350'
     longitude: '37.63866220'
   -
@@ -35591,7 +36201,7 @@ state:
     longitude: '-70.30281830'
   -
     id: 500
-    name: 'Grand''Anse Mahé'
+    name: "Grand'Anse Mahé"
     country_id: 197
     country_code: SC
     country_name: Seychelles
@@ -35601,7 +36211,7 @@ state:
     longitude: '55.46377700'
   -
     id: 504
-    name: 'Grand''Anse Praslin'
+    name: "Grand'Anse Praslin"
     country_id: 197
     country_code: SC
     country_name: Seychelles
@@ -35761,54 +36371,54 @@ state:
     longitude: '-80.24554440'
   -
     id: 4651
-    name: 'Central Singapore Community Development Council'
+    name: 'Central Singapore'
     country_id: 199
     country_code: SG
     country_name: Singapore
     state_code: '01'
-    type: null
-    latitude: '1.28951400'
-    longitude: '103.81438790'
+    type: district
+    latitude: '1.28840000'
+    longitude: '103.85350000'
   -
     id: 4649
-    name: 'North East Community Development Council'
+    name: 'North East'
     country_id: 199
     country_code: SG
     country_name: Singapore
     state_code: '02'
-    type: null
-    latitude: '45.01181130'
-    longitude: '-93.24681070'
+    type: district
+    latitude: '1.38240000'
+    longitude: '103.89720000'
   -
     id: 4653
-    name: 'North West Community Development Council'
+    name: 'North West'
     country_id: 199
     country_code: SG
     country_name: Singapore
     state_code: '03'
-    type: null
-    latitude: '39.10709300'
-    longitude: '-94.45733600'
+    type: district
+    latitude: '1.41800000'
+    longitude: '103.82750000'
   -
     id: 4650
-    name: 'South East Community Development Council'
+    name: 'South East'
     country_id: 199
     country_code: SG
     country_name: Singapore
     state_code: '04'
-    type: null
-    latitude: '39.28630700'
-    longitude: '-76.56912370'
+    type: district
+    latitude: '1.35710000'
+    longitude: '103.70040000'
   -
     id: 4652
-    name: 'South West Community Development Council'
+    name: 'South West'
     country_id: 199
     country_code: SG
     country_name: Singapore
     state_code: '05'
-    type: null
-    latitude: '39.92569100'
-    longitude: '-75.23105800'
+    type: district
+    latitude: '1.35710000'
+    longitude: '103.94510000'
   -
     id: 4352
     name: 'Banská Bystrica Region'
@@ -38700,16 +39310,6 @@ state:
     latitude: '38.87937480'
     longitude: '-7.02269830'
   -
-    id: 1174
-    name: 'Balearic Islands'
-    country_id: 207
-    country_code: ES
-    country_name: Spain
-    state_code: PM
-    type: province
-    latitude: '39.35877590'
-    longitude: '2.73563280'
-  -
     id: 5102
     name: Barcelona
     country_id: 207
@@ -38760,6 +39360,16 @@ state:
     latitude: '36.51638510'
     longitude: '-6.29997670'
   -
+    id: 5222
+    name: Canarias
+    country_id: 207
+    country_code: ES
+    country_name: Spain
+    state_code: CN
+    type: 'autonomous community'
+    latitude: '28.29160000'
+    longitude: '16.62910000'
+  -
     id: 1170
     name: Cantabria
     country_id: 207
@@ -38779,6 +39389,16 @@ state:
     type: province
     latitude: '39.98114350'
     longitude: '0.00884070'
+  -
+    id: 5223
+    name: Ceuta
+    country_id: 207
+    country_code: ES
+    country_name: Spain
+    state_code: CE
+    type: 'autonomous city in North Africa'
+    latitude: '35.88900000'
+    longitude: '-5.31870000'
   -
     id: 5105
     name: 'Ciudad Real'
@@ -38870,6 +39490,16 @@ state:
     latitude: '41.59762750'
     longitude: '-0.90566230'
   -
+    id: 1174
+    name: 'Islas Baleares'
+    country_id: 207
+    country_code: ES
+    country_name: Spain
+    state_code: PM
+    type: province
+    latitude: '39.35877590'
+    longitude: '2.73563280'
+  -
     id: 5100
     name: Jaén
     country_id: 207
@@ -38901,7 +39531,7 @@ state:
     longitude: '-16.62913040'
   -
     id: 1200
-    name: Léon
+    name: León
     country_id: 207
     country_code: ES
     country_name: Spain
@@ -38949,6 +39579,16 @@ state:
     type: province
     latitude: '36.71820150'
     longitude: '-4.51930600'
+  -
+    id: 5224
+    name: Melilla
+    country_id: 207
+    country_code: ES
+    country_name: Spain
+    state_code: ML
+    type: 'autonomous city in North Africa'
+    latitude: '35.29370000'
+    longitude: '-2.93830000'
   -
     id: 1176
     name: Murcia
@@ -39730,55 +40370,15 @@ state:
     latitude: '5.73237620'
     longitude: '-55.27012350'
   -
-    id: 969
-    name: 'Hhohho District'
-    country_id: 212
-    country_code: SZ
-    country_name: Swaziland
-    state_code: HH
-    type: null
-    latitude: '-26.13656620'
-    longitude: '31.35416310'
-  -
-    id: 970
-    name: 'Lubombo District'
-    country_id: 212
-    country_code: SZ
-    country_name: Swaziland
-    state_code: LU
-    type: null
-    latitude: '-26.78517730'
-    longitude: '31.81070790'
-  -
-    id: 968
-    name: 'Manzini District'
-    country_id: 212
-    country_code: SZ
-    country_name: Swaziland
-    state_code: MA
-    type: null
-    latitude: '-26.50819990'
-    longitude: '31.37131640'
-  -
-    id: 971
-    name: 'Shiselweni District'
-    country_id: 212
-    country_code: SZ
-    country_name: Swaziland
-    state_code: SH
-    type: null
-    latitude: '-26.98275770'
-    longitude: '31.35416310'
-  -
     id: 1537
-    name: Blekinge
+    name: 'Blekinge County'
     country_id: 213
     country_code: SE
     country_name: Sweden
     state_code: K
     type: null
-    latitude: '56.27838370'
-    longitude: '15.01800580'
+    latitude: '56.28333333'
+    longitude: '15.11666666'
   -
     id: 1534
     name: 'Dalarna County'
@@ -39819,6 +40419,16 @@ state:
     type: null
     latitude: '56.89668050'
     longitude: '12.80339930'
+  -
+    id: 5117
+    name: 'Jämtland County'
+    country_id: 213
+    country_code: SE
+    country_name: Sweden
+    state_code: '0'
+    type: SE-Z
+    latitude: '63.28306200'
+    longitude: '14.23828100'
   -
     id: 1550
     name: 'Jönköping County'
@@ -40400,16 +41010,6 @@ state:
     latitude: '23.48007510'
     longitude: '120.44911130'
   -
-    id: 3423
-    name: Hsinchu
-    country_id: 216
-    country_code: TW
-    country_name: Taiwan
-    state_code: HSQ
-    type: county
-    latitude: '24.83872260'
-    longitude: '121.01772460'
-  -
     id: 3417
     name: Hsinchu
     country_id: 216
@@ -40419,6 +41019,16 @@ state:
     type: city
     latitude: '24.81382870'
     longitude: '120.96747980'
+  -
+    id: 3423
+    name: Hsinchu
+    country_id: 216
+    country_code: TW
+    country_name: Taiwan
+    state_code: HSQ
+    type: county
+    latitude: '24.83872260'
+    longitude: '121.01772460'
   -
     id: 3411
     name: Hualien
@@ -41861,7 +42471,7 @@ state:
     longitude: '-73.89479390'
   -
     id: 3597
-    name: 'Governor''s Harbour'
+    name: "Governor's Harbour"
     country_id: 17
     country_code: BS
     country_name: 'The Bahamas'
@@ -42140,6 +42750,126 @@ state:
     latitude: '26.65944700'
     longitude: '-78.52065000'
   -
+    id: 4520
+    name: 'Aileu municipality'
+    country_id: 63
+    country_code: TL
+    country_name: Timor-Leste
+    state_code: AL
+    type: null
+    latitude: '-8.70439940'
+    longitude: '125.60954740'
+  -
+    id: 4518
+    name: 'Ainaro Municipality'
+    country_id: 63
+    country_code: TL
+    country_name: Timor-Leste
+    state_code: AN
+    type: null
+    latitude: '-9.01131710'
+    longitude: '125.52200120'
+  -
+    id: 4521
+    name: 'Baucau Municipality'
+    country_id: 63
+    country_code: TL
+    country_name: Timor-Leste
+    state_code: BA
+    type: null
+    latitude: '-8.47143080'
+    longitude: '126.45759910'
+  -
+    id: 4525
+    name: 'Bobonaro Municipality'
+    country_id: 63
+    country_code: TL
+    country_name: Timor-Leste
+    state_code: BO
+    type: null
+    latitude: '-8.96554060'
+    longitude: '125.25879640'
+  -
+    id: 4522
+    name: 'Cova Lima Municipality'
+    country_id: 63
+    country_code: TL
+    country_name: Timor-Leste
+    state_code: CO
+    type: null
+    latitude: '-9.26503750'
+    longitude: '125.25879640'
+  -
+    id: 4524
+    name: 'Dili municipality'
+    country_id: 63
+    country_code: TL
+    country_name: Timor-Leste
+    state_code: DI
+    type: null
+    latitude: '-8.24496130'
+    longitude: '125.58766970'
+  -
+    id: 4516
+    name: 'Ermera District'
+    country_id: 63
+    country_code: TL
+    country_name: Timor-Leste
+    state_code: ER
+    type: null
+    latitude: '-8.75248020'
+    longitude: '125.39872940'
+  -
+    id: 4523
+    name: 'Lautém Municipality'
+    country_id: 63
+    country_code: TL
+    country_name: Timor-Leste
+    state_code: LA
+    type: null
+    latitude: '-8.36423070'
+    longitude: '126.90438450'
+  -
+    id: 4515
+    name: 'Liquiçá Municipality'
+    country_id: 63
+    country_code: TL
+    country_name: Timor-Leste
+    state_code: LI
+    type: null
+    latitude: '-8.66740950'
+    longitude: '125.25879640'
+  -
+    id: 4517
+    name: 'Manatuto District'
+    country_id: 63
+    country_code: TL
+    country_name: Timor-Leste
+    state_code: MT
+    type: null
+    latitude: '-8.51556080'
+    longitude: '126.01592550'
+  -
+    id: 4519
+    name: 'Manufahi Municipality'
+    country_id: 63
+    country_code: TL
+    country_name: Timor-Leste
+    state_code: MF
+    type: null
+    latitude: '-9.01454950'
+    longitude: '125.82799590'
+  -
+    id: 4514
+    name: 'Viqueque Municipality'
+    country_id: 63
+    country_code: TL
+    country_name: Timor-Leste
+    state_code: VI
+    type: null
+    latitude: '-8.85979180'
+    longitude: '126.36335160'
+  -
     id: 2575
     name: 'Centrale Region'
     country_id: 220
@@ -42244,7 +42974,7 @@ state:
     name: Arima
     country_id: 223
     country_code: TT
-    country_name: 'Trinidad And Tobago'
+    country_name: 'Trinidad and Tobago'
     state_code: ARI
     type: null
     latitude: '46.79316040'
@@ -42254,7 +42984,7 @@ state:
     name: Chaguanas
     country_id: 223
     country_code: TT
-    country_name: 'Trinidad And Tobago'
+    country_name: 'Trinidad and Tobago'
     state_code: CHA
     type: null
     latitude: '10.51683870'
@@ -42264,7 +42994,7 @@ state:
     name: 'Couva-Tabaquite-Talparo Regional Corporation'
     country_id: 223
     country_code: TT
-    country_name: 'Trinidad And Tobago'
+    country_name: 'Trinidad and Tobago'
     state_code: CTT
     type: null
     latitude: '10.42971450'
@@ -42274,7 +43004,7 @@ state:
     name: 'Diego Martin Regional Corporation'
     country_id: 223
     country_code: TT
-    country_name: 'Trinidad And Tobago'
+    country_name: 'Trinidad and Tobago'
     state_code: DMN
     type: null
     latitude: '10.73622860'
@@ -42284,7 +43014,7 @@ state:
     name: 'Eastern Tobago'
     country_id: 223
     country_code: TT
-    country_name: 'Trinidad And Tobago'
+    country_name: 'Trinidad and Tobago'
     state_code: ETO
     type: null
     latitude: '11.29793480'
@@ -42294,7 +43024,7 @@ state:
     name: 'Penal-Debe Regional Corporation'
     country_id: 223
     country_code: TT
-    country_name: 'Trinidad And Tobago'
+    country_name: 'Trinidad and Tobago'
     state_code: PED
     type: null
     latitude: '10.13374020'
@@ -42304,7 +43034,7 @@ state:
     name: 'Point Fortin'
     country_id: 223
     country_code: TT
-    country_name: 'Trinidad And Tobago'
+    country_name: 'Trinidad and Tobago'
     state_code: PTF
     type: null
     latitude: '10.17027370'
@@ -42314,7 +43044,7 @@ state:
     name: 'Port of Spain'
     country_id: 223
     country_code: TT
-    country_name: 'Trinidad And Tobago'
+    country_name: 'Trinidad and Tobago'
     state_code: POS
     type: null
     latitude: '10.66031960'
@@ -42324,7 +43054,7 @@ state:
     name: 'Princes Town Regional Corporation'
     country_id: 223
     country_code: TT
-    country_name: 'Trinidad And Tobago'
+    country_name: 'Trinidad and Tobago'
     state_code: PRT
     type: null
     latitude: '10.17867460'
@@ -42334,7 +43064,7 @@ state:
     name: 'Rio Claro-Mayaro Regional Corporation'
     country_id: 223
     country_code: TT
-    country_name: 'Trinidad And Tobago'
+    country_name: 'Trinidad and Tobago'
     state_code: MRC
     type: null
     latitude: '10.24128320'
@@ -42344,7 +43074,7 @@ state:
     name: 'San Fernando'
     country_id: 223
     country_code: TT
-    country_name: 'Trinidad And Tobago'
+    country_name: 'Trinidad and Tobago'
     state_code: SFO
     type: null
     latitude: '34.28194610'
@@ -42354,7 +43084,7 @@ state:
     name: 'San Juan-Laventille Regional Corporation'
     country_id: 223
     country_code: TT
-    country_name: 'Trinidad And Tobago'
+    country_name: 'Trinidad and Tobago'
     state_code: SJL
     type: null
     latitude: '10.69085780'
@@ -42364,7 +43094,7 @@ state:
     name: 'Sangre Grande Regional Corporation'
     country_id: 223
     country_code: TT
-    country_name: 'Trinidad And Tobago'
+    country_name: 'Trinidad and Tobago'
     state_code: SGE
     type: null
     latitude: '10.58529390'
@@ -42374,7 +43104,7 @@ state:
     name: 'Siparia Regional Corporation'
     country_id: 223
     country_code: TT
-    country_name: 'Trinidad And Tobago'
+    country_name: 'Trinidad and Tobago'
     state_code: SIP
     type: null
     latitude: '10.12456260'
@@ -42384,7 +43114,7 @@ state:
     name: 'Tunapuna-Piarco Regional Corporation'
     country_id: 223
     country_code: TT
-    country_name: 'Trinidad And Tobago'
+    country_name: 'Trinidad and Tobago'
     state_code: TUP
     type: null
     latitude: '10.68590960'
@@ -42394,7 +43124,7 @@ state:
     name: 'Western Tobago'
     country_id: 223
     country_code: TT
-    country_name: 'Trinidad And Tobago'
+    country_name: 'Trinidad and Tobago'
     state_code: WTO
     type: null
     latitude: '11.18970720'
@@ -42409,6 +43139,16 @@ state:
     type: governorate
     latitude: '36.99227510'
     longitude: '10.12551640'
+  -
+    id: 2572
+    name: Béja
+    country_id: 224
+    country_code: TN
+    country_name: Tunisia
+    state_code: '31'
+    type: governorate
+    latitude: '35.17227160'
+    longitude: '8.83076260'
   -
     id: 2566
     name: 'Ben Arous'
@@ -42479,16 +43219,6 @@ state:
     type: governorate
     latitude: '35.08091480'
     longitude: '8.66005860'
-  -
-    id: 2572
-    name: Kassrine
-    country_id: 224
-    country_code: TN
-    country_name: Tunisia
-    state_code: '31'
-    type: governorate
-    latitude: '35.17227160'
-    longitude: '8.83076260'
   -
     id: 2562
     name: Kebili
@@ -43031,7 +43761,7 @@ state:
     longitude: '31.07937050'
   -
     id: 2170
-    name: Istanbul
+    name: İstanbul
     country_id: 225
     country_code: TR
     country_name: Turkey
@@ -45029,6 +45759,16 @@ state:
     type: region
     latitude: '50.61990000'
     longitude: '26.25161700'
+  -
+    id: 1912
+    name: Sevastopol
+    country_id: 230
+    country_code: UA
+    country_name: Ukraine
+    state_code: '40'
+    type: null
+    latitude: '44.61665000'
+    longitude: '33.52536710'
   -
     id: 4685
     name: 'Sumska oblast'
@@ -48300,8 +49040,98 @@ state:
     latitude: '43.07596780'
     longitude: '-107.29028390'
   -
+    id: 5212
+    name: 'Baker Island'
+    country_id: 234
+    country_code: UM
+    country_name: 'United States Minor Outlying Islands'
+    state_code: '81'
+    type: island
+    latitude: '0.19362660'
+    longitude: '-176.47690800'
+  -
+    id: 5213
+    name: 'Howland Island'
+    country_id: 234
+    country_code: UM
+    country_name: 'United States Minor Outlying Islands'
+    state_code: '84'
+    type: island
+    latitude: '0.81132190'
+    longitude: '-176.61827360'
+  -
+    id: 5214
+    name: 'Jarvis Island'
+    country_id: 234
+    country_code: UM
+    country_name: 'United States Minor Outlying Islands'
+    state_code: '86'
+    type: island
+    latitude: '-0.37435030'
+    longitude: '-159.99672060'
+  -
+    id: 5215
+    name: 'Johnston Atoll'
+    country_id: 234
+    country_code: UM
+    country_name: 'United States Minor Outlying Islands'
+    state_code: '67'
+    type: island
+    latitude: '16.72950350'
+    longitude: '-169.53364770'
+  -
+    id: 5216
+    name: 'Kingman Reef'
+    country_id: 234
+    country_code: UM
+    country_name: 'United States Minor Outlying Islands'
+    state_code: '89'
+    type: island
+    latitude: '6.38333300'
+    longitude: '-162.41666700'
+  -
+    id: 5217
+    name: 'Midway Islands'
+    country_id: 234
+    country_code: UM
+    country_name: 'United States Minor Outlying Islands'
+    state_code: '71'
+    type: island
+    latitude: '28.20721680'
+    longitude: '-177.37349260'
+  -
+    id: 5218
+    name: 'Navassa Island'
+    country_id: 234
+    country_code: UM
+    country_name: 'United States Minor Outlying Islands'
+    state_code: '76'
+    type: island
+    latitude: '18.41006890'
+    longitude: '-75.01146120'
+  -
+    id: 5219
+    name: 'Palmyra Atoll'
+    country_id: 234
+    country_code: UM
+    country_name: 'United States Minor Outlying Islands'
+    state_code: '95'
+    type: island
+    latitude: '5.88850260'
+    longitude: '-162.07866560'
+  -
+    id: 5220
+    name: 'Wake Island'
+    country_id: 234
+    country_code: UM
+    country_name: 'United States Minor Outlying Islands'
+    state_code: '79'
+    type: island
+    latitude: '19.27961900'
+    longitude: '166.64993480'
+  -
     id: 3205
-    name: 'Artigas Department'
+    name: Artigas
     country_id: 235
     country_code: UY
     country_name: Uruguay
@@ -48311,7 +49141,7 @@ state:
     longitude: '-56.95945590'
   -
     id: 3213
-    name: 'Canelones Department'
+    name: Canelones
     country_id: 235
     country_code: UY
     country_name: Uruguay
@@ -48321,7 +49151,7 @@ state:
     longitude: '-55.93076000'
   -
     id: 3211
-    name: 'Cerro Largo Department'
+    name: 'Cerro Largo'
     country_id: 235
     country_code: UY
     country_name: Uruguay
@@ -48331,7 +49161,7 @@ state:
     longitude: '-54.35217530'
   -
     id: 3208
-    name: 'Colonia Department'
+    name: Colonia
     country_id: 235
     country_code: UY
     country_name: Uruguay
@@ -48341,7 +49171,7 @@ state:
     longitude: '-57.66051840'
   -
     id: 3209
-    name: 'Durazno Department'
+    name: Durazno
     country_id: 235
     country_code: UY
     country_name: Uruguay
@@ -48351,7 +49181,7 @@ state:
     longitude: '-56.02846440'
   -
     id: 3203
-    name: 'Flores Department'
+    name: Flores
     country_id: 235
     country_code: UY
     country_name: Uruguay
@@ -48361,7 +49191,7 @@ state:
     longitude: '-56.89450280'
   -
     id: 3217
-    name: 'Florida Department'
+    name: Florida
     country_id: 235
     country_code: UY
     country_name: Uruguay
@@ -48371,7 +49201,7 @@ state:
     longitude: '-82.45792890'
   -
     id: 3215
-    name: 'Lavalleja Department'
+    name: Lavalleja
     country_id: 235
     country_code: UY
     country_name: Uruguay
@@ -48381,7 +49211,7 @@ state:
     longitude: '-54.97657940'
   -
     id: 3206
-    name: 'Maldonado Department'
+    name: Maldonado
     country_id: 235
     country_code: UY
     country_name: Uruguay
@@ -48391,7 +49221,7 @@ state:
     longitude: '-54.86285520'
   -
     id: 3218
-    name: 'Montevideo Department'
+    name: Montevideo
     country_id: 235
     country_code: UY
     country_name: Uruguay
@@ -48401,7 +49231,7 @@ state:
     longitude: '-56.21382560'
   -
     id: 3212
-    name: 'Paysandú Department'
+    name: Paysandú
     country_id: 235
     country_code: UY
     country_name: Uruguay
@@ -48411,7 +49241,7 @@ state:
     longitude: '-57.33647890'
   -
     id: 3210
-    name: 'Río Negro Department'
+    name: 'Río Negro'
     country_id: 235
     country_code: UY
     country_name: Uruguay
@@ -48421,7 +49251,7 @@ state:
     longitude: '-57.42952070'
   -
     id: 3207
-    name: 'Rivera Department'
+    name: Rivera
     country_id: 235
     country_code: UY
     country_name: Uruguay
@@ -48431,7 +49261,7 @@ state:
     longitude: '-55.24357590'
   -
     id: 3216
-    name: 'Rocha Department'
+    name: Rocha
     country_id: 235
     country_code: UY
     country_name: Uruguay
@@ -48441,7 +49271,7 @@ state:
     longitude: '-54.02148500'
   -
     id: 3220
-    name: 'Salto Department'
+    name: Salto
     country_id: 235
     country_code: UY
     country_name: Uruguay
@@ -48451,7 +49281,7 @@ state:
     longitude: '-57.96124550'
   -
     id: 3204
-    name: 'San José Department'
+    name: 'San José'
     country_id: 235
     country_code: UY
     country_name: Uruguay
@@ -48461,7 +49291,7 @@ state:
     longitude: '-121.90560490'
   -
     id: 3219
-    name: 'Soriano Department'
+    name: Soriano
     country_id: 235
     country_code: UY
     country_name: Uruguay
@@ -48471,7 +49301,7 @@ state:
     longitude: '-57.74981030'
   -
     id: 3221
-    name: 'Tacuarembó Department'
+    name: Tacuarembó
     country_id: 235
     country_code: UY
     country_name: Uruguay
@@ -48481,7 +49311,7 @@ state:
     longitude: '-55.98598870'
   -
     id: 3214
-    name: 'Treinta y Tres Department'
+    name: 'Treinta y Tres'
     country_id: 235
     country_code: UY
     country_name: Uruguay
@@ -49601,7 +50431,7 @@ state:
     longitude: '-65.07701800'
   -
     id: 1242
-    name: '''Adan'
+    name: "'Adan"
     country_id: 245
     country_code: YE
     country_name: Yemen
@@ -49611,7 +50441,7 @@ state:
     longitude: '44.79438040'
   -
     id: 1250
-    name: '''Amran'
+    name: "'Amran"
     country_id: 245
     country_code: YE
     country_name: Yemen
@@ -49631,7 +50461,7 @@ state:
     longitude: '46.05632120'
   -
     id: 1240
-    name: 'Al Bayda'''
+    name: "Al Bayda'"
     country_id: 245
     country_code: YE
     country_name: Yemen
@@ -49679,6 +50509,16 @@ state:
     type: null
     latitude: '15.39632290'
     longitude: '43.56069460'
+  -
+    id: 1232
+    name: 'Amanat Al Asimah'
+    country_id: 245
+    country_code: YE
+    country_name: Yemen
+    state_code: SA
+    type: null
+    latitude: '15.36944510'
+    longitude: '44.19100660'
   -
     id: 1246
     name: Dhamar
@@ -49731,7 +50571,7 @@ state:
     longitude: '44.85054950'
   -
     id: 1234
-    name: 'Ma''rib'
+    name: "Ma'rib"
     country_id: 245
     country_code: YE
     country_name: Yemen
@@ -49761,7 +50601,7 @@ state:
     longitude: '43.94367880'
   -
     id: 1236
-    name: 'Sana''a'
+    name: "Sana'a"
     country_id: 245
     country_code: YE
     country_name: Yemen
@@ -49769,16 +50609,6 @@ state:
     type: null
     latitude: '15.31689130'
     longitude: '44.47480180'
-  -
-    id: 1232
-    name: 'Sana''a'
-    country_id: 245
-    country_code: YE
-    country_name: Yemen
-    state_code: SA
-    type: null
-    latitude: '15.36944510'
-    longitude: '44.19100660'
   -
     id: 1247
     name: Shabwah
@@ -49801,7 +50631,7 @@ state:
     longitude: '53.82373850'
   -
     id: 1231
-    name: 'Ta''izz'
+    name: "Ta'izz"
     country_id: 245
     country_code: YE
     country_name: Yemen

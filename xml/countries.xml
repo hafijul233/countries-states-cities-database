@@ -14,7 +14,10 @@
     <tld>.af</tld>
     <native>افغانستان</native>
     <region>Asia</region>
+    <region_id>3</region_id>
     <subregion>Southern Asia</subregion>
+    <subregion_id>14</subregion_id>
+    <nationality>Afghan</nationality>
     <timezones>
       <zoneName>Asia/Kabul</zoneName>
       <gmtOffset>16200</gmtOffset>
@@ -56,7 +59,10 @@
     <tld>.ax</tld>
     <native>Åland</native>
     <region>Europe</region>
+    <region_id>4</region_id>
     <subregion>Northern Europe</subregion>
+    <subregion_id>18</subregion_id>
+    <nationality>Aland Island</nationality>
     <timezones>
       <zoneName>Europe/Mariehamn</zoneName>
       <gmtOffset>7200</gmtOffset>
@@ -98,7 +104,10 @@
     <tld>.al</tld>
     <native>Shqipëria</native>
     <region>Europe</region>
+    <region_id>4</region_id>
     <subregion>Southern Europe</subregion>
+    <subregion_id>16</subregion_id>
+    <nationality>Albanian </nationality>
     <timezones>
       <zoneName>Europe/Tirane</zoneName>
       <gmtOffset>3600</gmtOffset>
@@ -140,7 +149,10 @@
     <tld>.dz</tld>
     <native>الجزائر</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Northern Africa</subregion>
+    <subregion_id>1</subregion_id>
+    <nationality>Algerian</nationality>
     <timezones>
       <zoneName>Africa/Algiers</zoneName>
       <gmtOffset>3600</gmtOffset>
@@ -182,7 +194,10 @@
     <tld>.as</tld>
     <native>American Samoa</native>
     <region>Oceania</region>
+    <region_id>5</region_id>
     <subregion>Polynesia</subregion>
+    <subregion_id>22</subregion_id>
+    <nationality>American Samoan</nationality>
     <timezones>
       <zoneName>Pacific/Pago_Pago</zoneName>
       <gmtOffset>-39600</gmtOffset>
@@ -224,7 +239,10 @@
     <tld>.ad</tld>
     <native>Andorra</native>
     <region>Europe</region>
+    <region_id>4</region_id>
     <subregion>Southern Europe</subregion>
+    <subregion_id>16</subregion_id>
+    <nationality>Andorran</nationality>
     <timezones>
       <zoneName>Europe/Andorra</zoneName>
       <gmtOffset>3600</gmtOffset>
@@ -266,7 +284,10 @@
     <tld>.ao</tld>
     <native>Angola</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Middle Africa</subregion>
+    <subregion_id>2</subregion_id>
+    <nationality>Angolan</nationality>
     <timezones>
       <zoneName>Africa/Luanda</zoneName>
       <gmtOffset>3600</gmtOffset>
@@ -308,7 +329,10 @@
     <tld>.ai</tld>
     <native>Anguilla</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>Caribbean</subregion>
+    <subregion_id>7</subregion_id>
+    <nationality>Anguillan</nationality>
     <timezones>
       <zoneName>America/Anguilla</zoneName>
       <gmtOffset>-14400</gmtOffset>
@@ -350,7 +374,10 @@
     <tld>.aq</tld>
     <native>Antarctica</native>
     <region>Polar</region>
+    <region_id>6</region_id>
     <subregion></subregion>
+    <subregion_id></subregion_id>
+    <nationality>Antarctic</nationality>
     <timezones>
       <zoneName>Antarctica/Casey</zoneName>
       <gmtOffset>39600</gmtOffset>
@@ -443,7 +470,7 @@
   </country>
   <country>
     <id>10</id>
-    <name>Antigua And Barbuda</name>
+    <name>Antigua and Barbuda</name>
     <iso3>ATG</iso3>
     <iso2>AG</iso2>
     <numeric_code>028</numeric_code>
@@ -455,7 +482,10 @@
     <tld>.ag</tld>
     <native>Antigua and Barbuda</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>Caribbean</subregion>
+    <subregion_id>7</subregion_id>
+    <nationality>Antiguan or Barbudan</nationality>
     <timezones>
       <zoneName>America/Antigua</zoneName>
       <gmtOffset>-14400</gmtOffset>
@@ -497,7 +527,10 @@
     <tld>.ar</tld>
     <native>Argentina</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>South America</subregion>
+    <subregion_id>8</subregion_id>
+    <nationality>Argentine</nationality>
     <timezones>
       <zoneName>America/Argentina/Buenos_Aires</zoneName>
       <gmtOffset>-10800</gmtOffset>
@@ -616,7 +649,10 @@
     <tld>.am</tld>
     <native>Հայաստան</native>
     <region>Asia</region>
+    <region_id>3</region_id>
     <subregion>Western Asia</subregion>
+    <subregion_id>11</subregion_id>
+    <nationality>Armenian</nationality>
     <timezones>
       <zoneName>Asia/Yerevan</zoneName>
       <gmtOffset>14400</gmtOffset>
@@ -658,7 +694,10 @@
     <tld>.aw</tld>
     <native>Aruba</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>Caribbean</subregion>
+    <subregion_id>7</subregion_id>
+    <nationality>Aruban</nationality>
     <timezones>
       <zoneName>America/Aruba</zoneName>
       <gmtOffset>-14400</gmtOffset>
@@ -700,7 +739,10 @@
     <tld>.au</tld>
     <native>Australia</native>
     <region>Oceania</region>
+    <region_id>5</region_id>
     <subregion>Australia and New Zealand</subregion>
+    <subregion_id>19</subregion_id>
+    <nationality>Australian</nationality>
     <timezones>
       <zoneName>Antarctica/Macquarie</zoneName>
       <gmtOffset>39600</gmtOffset>
@@ -826,7 +868,10 @@
     <tld>.at</tld>
     <native>Österreich</native>
     <region>Europe</region>
+    <region_id>4</region_id>
     <subregion>Western Europe</subregion>
+    <subregion_id>17</subregion_id>
+    <nationality>Austrian</nationality>
     <timezones>
       <zoneName>Europe/Vienna</zoneName>
       <gmtOffset>3600</gmtOffset>
@@ -868,7 +913,10 @@
     <tld>.az</tld>
     <native>Azərbaycan</native>
     <region>Asia</region>
+    <region_id>3</region_id>
     <subregion>Western Asia</subregion>
+    <subregion_id>11</subregion_id>
+    <nationality>Azerbaijani, Azeri</nationality>
     <timezones>
       <zoneName>Asia/Baku</zoneName>
       <gmtOffset>14400</gmtOffset>
@@ -910,7 +958,10 @@
     <tld>.bh</tld>
     <native>‏البحرين</native>
     <region>Asia</region>
+    <region_id>3</region_id>
     <subregion>Western Asia</subregion>
+    <subregion_id>11</subregion_id>
+    <nationality>Bahraini</nationality>
     <timezones>
       <zoneName>Asia/Bahrain</zoneName>
       <gmtOffset>10800</gmtOffset>
@@ -952,7 +1003,10 @@
     <tld>.bd</tld>
     <native>Bangladesh</native>
     <region>Asia</region>
+    <region_id>3</region_id>
     <subregion>Southern Asia</subregion>
+    <subregion_id>14</subregion_id>
+    <nationality>Bangladeshi</nationality>
     <timezones>
       <zoneName>Asia/Dhaka</zoneName>
       <gmtOffset>21600</gmtOffset>
@@ -994,7 +1048,10 @@
     <tld>.bb</tld>
     <native>Barbados</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>Caribbean</subregion>
+    <subregion_id>7</subregion_id>
+    <nationality>Barbadian</nationality>
     <timezones>
       <zoneName>America/Barbados</zoneName>
       <gmtOffset>-14400</gmtOffset>
@@ -1036,7 +1093,10 @@
     <tld>.by</tld>
     <native>Белару́сь</native>
     <region>Europe</region>
+    <region_id>4</region_id>
     <subregion>Eastern Europe</subregion>
+    <subregion_id>15</subregion_id>
+    <nationality>Belarusian</nationality>
     <timezones>
       <zoneName>Europe/Minsk</zoneName>
       <gmtOffset>10800</gmtOffset>
@@ -1078,7 +1138,10 @@
     <tld>.be</tld>
     <native>België</native>
     <region>Europe</region>
+    <region_id>4</region_id>
     <subregion>Western Europe</subregion>
+    <subregion_id>17</subregion_id>
+    <nationality>Belgian</nationality>
     <timezones>
       <zoneName>Europe/Brussels</zoneName>
       <gmtOffset>3600</gmtOffset>
@@ -1120,7 +1183,10 @@
     <tld>.bz</tld>
     <native>Belize</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>Central America</subregion>
+    <subregion_id>9</subregion_id>
+    <nationality>Belizean</nationality>
     <timezones>
       <zoneName>America/Belize</zoneName>
       <gmtOffset>-21600</gmtOffset>
@@ -1162,7 +1228,10 @@
     <tld>.bj</tld>
     <native>Bénin</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Western Africa</subregion>
+    <subregion_id>3</subregion_id>
+    <nationality>Beninese, Beninois</nationality>
     <timezones>
       <zoneName>Africa/Porto-Novo</zoneName>
       <gmtOffset>3600</gmtOffset>
@@ -1204,7 +1273,10 @@
     <tld>.bm</tld>
     <native>Bermuda</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>Northern America</subregion>
+    <subregion_id>6</subregion_id>
+    <nationality>Bermudian, Bermudan</nationality>
     <timezones>
       <zoneName>Atlantic/Bermuda</zoneName>
       <gmtOffset>-14400</gmtOffset>
@@ -1246,7 +1318,10 @@
     <tld>.bt</tld>
     <native>ʼbrug-yul</native>
     <region>Asia</region>
+    <region_id>3</region_id>
     <subregion>Southern Asia</subregion>
+    <subregion_id>14</subregion_id>
+    <nationality>Bhutanese</nationality>
     <timezones>
       <zoneName>Asia/Thimphu</zoneName>
       <gmtOffset>21600</gmtOffset>
@@ -1288,7 +1363,10 @@
     <tld>.bo</tld>
     <native>Bolivia</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>South America</subregion>
+    <subregion_id>8</subregion_id>
+    <nationality>Bolivian</nationality>
     <timezones>
       <zoneName>America/La_Paz</zoneName>
       <gmtOffset>-14400</gmtOffset>
@@ -1330,7 +1408,10 @@
     <tld>.an</tld>
     <native>Caribisch Nederland</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>Caribbean</subregion>
+    <subregion_id>7</subregion_id>
+    <nationality>Bonaire</nationality>
     <timezones>
       <zoneName>America/Anguilla</zoneName>
       <gmtOffset>-14400</gmtOffset>
@@ -1368,7 +1449,10 @@
     <tld>.ba</tld>
     <native>Bosna i Hercegovina</native>
     <region>Europe</region>
+    <region_id>4</region_id>
     <subregion>Southern Europe</subregion>
+    <subregion_id>16</subregion_id>
+    <nationality>Bosnian or Herzegovinian</nationality>
     <timezones>
       <zoneName>Europe/Sarajevo</zoneName>
       <gmtOffset>3600</gmtOffset>
@@ -1410,7 +1494,10 @@
     <tld>.bw</tld>
     <native>Botswana</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Southern Africa</subregion>
+    <subregion_id>5</subregion_id>
+    <nationality>Motswana, Botswanan</nationality>
     <timezones>
       <zoneName>Africa/Gaborone</zoneName>
       <gmtOffset>7200</gmtOffset>
@@ -1452,7 +1539,10 @@
     <tld>.bv</tld>
     <native>Bouvetøya</native>
     <region></region>
+    <region_id></region_id>
     <subregion></subregion>
+    <subregion_id></subregion_id>
+    <nationality>Bouvet Island</nationality>
     <timezones>
       <zoneName>Europe/Oslo</zoneName>
       <gmtOffset>3600</gmtOffset>
@@ -1494,7 +1584,10 @@
     <tld>.br</tld>
     <native>Brasil</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>South America</subregion>
+    <subregion_id>8</subregion_id>
+    <nationality>Brazilian</nationality>
     <timezones>
       <zoneName>America/Araguaina</zoneName>
       <gmtOffset>-10800</gmtOffset>
@@ -1641,7 +1734,10 @@
     <tld>.io</tld>
     <native>British Indian Ocean Territory</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Eastern Africa</subregion>
+    <subregion_id>4</subregion_id>
+    <nationality>BIOT</nationality>
     <timezones>
       <zoneName>Indian/Chagos</zoneName>
       <gmtOffset>21600</gmtOffset>
@@ -1683,7 +1779,10 @@
     <tld>.bn</tld>
     <native>Negara Brunei Darussalam</native>
     <region>Asia</region>
+    <region_id>3</region_id>
     <subregion>South-Eastern Asia</subregion>
+    <subregion_id>13</subregion_id>
+    <nationality>Bruneian</nationality>
     <timezones>
       <zoneName>Asia/Brunei</zoneName>
       <gmtOffset>28800</gmtOffset>
@@ -1725,7 +1824,10 @@
     <tld>.bg</tld>
     <native>България</native>
     <region>Europe</region>
+    <region_id>4</region_id>
     <subregion>Eastern Europe</subregion>
+    <subregion_id>15</subregion_id>
+    <nationality>Bulgarian</nationality>
     <timezones>
       <zoneName>Europe/Sofia</zoneName>
       <gmtOffset>7200</gmtOffset>
@@ -1767,7 +1869,10 @@
     <tld>.bf</tld>
     <native>Burkina Faso</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Western Africa</subregion>
+    <subregion_id>3</subregion_id>
+    <nationality>Burkinabe</nationality>
     <timezones>
       <zoneName>Africa/Ouagadougou</zoneName>
       <gmtOffset>0</gmtOffset>
@@ -1809,7 +1914,10 @@
     <tld>.bi</tld>
     <native>Burundi</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Eastern Africa</subregion>
+    <subregion_id>4</subregion_id>
+    <nationality>Burundian</nationality>
     <timezones>
       <zoneName>Africa/Bujumbura</zoneName>
       <gmtOffset>7200</gmtOffset>
@@ -1851,7 +1959,10 @@
     <tld>.kh</tld>
     <native>Kâmpŭchéa</native>
     <region>Asia</region>
+    <region_id>3</region_id>
     <subregion>South-Eastern Asia</subregion>
+    <subregion_id>13</subregion_id>
+    <nationality>Cambodian</nationality>
     <timezones>
       <zoneName>Asia/Phnom_Penh</zoneName>
       <gmtOffset>25200</gmtOffset>
@@ -1893,7 +2004,10 @@
     <tld>.cm</tld>
     <native>Cameroon</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Middle Africa</subregion>
+    <subregion_id>2</subregion_id>
+    <nationality>Cameroonian</nationality>
     <timezones>
       <zoneName>Africa/Douala</zoneName>
       <gmtOffset>3600</gmtOffset>
@@ -1935,7 +2049,10 @@
     <tld>.ca</tld>
     <native>Canada</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>Northern America</subregion>
+    <subregion_id>6</subregion_id>
+    <nationality>Canadian</nationality>
     <timezones>
       <zoneName>America/Atikokan</zoneName>
       <gmtOffset>-18000</gmtOffset>
@@ -2166,7 +2283,10 @@
     <tld>.cv</tld>
     <native>Cabo Verde</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Western Africa</subregion>
+    <subregion_id>3</subregion_id>
+    <nationality>Verdean</nationality>
     <timezones>
       <zoneName>Atlantic/Cape_Verde</zoneName>
       <gmtOffset>-3600</gmtOffset>
@@ -2208,7 +2328,10 @@
     <tld>.ky</tld>
     <native>Cayman Islands</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>Caribbean</subregion>
+    <subregion_id>7</subregion_id>
+    <nationality>Caymanian</nationality>
     <timezones>
       <zoneName>America/Cayman</zoneName>
       <gmtOffset>-18000</gmtOffset>
@@ -2250,7 +2373,10 @@
     <tld>.cf</tld>
     <native>Ködörösêse tî Bêafrîka</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Middle Africa</subregion>
+    <subregion_id>2</subregion_id>
+    <nationality>Central African</nationality>
     <timezones>
       <zoneName>Africa/Bangui</zoneName>
       <gmtOffset>3600</gmtOffset>
@@ -2292,7 +2418,10 @@
     <tld>.td</tld>
     <native>Tchad</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Middle Africa</subregion>
+    <subregion_id>2</subregion_id>
+    <nationality>Chadian</nationality>
     <timezones>
       <zoneName>Africa/Ndjamena</zoneName>
       <gmtOffset>3600</gmtOffset>
@@ -2334,7 +2463,10 @@
     <tld>.cl</tld>
     <native>Chile</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>South America</subregion>
+    <subregion_id>8</subregion_id>
+    <nationality>Chilean</nationality>
     <timezones>
       <zoneName>America/Punta_Arenas</zoneName>
       <gmtOffset>-10800</gmtOffset>
@@ -2390,7 +2522,10 @@
     <tld>.cn</tld>
     <native>中国</native>
     <region>Asia</region>
+    <region_id>3</region_id>
     <subregion>Eastern Asia</subregion>
+    <subregion_id>12</subregion_id>
+    <nationality>Chinese</nationality>
     <timezones>
       <zoneName>Asia/Shanghai</zoneName>
       <gmtOffset>28800</gmtOffset>
@@ -2439,7 +2574,10 @@
     <tld>.cx</tld>
     <native>Christmas Island</native>
     <region>Oceania</region>
+    <region_id>5</region_id>
     <subregion>Australia and New Zealand</subregion>
+    <subregion_id>19</subregion_id>
+    <nationality>Christmas Island</nationality>
     <timezones>
       <zoneName>Indian/Christmas</zoneName>
       <gmtOffset>25200</gmtOffset>
@@ -2481,7 +2619,10 @@
     <tld>.cc</tld>
     <native>Cocos (Keeling) Islands</native>
     <region>Oceania</region>
+    <region_id>5</region_id>
     <subregion>Australia and New Zealand</subregion>
+    <subregion_id>19</subregion_id>
+    <nationality>Cocos Island</nationality>
     <timezones>
       <zoneName>Indian/Cocos</zoneName>
       <gmtOffset>23400</gmtOffset>
@@ -2523,7 +2664,10 @@
     <tld>.co</tld>
     <native>Colombia</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>South America</subregion>
+    <subregion_id>8</subregion_id>
+    <nationality>Colombian</nationality>
     <timezones>
       <zoneName>America/Bogota</zoneName>
       <gmtOffset>-18000</gmtOffset>
@@ -2565,7 +2709,10 @@
     <tld>.km</tld>
     <native>Komori</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Eastern Africa</subregion>
+    <subregion_id>4</subregion_id>
+    <nationality>Comoran, Comorian</nationality>
     <timezones>
       <zoneName>Indian/Comoro</zoneName>
       <gmtOffset>10800</gmtOffset>
@@ -2607,7 +2754,10 @@
     <tld>.cg</tld>
     <native>République du Congo</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Middle Africa</subregion>
+    <subregion_id>2</subregion_id>
+    <nationality>Congolese</nationality>
     <timezones>
       <zoneName>Africa/Brazzaville</zoneName>
       <gmtOffset>3600</gmtOffset>
@@ -2649,7 +2799,10 @@
     <tld>.ck</tld>
     <native>Cook Islands</native>
     <region>Oceania</region>
+    <region_id>5</region_id>
     <subregion>Polynesia</subregion>
+    <subregion_id>22</subregion_id>
+    <nationality>Cook Island</nationality>
     <timezones>
       <zoneName>Pacific/Rarotonga</zoneName>
       <gmtOffset>-36000</gmtOffset>
@@ -2691,7 +2844,10 @@
     <tld>.cr</tld>
     <native>Costa Rica</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>Central America</subregion>
+    <subregion_id>9</subregion_id>
+    <nationality>Costa Rican</nationality>
     <timezones>
       <zoneName>America/Costa_Rica</zoneName>
       <gmtOffset>-21600</gmtOffset>
@@ -2733,7 +2889,10 @@
     <tld>.ci</tld>
     <native></native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Western Africa</subregion>
+    <subregion_id>3</subregion_id>
+    <nationality>Ivorian</nationality>
     <timezones>
       <zoneName>Africa/Abidjan</zoneName>
       <gmtOffset>0</gmtOffset>
@@ -2775,7 +2934,10 @@
     <tld>.hr</tld>
     <native>Hrvatska</native>
     <region>Europe</region>
+    <region_id>4</region_id>
     <subregion>Southern Europe</subregion>
+    <subregion_id>16</subregion_id>
+    <nationality>Croatian</nationality>
     <timezones>
       <zoneName>Europe/Zagreb</zoneName>
       <gmtOffset>3600</gmtOffset>
@@ -2817,7 +2979,10 @@
     <tld>.cu</tld>
     <native>Cuba</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>Caribbean</subregion>
+    <subregion_id>7</subregion_id>
+    <nationality>Cuban</nationality>
     <timezones>
       <zoneName>America/Havana</zoneName>
       <gmtOffset>-18000</gmtOffset>
@@ -2859,7 +3024,10 @@
     <tld>.cw</tld>
     <native>Curaçao</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>Caribbean</subregion>
+    <subregion_id>7</subregion_id>
+    <nationality>Curacaoan</nationality>
     <timezones>
       <zoneName>America/Curacao</zoneName>
       <gmtOffset>-14400</gmtOffset>
@@ -2898,7 +3066,10 @@
     <tld>.cy</tld>
     <native>Κύπρος</native>
     <region>Europe</region>
+    <region_id>4</region_id>
     <subregion>Southern Europe</subregion>
+    <subregion_id>16</subregion_id>
+    <nationality>Cypriot</nationality>
     <timezones>
       <zoneName>Asia/Famagusta</zoneName>
       <gmtOffset>7200</gmtOffset>
@@ -2947,14 +3118,11 @@
     <tld>.cz</tld>
     <native>Česká republika</native>
     <region>Europe</region>
+    <region_id>4</region_id>
     <subregion>Eastern Europe</subregion>
-    <timezones>
-      <zoneName>Europe/Prague</zoneName>
-      <gmtOffset>3600</gmtOffset>
-      <gmtOffsetName>UTC+01:00</gmtOffsetName>
-      <abbreviation>CET</abbreviation>
-      <tzName>Central European Time</tzName>
-    </timezones>
+    <subregion_id>15</subregion_id>
+    <nationality>Czech</nationality>
+    <timezones></timezones>
     <translations>
       <kr>체코</kr>
       <pt-BR>República Tcheca</pt-BR>
@@ -2989,7 +3157,10 @@
     <tld>.cd</tld>
     <native>République démocratique du Congo</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Middle Africa</subregion>
+    <subregion_id>2</subregion_id>
+    <nationality>Congolese</nationality>
     <timezones>
       <zoneName>Africa/Kinshasa</zoneName>
       <gmtOffset>3600</gmtOffset>
@@ -3038,7 +3209,10 @@
     <tld>.dk</tld>
     <native>Danmark</native>
     <region>Europe</region>
+    <region_id>4</region_id>
     <subregion>Northern Europe</subregion>
+    <subregion_id>18</subregion_id>
+    <nationality>Danish</nationality>
     <timezones>
       <zoneName>Europe/Copenhagen</zoneName>
       <gmtOffset>3600</gmtOffset>
@@ -3080,7 +3254,10 @@
     <tld>.dj</tld>
     <native>Djibouti</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Eastern Africa</subregion>
+    <subregion_id>4</subregion_id>
+    <nationality>Djiboutian</nationality>
     <timezones>
       <zoneName>Africa/Djibouti</zoneName>
       <gmtOffset>10800</gmtOffset>
@@ -3122,7 +3299,10 @@
     <tld>.dm</tld>
     <native>Dominica</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>Caribbean</subregion>
+    <subregion_id>7</subregion_id>
+    <nationality>Dominican</nationality>
     <timezones>
       <zoneName>America/Dominica</zoneName>
       <gmtOffset>-14400</gmtOffset>
@@ -3164,7 +3344,10 @@
     <tld>.do</tld>
     <native>República Dominicana</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>Caribbean</subregion>
+    <subregion_id>7</subregion_id>
+    <nationality>Dominican</nationality>
     <timezones>
       <zoneName>America/Santo_Domingo</zoneName>
       <gmtOffset>-14400</gmtOffset>
@@ -3193,48 +3376,6 @@
     <emojiU>U+1F1E9 U+1F1F4</emojiU>
   </country>
   <country>
-    <id>63</id>
-    <name>East Timor</name>
-    <iso3>TLS</iso3>
-    <iso2>TL</iso2>
-    <numeric_code>626</numeric_code>
-    <phone_code>670</phone_code>
-    <capital>Dili</capital>
-    <currency>USD</currency>
-    <currency_name>United States dollar</currency_name>
-    <currency_symbol>$</currency_symbol>
-    <tld>.tl</tld>
-    <native>Timor-Leste</native>
-    <region>Asia</region>
-    <subregion>South-Eastern Asia</subregion>
-    <timezones>
-      <zoneName>Asia/Dili</zoneName>
-      <gmtOffset>32400</gmtOffset>
-      <gmtOffsetName>UTC+09:00</gmtOffsetName>
-      <abbreviation>TLT</abbreviation>
-      <tzName>Timor Leste Time</tzName>
-    </timezones>
-    <translations>
-      <kr>동티모르</kr>
-      <pt-BR>Timor Leste</pt-BR>
-      <pt>Timor Leste</pt>
-      <nl>Oost-Timor</nl>
-      <hr>Istočni Timor</hr>
-      <fa>تیمور شرقی</fa>
-      <de>Timor-Leste</de>
-      <es>Timor Oriental</es>
-      <fr>Timor oriental</fr>
-      <ja>東ティモール</ja>
-      <it>Timor Est</it>
-      <cn>东帝汶</cn>
-      <tr>Doğu Timor</tr>
-    </translations>
-    <latitude>-8.83333333</latitude>
-    <longitude>125.91666666</longitude>
-    <emoji>🇹🇱</emoji>
-    <emojiU>U+1F1F9 U+1F1F1</emojiU>
-  </country>
-  <country>
     <id>64</id>
     <name>Ecuador</name>
     <iso3>ECU</iso3>
@@ -3248,7 +3389,10 @@
     <tld>.ec</tld>
     <native>Ecuador</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>South America</subregion>
+    <subregion_id>8</subregion_id>
+    <nationality>Ecuadorian</nationality>
     <timezones>
       <zoneName>America/Guayaquil</zoneName>
       <gmtOffset>-18000</gmtOffset>
@@ -3297,7 +3441,10 @@
     <tld>.eg</tld>
     <native>مصر‎</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Northern Africa</subregion>
+    <subregion_id>1</subregion_id>
+    <nationality>Egyptian</nationality>
     <timezones>
       <zoneName>Africa/Cairo</zoneName>
       <gmtOffset>7200</gmtOffset>
@@ -3339,7 +3486,10 @@
     <tld>.sv</tld>
     <native>El Salvador</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>Central America</subregion>
+    <subregion_id>9</subregion_id>
+    <nationality>Salvadoran</nationality>
     <timezones>
       <zoneName>America/El_Salvador</zoneName>
       <gmtOffset>-21600</gmtOffset>
@@ -3381,7 +3531,10 @@
     <tld>.gq</tld>
     <native>Guinea Ecuatorial</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Middle Africa</subregion>
+    <subregion_id>2</subregion_id>
+    <nationality>Equatorial Guinean, Equatoguinean</nationality>
     <timezones>
       <zoneName>Africa/Malabo</zoneName>
       <gmtOffset>3600</gmtOffset>
@@ -3423,7 +3576,10 @@
     <tld>.er</tld>
     <native>ኤርትራ</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Eastern Africa</subregion>
+    <subregion_id>4</subregion_id>
+    <nationality>Eritrean</nationality>
     <timezones>
       <zoneName>Africa/Asmara</zoneName>
       <gmtOffset>10800</gmtOffset>
@@ -3465,7 +3621,10 @@
     <tld>.ee</tld>
     <native>Eesti</native>
     <region>Europe</region>
+    <region_id>4</region_id>
     <subregion>Northern Europe</subregion>
+    <subregion_id>18</subregion_id>
+    <nationality>Estonian</nationality>
     <timezones>
       <zoneName>Europe/Tallinn</zoneName>
       <gmtOffset>7200</gmtOffset>
@@ -3494,6 +3653,51 @@
     <emojiU>U+1F1EA U+1F1EA</emojiU>
   </country>
   <country>
+    <id>212</id>
+    <name>Eswatini</name>
+    <iso3>SWZ</iso3>
+    <iso2>SZ</iso2>
+    <numeric_code>748</numeric_code>
+    <phone_code>268</phone_code>
+    <capital>Mbabane</capital>
+    <currency>SZL</currency>
+    <currency_name>Lilangeni</currency_name>
+    <currency_symbol>E</currency_symbol>
+    <tld>.sz</tld>
+    <native>Swaziland</native>
+    <region>Africa</region>
+    <region_id>1</region_id>
+    <subregion>Southern Africa</subregion>
+    <subregion_id>5</subregion_id>
+    <nationality>Swazi</nationality>
+    <timezones>
+      <zoneName>Africa/Mbabane</zoneName>
+      <gmtOffset>7200</gmtOffset>
+      <gmtOffsetName>UTC+02:00</gmtOffsetName>
+      <abbreviation>SAST</abbreviation>
+      <tzName>South African Standard Time</tzName>
+    </timezones>
+    <translations>
+      <kr>에스와티니</kr>
+      <pt-BR>Suazilândia</pt-BR>
+      <pt>Suazilândia</pt>
+      <nl>Swaziland</nl>
+      <hr>Svazi</hr>
+      <fa>سوازیلند</fa>
+      <de>Swasiland</de>
+      <es>Suazilandia</es>
+      <fr>Swaziland</fr>
+      <ja>スワジランド</ja>
+      <it>Swaziland</it>
+      <cn>斯威士兰</cn>
+      <tr>Esvatini</tr>
+    </translations>
+    <latitude>-26.50000000</latitude>
+    <longitude>31.50000000</longitude>
+    <emoji>🇸🇿</emoji>
+    <emojiU>U+1F1F8 U+1F1FF</emojiU>
+  </country>
+  <country>
     <id>70</id>
     <name>Ethiopia</name>
     <iso3>ETH</iso3>
@@ -3507,7 +3711,10 @@
     <tld>.et</tld>
     <native>ኢትዮጵያ</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Eastern Africa</subregion>
+    <subregion_id>4</subregion_id>
+    <nationality>Ethiopian</nationality>
     <timezones>
       <zoneName>Africa/Addis_Ababa</zoneName>
       <gmtOffset>10800</gmtOffset>
@@ -3549,7 +3756,10 @@
     <tld>.fk</tld>
     <native>Falkland Islands</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>South America</subregion>
+    <subregion_id>8</subregion_id>
+    <nationality>Falkland Island</nationality>
     <timezones>
       <zoneName>Atlantic/Stanley</zoneName>
       <gmtOffset>-10800</gmtOffset>
@@ -3591,7 +3801,10 @@
     <tld>.fo</tld>
     <native>Føroyar</native>
     <region>Europe</region>
+    <region_id>4</region_id>
     <subregion>Northern Europe</subregion>
+    <subregion_id>18</subregion_id>
+    <nationality>Faroese</nationality>
     <timezones>
       <zoneName>Atlantic/Faroe</zoneName>
       <gmtOffset>0</gmtOffset>
@@ -3633,7 +3846,10 @@
     <tld>.fj</tld>
     <native>Fiji</native>
     <region>Oceania</region>
+    <region_id>5</region_id>
     <subregion>Melanesia</subregion>
+    <subregion_id>20</subregion_id>
+    <nationality>Fijian</nationality>
     <timezones>
       <zoneName>Pacific/Fiji</zoneName>
       <gmtOffset>43200</gmtOffset>
@@ -3675,7 +3891,10 @@
     <tld>.fi</tld>
     <native>Suomi</native>
     <region>Europe</region>
+    <region_id>4</region_id>
     <subregion>Northern Europe</subregion>
+    <subregion_id>18</subregion_id>
+    <nationality>Finnish</nationality>
     <timezones>
       <zoneName>Europe/Helsinki</zoneName>
       <gmtOffset>7200</gmtOffset>
@@ -3717,7 +3936,10 @@
     <tld>.fr</tld>
     <native>France</native>
     <region>Europe</region>
+    <region_id>4</region_id>
     <subregion>Western Europe</subregion>
+    <subregion_id>17</subregion_id>
+    <nationality>French</nationality>
     <timezones>
       <zoneName>Europe/Paris</zoneName>
       <gmtOffset>3600</gmtOffset>
@@ -3759,7 +3981,10 @@
     <tld>.gf</tld>
     <native>Guyane française</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>South America</subregion>
+    <subregion_id>8</subregion_id>
+    <nationality>French Guianese</nationality>
     <timezones>
       <zoneName>America/Cayenne</zoneName>
       <gmtOffset>-10800</gmtOffset>
@@ -3801,7 +4026,10 @@
     <tld>.pf</tld>
     <native>Polynésie française</native>
     <region>Oceania</region>
+    <region_id>5</region_id>
     <subregion>Polynesia</subregion>
+    <subregion_id>22</subregion_id>
+    <nationality>French Polynesia</nationality>
     <timezones>
       <zoneName>Pacific/Gambier</zoneName>
       <gmtOffset>-32400</gmtOffset>
@@ -3857,7 +4085,10 @@
     <tld>.tf</tld>
     <native>Territoire des Terres australes et antarctiques fr</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Southern Africa</subregion>
+    <subregion_id>5</subregion_id>
+    <nationality>French Southern Territories</nationality>
     <timezones>
       <zoneName>Indian/Kerguelen</zoneName>
       <gmtOffset>18000</gmtOffset>
@@ -3899,7 +4130,10 @@
     <tld>.ga</tld>
     <native>Gabon</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Middle Africa</subregion>
+    <subregion_id>2</subregion_id>
+    <nationality>Gabonese</nationality>
     <timezones>
       <zoneName>Africa/Libreville</zoneName>
       <gmtOffset>3600</gmtOffset>
@@ -3941,7 +4175,10 @@
     <tld>.gm</tld>
     <native>Gambia</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Western Africa</subregion>
+    <subregion_id>3</subregion_id>
+    <nationality>Gambian</nationality>
     <timezones>
       <zoneName>Africa/Banjul</zoneName>
       <gmtOffset>0</gmtOffset>
@@ -3983,7 +4220,10 @@
     <tld>.ge</tld>
     <native>საქართველო</native>
     <region>Asia</region>
+    <region_id>3</region_id>
     <subregion>Western Asia</subregion>
+    <subregion_id>11</subregion_id>
+    <nationality>Georgian</nationality>
     <timezones>
       <zoneName>Asia/Tbilisi</zoneName>
       <gmtOffset>14400</gmtOffset>
@@ -4025,7 +4265,10 @@
     <tld>.de</tld>
     <native>Deutschland</native>
     <region>Europe</region>
+    <region_id>4</region_id>
     <subregion>Western Europe</subregion>
+    <subregion_id>17</subregion_id>
+    <nationality>German</nationality>
     <timezones>
       <zoneName>Europe/Berlin</zoneName>
       <gmtOffset>3600</gmtOffset>
@@ -4074,7 +4317,10 @@
     <tld>.gh</tld>
     <native>Ghana</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Western Africa</subregion>
+    <subregion_id>3</subregion_id>
+    <nationality>Ghanaian</nationality>
     <timezones>
       <zoneName>Africa/Accra</zoneName>
       <gmtOffset>0</gmtOffset>
@@ -4116,7 +4362,10 @@
     <tld>.gi</tld>
     <native>Gibraltar</native>
     <region>Europe</region>
+    <region_id>4</region_id>
     <subregion>Southern Europe</subregion>
+    <subregion_id>16</subregion_id>
+    <nationality>Gibraltar</nationality>
     <timezones>
       <zoneName>Europe/Gibraltar</zoneName>
       <gmtOffset>3600</gmtOffset>
@@ -4158,7 +4407,10 @@
     <tld>.gr</tld>
     <native>Ελλάδα</native>
     <region>Europe</region>
+    <region_id>4</region_id>
     <subregion>Southern Europe</subregion>
+    <subregion_id>16</subregion_id>
+    <nationality>Greek, Hellenic</nationality>
     <timezones>
       <zoneName>Europe/Athens</zoneName>
       <gmtOffset>7200</gmtOffset>
@@ -4200,7 +4452,10 @@
     <tld>.gl</tld>
     <native>Kalaallit Nunaat</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>Northern America</subregion>
+    <subregion_id>6</subregion_id>
+    <nationality>Greenlandic</nationality>
     <timezones>
       <zoneName>America/Danmarkshavn</zoneName>
       <gmtOffset>0</gmtOffset>
@@ -4263,7 +4518,10 @@
     <tld>.gd</tld>
     <native>Grenada</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>Caribbean</subregion>
+    <subregion_id>7</subregion_id>
+    <nationality>Grenadian</nationality>
     <timezones>
       <zoneName>America/Grenada</zoneName>
       <gmtOffset>-14400</gmtOffset>
@@ -4305,7 +4563,10 @@
     <tld>.gp</tld>
     <native>Guadeloupe</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>Caribbean</subregion>
+    <subregion_id>7</subregion_id>
+    <nationality>Guadeloupe</nationality>
     <timezones>
       <zoneName>America/Guadeloupe</zoneName>
       <gmtOffset>-14400</gmtOffset>
@@ -4347,7 +4608,10 @@
     <tld>.gu</tld>
     <native>Guam</native>
     <region>Oceania</region>
+    <region_id>5</region_id>
     <subregion>Micronesia</subregion>
+    <subregion_id>21</subregion_id>
+    <nationality>Guamanian, Guambat</nationality>
     <timezones>
       <zoneName>Pacific/Guam</zoneName>
       <gmtOffset>36000</gmtOffset>
@@ -4389,7 +4653,10 @@
     <tld>.gt</tld>
     <native>Guatemala</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>Central America</subregion>
+    <subregion_id>9</subregion_id>
+    <nationality>Guatemalan</nationality>
     <timezones>
       <zoneName>America/Guatemala</zoneName>
       <gmtOffset>-21600</gmtOffset>
@@ -4431,7 +4698,10 @@
     <tld>.gg</tld>
     <native>Guernsey</native>
     <region>Europe</region>
+    <region_id>4</region_id>
     <subregion>Northern Europe</subregion>
+    <subregion_id>18</subregion_id>
+    <nationality>Channel Island</nationality>
     <timezones>
       <zoneName>Europe/Guernsey</zoneName>
       <gmtOffset>0</gmtOffset>
@@ -4473,7 +4743,10 @@
     <tld>.gn</tld>
     <native>Guinée</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Western Africa</subregion>
+    <subregion_id>3</subregion_id>
+    <nationality>Guinean</nationality>
     <timezones>
       <zoneName>Africa/Conakry</zoneName>
       <gmtOffset>0</gmtOffset>
@@ -4515,7 +4788,10 @@
     <tld>.gw</tld>
     <native>Guiné-Bissau</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Western Africa</subregion>
+    <subregion_id>3</subregion_id>
+    <nationality>Bissau-Guinean</nationality>
     <timezones>
       <zoneName>Africa/Bissau</zoneName>
       <gmtOffset>0</gmtOffset>
@@ -4557,7 +4833,10 @@
     <tld>.gy</tld>
     <native>Guyana</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>South America</subregion>
+    <subregion_id>8</subregion_id>
+    <nationality>Guyanese</nationality>
     <timezones>
       <zoneName>America/Guyana</zoneName>
       <gmtOffset>-14400</gmtOffset>
@@ -4599,7 +4878,10 @@
     <tld>.ht</tld>
     <native>Haïti</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>Caribbean</subregion>
+    <subregion_id>7</subregion_id>
+    <nationality>Haitian</nationality>
     <timezones>
       <zoneName>America/Port-au-Prince</zoneName>
       <gmtOffset>-18000</gmtOffset>
@@ -4641,7 +4923,10 @@
     <tld>.hm</tld>
     <native>Heard Island and McDonald Islands</native>
     <region></region>
+    <region_id></region_id>
     <subregion></subregion>
+    <subregion_id></subregion_id>
+    <nationality>Heard Island or McDonald Islands</nationality>
     <timezones>
       <zoneName>Indian/Kerguelen</zoneName>
       <gmtOffset>18000</gmtOffset>
@@ -4683,7 +4968,10 @@
     <tld>.hn</tld>
     <native>Honduras</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>Central America</subregion>
+    <subregion_id>9</subregion_id>
+    <nationality>Honduran</nationality>
     <timezones>
       <zoneName>America/Tegucigalpa</zoneName>
       <gmtOffset>-21600</gmtOffset>
@@ -4725,7 +5013,10 @@
     <tld>.hk</tld>
     <native>香港</native>
     <region>Asia</region>
+    <region_id>3</region_id>
     <subregion>Eastern Asia</subregion>
+    <subregion_id>12</subregion_id>
+    <nationality>Hong Kong, Hong Kongese</nationality>
     <timezones>
       <zoneName>Asia/Hong_Kong</zoneName>
       <gmtOffset>28800</gmtOffset>
@@ -4767,7 +5058,10 @@
     <tld>.hu</tld>
     <native>Magyarország</native>
     <region>Europe</region>
+    <region_id>4</region_id>
     <subregion>Eastern Europe</subregion>
+    <subregion_id>15</subregion_id>
+    <nationality>Hungarian, Magyar</nationality>
     <timezones>
       <zoneName>Europe/Budapest</zoneName>
       <gmtOffset>3600</gmtOffset>
@@ -4809,7 +5103,10 @@
     <tld>.is</tld>
     <native>Ísland</native>
     <region>Europe</region>
+    <region_id>4</region_id>
     <subregion>Northern Europe</subregion>
+    <subregion_id>18</subregion_id>
+    <nationality>Icelandic</nationality>
     <timezones>
       <zoneName>Atlantic/Reykjavik</zoneName>
       <gmtOffset>0</gmtOffset>
@@ -4851,7 +5148,10 @@
     <tld>.in</tld>
     <native>भारत</native>
     <region>Asia</region>
+    <region_id>3</region_id>
     <subregion>Southern Asia</subregion>
+    <subregion_id>14</subregion_id>
+    <nationality>Indian</nationality>
     <timezones>
       <zoneName>Asia/Kolkata</zoneName>
       <gmtOffset>19800</gmtOffset>
@@ -4893,7 +5193,10 @@
     <tld>.id</tld>
     <native>Indonesia</native>
     <region>Asia</region>
+    <region_id>3</region_id>
     <subregion>South-Eastern Asia</subregion>
+    <subregion_id>13</subregion_id>
+    <nationality>Indonesian</nationality>
     <timezones>
       <zoneName>Asia/Jakarta</zoneName>
       <gmtOffset>25200</gmtOffset>
@@ -4956,7 +5259,10 @@
     <tld>.ir</tld>
     <native>ایران</native>
     <region>Asia</region>
+    <region_id>3</region_id>
     <subregion>Southern Asia</subregion>
+    <subregion_id>14</subregion_id>
+    <nationality>Iranian, Persian</nationality>
     <timezones>
       <zoneName>Asia/Tehran</zoneName>
       <gmtOffset>12600</gmtOffset>
@@ -4997,7 +5303,10 @@
     <tld>.iq</tld>
     <native>العراق</native>
     <region>Asia</region>
+    <region_id>3</region_id>
     <subregion>Western Asia</subregion>
+    <subregion_id>11</subregion_id>
+    <nationality>Iraqi</nationality>
     <timezones>
       <zoneName>Asia/Baghdad</zoneName>
       <gmtOffset>10800</gmtOffset>
@@ -5039,7 +5348,10 @@
     <tld>.ie</tld>
     <native>Éire</native>
     <region>Europe</region>
+    <region_id>4</region_id>
     <subregion>Northern Europe</subregion>
+    <subregion_id>18</subregion_id>
+    <nationality>Irish</nationality>
     <timezones>
       <zoneName>Europe/Dublin</zoneName>
       <gmtOffset>0</gmtOffset>
@@ -5081,7 +5393,10 @@
     <tld>.il</tld>
     <native>יִשְׂרָאֵל</native>
     <region>Asia</region>
+    <region_id>3</region_id>
     <subregion>Western Asia</subregion>
+    <subregion_id>11</subregion_id>
+    <nationality>Israeli</nationality>
     <timezones>
       <zoneName>Asia/Jerusalem</zoneName>
       <gmtOffset>7200</gmtOffset>
@@ -5123,7 +5438,10 @@
     <tld>.it</tld>
     <native>Italia</native>
     <region>Europe</region>
+    <region_id>4</region_id>
     <subregion>Southern Europe</subregion>
+    <subregion_id>16</subregion_id>
+    <nationality>Italian</nationality>
     <timezones>
       <zoneName>Europe/Rome</zoneName>
       <gmtOffset>3600</gmtOffset>
@@ -5165,7 +5483,10 @@
     <tld>.jm</tld>
     <native>Jamaica</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>Caribbean</subregion>
+    <subregion_id>7</subregion_id>
+    <nationality>Jamaican</nationality>
     <timezones>
       <zoneName>America/Jamaica</zoneName>
       <gmtOffset>-18000</gmtOffset>
@@ -5207,7 +5528,10 @@
     <tld>.jp</tld>
     <native>日本</native>
     <region>Asia</region>
+    <region_id>3</region_id>
     <subregion>Eastern Asia</subregion>
+    <subregion_id>12</subregion_id>
+    <nationality>Japanese</nationality>
     <timezones>
       <zoneName>Asia/Tokyo</zoneName>
       <gmtOffset>32400</gmtOffset>
@@ -5249,7 +5573,10 @@
     <tld>.je</tld>
     <native>Jersey</native>
     <region>Europe</region>
+    <region_id>4</region_id>
     <subregion>Northern Europe</subregion>
+    <subregion_id>18</subregion_id>
+    <nationality>Channel Island</nationality>
     <timezones>
       <zoneName>Europe/Jersey</zoneName>
       <gmtOffset>0</gmtOffset>
@@ -5291,7 +5618,10 @@
     <tld>.jo</tld>
     <native>الأردن</native>
     <region>Asia</region>
+    <region_id>3</region_id>
     <subregion>Western Asia</subregion>
+    <subregion_id>11</subregion_id>
+    <nationality>Jordanian</nationality>
     <timezones>
       <zoneName>Asia/Amman</zoneName>
       <gmtOffset>7200</gmtOffset>
@@ -5333,7 +5663,10 @@
     <tld>.kz</tld>
     <native>Қазақстан</native>
     <region>Asia</region>
+    <region_id>3</region_id>
     <subregion>Central Asia</subregion>
+    <subregion_id>10</subregion_id>
+    <nationality>Kazakhstani, Kazakh</nationality>
     <timezones>
       <zoneName>Asia/Almaty</zoneName>
       <gmtOffset>21600</gmtOffset>
@@ -5417,7 +5750,10 @@
     <tld>.ke</tld>
     <native>Kenya</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Eastern Africa</subregion>
+    <subregion_id>4</subregion_id>
+    <nationality>Kenyan</nationality>
     <timezones>
       <zoneName>Africa/Nairobi</zoneName>
       <gmtOffset>10800</gmtOffset>
@@ -5459,7 +5795,10 @@
     <tld>.ki</tld>
     <native>Kiribati</native>
     <region>Oceania</region>
+    <region_id>5</region_id>
     <subregion>Micronesia</subregion>
+    <subregion_id>21</subregion_id>
+    <nationality>I-Kiribati</nationality>
     <timezones>
       <zoneName>Pacific/Enderbury</zoneName>
       <gmtOffset>46800</gmtOffset>
@@ -5515,7 +5854,10 @@
     <tld>.xk</tld>
     <native>Republika e Kosovës</native>
     <region>Europe</region>
+    <region_id>4</region_id>
     <subregion>Eastern Europe</subregion>
+    <subregion_id>15</subregion_id>
+    <nationality>Kosovar, Kosovan</nationality>
     <timezones>
       <zoneName>Europe/Belgrade</zoneName>
       <gmtOffset>3600</gmtOffset>
@@ -5547,7 +5889,10 @@
     <tld>.kw</tld>
     <native>الكويت</native>
     <region>Asia</region>
+    <region_id>3</region_id>
     <subregion>Western Asia</subregion>
+    <subregion_id>11</subregion_id>
+    <nationality>Kuwaiti</nationality>
     <timezones>
       <zoneName>Asia/Kuwait</zoneName>
       <gmtOffset>10800</gmtOffset>
@@ -5589,7 +5934,10 @@
     <tld>.kg</tld>
     <native>Кыргызстан</native>
     <region>Asia</region>
+    <region_id>3</region_id>
     <subregion>Central Asia</subregion>
+    <subregion_id>10</subregion_id>
+    <nationality>Kyrgyzstani, Kyrgyz, Kirgiz, Kirghiz</nationality>
     <timezones>
       <zoneName>Asia/Bishkek</zoneName>
       <gmtOffset>21600</gmtOffset>
@@ -5631,7 +5979,10 @@
     <tld>.la</tld>
     <native>ສປປລາວ</native>
     <region>Asia</region>
+    <region_id>3</region_id>
     <subregion>South-Eastern Asia</subregion>
+    <subregion_id>13</subregion_id>
+    <nationality>Lao, Laotian</nationality>
     <timezones>
       <zoneName>Asia/Vientiane</zoneName>
       <gmtOffset>25200</gmtOffset>
@@ -5673,7 +6024,10 @@
     <tld>.lv</tld>
     <native>Latvija</native>
     <region>Europe</region>
+    <region_id>4</region_id>
     <subregion>Northern Europe</subregion>
+    <subregion_id>18</subregion_id>
+    <nationality>Latvian</nationality>
     <timezones>
       <zoneName>Europe/Riga</zoneName>
       <gmtOffset>7200</gmtOffset>
@@ -5715,7 +6069,10 @@
     <tld>.lb</tld>
     <native>لبنان</native>
     <region>Asia</region>
+    <region_id>3</region_id>
     <subregion>Western Asia</subregion>
+    <subregion_id>11</subregion_id>
+    <nationality>Lebanese</nationality>
     <timezones>
       <zoneName>Asia/Beirut</zoneName>
       <gmtOffset>7200</gmtOffset>
@@ -5757,7 +6114,10 @@
     <tld>.ls</tld>
     <native>Lesotho</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Southern Africa</subregion>
+    <subregion_id>5</subregion_id>
+    <nationality>Basotho</nationality>
     <timezones>
       <zoneName>Africa/Maseru</zoneName>
       <gmtOffset>7200</gmtOffset>
@@ -5799,7 +6159,10 @@
     <tld>.lr</tld>
     <native>Liberia</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Western Africa</subregion>
+    <subregion_id>3</subregion_id>
+    <nationality>Liberian</nationality>
     <timezones>
       <zoneName>Africa/Monrovia</zoneName>
       <gmtOffset>0</gmtOffset>
@@ -5841,7 +6204,10 @@
     <tld>.ly</tld>
     <native>‏ليبيا</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Northern Africa</subregion>
+    <subregion_id>1</subregion_id>
+    <nationality>Libyan</nationality>
     <timezones>
       <zoneName>Africa/Tripoli</zoneName>
       <gmtOffset>7200</gmtOffset>
@@ -5883,7 +6249,10 @@
     <tld>.li</tld>
     <native>Liechtenstein</native>
     <region>Europe</region>
+    <region_id>4</region_id>
     <subregion>Western Europe</subregion>
+    <subregion_id>17</subregion_id>
+    <nationality>Liechtenstein</nationality>
     <timezones>
       <zoneName>Europe/Vaduz</zoneName>
       <gmtOffset>3600</gmtOffset>
@@ -5925,7 +6294,10 @@
     <tld>.lt</tld>
     <native>Lietuva</native>
     <region>Europe</region>
+    <region_id>4</region_id>
     <subregion>Northern Europe</subregion>
+    <subregion_id>18</subregion_id>
+    <nationality>Lithuanian</nationality>
     <timezones>
       <zoneName>Europe/Vilnius</zoneName>
       <gmtOffset>7200</gmtOffset>
@@ -5967,7 +6339,10 @@
     <tld>.lu</tld>
     <native>Luxembourg</native>
     <region>Europe</region>
+    <region_id>4</region_id>
     <subregion>Western Europe</subregion>
+    <subregion_id>17</subregion_id>
+    <nationality>Luxembourg, Luxembourgish</nationality>
     <timezones>
       <zoneName>Europe/Luxembourg</zoneName>
       <gmtOffset>3600</gmtOffset>
@@ -6009,7 +6384,10 @@
     <tld>.mo</tld>
     <native>澳門</native>
     <region>Asia</region>
+    <region_id>3</region_id>
     <subregion>Eastern Asia</subregion>
+    <subregion_id>12</subregion_id>
+    <nationality>Macanese, Chinese</nationality>
     <timezones>
       <zoneName>Asia/Macau</zoneName>
       <gmtOffset>28800</gmtOffset>
@@ -6038,48 +6416,6 @@
     <emojiU>U+1F1F2 U+1F1F4</emojiU>
   </country>
   <country>
-    <id>129</id>
-    <name>Macedonia</name>
-    <iso3>MKD</iso3>
-    <iso2>MK</iso2>
-    <numeric_code>807</numeric_code>
-    <phone_code>389</phone_code>
-    <capital>Skopje</capital>
-    <currency>MKD</currency>
-    <currency_name>Denar</currency_name>
-    <currency_symbol>ден</currency_symbol>
-    <tld>.mk</tld>
-    <native>Северна Македонија</native>
-    <region>Europe</region>
-    <subregion>Southern Europe</subregion>
-    <timezones>
-      <zoneName>Europe/Skopje</zoneName>
-      <gmtOffset>3600</gmtOffset>
-      <gmtOffsetName>UTC+01:00</gmtOffsetName>
-      <abbreviation>CET</abbreviation>
-      <tzName>Central European Time</tzName>
-    </timezones>
-    <translations>
-      <kr>마케도니아</kr>
-      <pt-BR>Macedônia</pt-BR>
-      <pt>Macedónia</pt>
-      <nl>Macedonië</nl>
-      <hr>Makedonija</hr>
-      <fa></fa>
-      <de>Mazedonien</de>
-      <es>Macedonia</es>
-      <fr>Macédoine</fr>
-      <ja>マケドニア旧ユーゴスラビア共和国</ja>
-      <it>Macedonia</it>
-      <cn>马其顿</cn>
-      <tr>Kuzey Makedonya</tr>
-    </translations>
-    <latitude>41.83333333</latitude>
-    <longitude>22.00000000</longitude>
-    <emoji>🇲🇰</emoji>
-    <emojiU>U+1F1F2 U+1F1F0</emojiU>
-  </country>
-  <country>
     <id>130</id>
     <name>Madagascar</name>
     <iso3>MDG</iso3>
@@ -6093,7 +6429,10 @@
     <tld>.mg</tld>
     <native>Madagasikara</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Eastern Africa</subregion>
+    <subregion_id>4</subregion_id>
+    <nationality>Malagasy</nationality>
     <timezones>
       <zoneName>Indian/Antananarivo</zoneName>
       <gmtOffset>10800</gmtOffset>
@@ -6135,7 +6474,10 @@
     <tld>.mw</tld>
     <native>Malawi</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Eastern Africa</subregion>
+    <subregion_id>4</subregion_id>
+    <nationality>Malawian</nationality>
     <timezones>
       <zoneName>Africa/Blantyre</zoneName>
       <gmtOffset>7200</gmtOffset>
@@ -6177,7 +6519,10 @@
     <tld>.my</tld>
     <native>Malaysia</native>
     <region>Asia</region>
+    <region_id>3</region_id>
     <subregion>South-Eastern Asia</subregion>
+    <subregion_id>13</subregion_id>
+    <nationality>Malaysian</nationality>
     <timezones>
       <zoneName>Asia/Kuala_Lumpur</zoneName>
       <gmtOffset>28800</gmtOffset>
@@ -6226,7 +6571,10 @@
     <tld>.mv</tld>
     <native>Maldives</native>
     <region>Asia</region>
+    <region_id>3</region_id>
     <subregion>Southern Asia</subregion>
+    <subregion_id>14</subregion_id>
+    <nationality>Maldivian</nationality>
     <timezones>
       <zoneName>Indian/Maldives</zoneName>
       <gmtOffset>18000</gmtOffset>
@@ -6268,7 +6616,10 @@
     <tld>.ml</tld>
     <native>Mali</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Western Africa</subregion>
+    <subregion_id>3</subregion_id>
+    <nationality>Malian, Malinese</nationality>
     <timezones>
       <zoneName>Africa/Bamako</zoneName>
       <gmtOffset>0</gmtOffset>
@@ -6310,7 +6661,10 @@
     <tld>.mt</tld>
     <native>Malta</native>
     <region>Europe</region>
+    <region_id>4</region_id>
     <subregion>Southern Europe</subregion>
+    <subregion_id>16</subregion_id>
+    <nationality>Maltese</nationality>
     <timezones>
       <zoneName>Europe/Malta</zoneName>
       <gmtOffset>3600</gmtOffset>
@@ -6352,7 +6706,10 @@
     <tld>.im</tld>
     <native>Isle of Man</native>
     <region>Europe</region>
+    <region_id>4</region_id>
     <subregion>Northern Europe</subregion>
+    <subregion_id>18</subregion_id>
+    <nationality>Manx</nationality>
     <timezones>
       <zoneName>Europe/Isle_of_Man</zoneName>
       <gmtOffset>0</gmtOffset>
@@ -6394,7 +6751,10 @@
     <tld>.mh</tld>
     <native>M̧ajeļ</native>
     <region>Oceania</region>
+    <region_id>5</region_id>
     <subregion>Micronesia</subregion>
+    <subregion_id>21</subregion_id>
+    <nationality>Marshallese</nationality>
     <timezones>
       <zoneName>Pacific/Kwajalein</zoneName>
       <gmtOffset>43200</gmtOffset>
@@ -6443,7 +6803,10 @@
     <tld>.mq</tld>
     <native>Martinique</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>Caribbean</subregion>
+    <subregion_id>7</subregion_id>
+    <nationality>Martiniquais, Martinican</nationality>
     <timezones>
       <zoneName>America/Martinique</zoneName>
       <gmtOffset>-14400</gmtOffset>
@@ -6485,7 +6848,10 @@
     <tld>.mr</tld>
     <native>موريتانيا</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Western Africa</subregion>
+    <subregion_id>3</subregion_id>
+    <nationality>Mauritanian</nationality>
     <timezones>
       <zoneName>Africa/Nouakchott</zoneName>
       <gmtOffset>0</gmtOffset>
@@ -6527,7 +6893,10 @@
     <tld>.mu</tld>
     <native>Maurice</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Eastern Africa</subregion>
+    <subregion_id>4</subregion_id>
+    <nationality>Mauritian</nationality>
     <timezones>
       <zoneName>Indian/Mauritius</zoneName>
       <gmtOffset>14400</gmtOffset>
@@ -6569,7 +6938,10 @@
     <tld>.yt</tld>
     <native>Mayotte</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Eastern Africa</subregion>
+    <subregion_id>4</subregion_id>
+    <nationality>Mahoran</nationality>
     <timezones>
       <zoneName>Indian/Mayotte</zoneName>
       <gmtOffset>10800</gmtOffset>
@@ -6611,7 +6983,10 @@
     <tld>.mx</tld>
     <native>México</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>Central America</subregion>
+    <subregion_id>9</subregion_id>
+    <nationality>Mexican</nationality>
     <timezones>
       <zoneName>America/Bahia_Banderas</zoneName>
       <gmtOffset>-21600</gmtOffset>
@@ -6723,7 +7098,10 @@
     <tld>.fm</tld>
     <native>Micronesia</native>
     <region>Oceania</region>
+    <region_id>5</region_id>
     <subregion>Micronesia</subregion>
+    <subregion_id>21</subregion_id>
+    <nationality>Micronesian</nationality>
     <timezones>
       <zoneName>Pacific/Chuuk</zoneName>
       <gmtOffset>36000</gmtOffset>
@@ -6779,7 +7157,10 @@
     <tld>.md</tld>
     <native>Moldova</native>
     <region>Europe</region>
+    <region_id>4</region_id>
     <subregion>Eastern Europe</subregion>
+    <subregion_id>15</subregion_id>
+    <nationality>Moldovan</nationality>
     <timezones>
       <zoneName>Europe/Chisinau</zoneName>
       <gmtOffset>7200</gmtOffset>
@@ -6821,7 +7202,10 @@
     <tld>.mc</tld>
     <native>Monaco</native>
     <region>Europe</region>
+    <region_id>4</region_id>
     <subregion>Western Europe</subregion>
+    <subregion_id>17</subregion_id>
+    <nationality>Monegasque, Monacan</nationality>
     <timezones>
       <zoneName>Europe/Monaco</zoneName>
       <gmtOffset>3600</gmtOffset>
@@ -6863,7 +7247,10 @@
     <tld>.mn</tld>
     <native>Монгол улс</native>
     <region>Asia</region>
+    <region_id>3</region_id>
     <subregion>Eastern Asia</subregion>
+    <subregion_id>12</subregion_id>
+    <nationality>Mongolian</nationality>
     <timezones>
       <zoneName>Asia/Choibalsan</zoneName>
       <gmtOffset>28800</gmtOffset>
@@ -6919,7 +7306,10 @@
     <tld>.me</tld>
     <native>Црна Гора</native>
     <region>Europe</region>
+    <region_id>4</region_id>
     <subregion>Southern Europe</subregion>
+    <subregion_id>16</subregion_id>
+    <nationality>Montenegrin</nationality>
     <timezones>
       <zoneName>Europe/Podgorica</zoneName>
       <gmtOffset>3600</gmtOffset>
@@ -6961,7 +7351,10 @@
     <tld>.ms</tld>
     <native>Montserrat</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>Caribbean</subregion>
+    <subregion_id>7</subregion_id>
+    <nationality>Montserratian</nationality>
     <timezones>
       <zoneName>America/Montserrat</zoneName>
       <gmtOffset>-14400</gmtOffset>
@@ -7003,7 +7396,10 @@
     <tld>.ma</tld>
     <native>المغرب</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Northern Africa</subregion>
+    <subregion_id>1</subregion_id>
+    <nationality>Moroccan</nationality>
     <timezones>
       <zoneName>Africa/Casablanca</zoneName>
       <gmtOffset>3600</gmtOffset>
@@ -7045,7 +7441,10 @@
     <tld>.mz</tld>
     <native>Moçambique</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Eastern Africa</subregion>
+    <subregion_id>4</subregion_id>
+    <nationality>Mozambican</nationality>
     <timezones>
       <zoneName>Africa/Maputo</zoneName>
       <gmtOffset>7200</gmtOffset>
@@ -7087,7 +7486,10 @@
     <tld>.mm</tld>
     <native>မြန်မာ</native>
     <region>Asia</region>
+    <region_id>3</region_id>
     <subregion>South-Eastern Asia</subregion>
+    <subregion_id>13</subregion_id>
+    <nationality>Burmese</nationality>
     <timezones>
       <zoneName>Asia/Yangon</zoneName>
       <gmtOffset>23400</gmtOffset>
@@ -7129,7 +7531,10 @@
     <tld>.na</tld>
     <native>Namibia</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Southern Africa</subregion>
+    <subregion_id>5</subregion_id>
+    <nationality>Namibian</nationality>
     <timezones>
       <zoneName>Africa/Windhoek</zoneName>
       <gmtOffset>7200</gmtOffset>
@@ -7171,7 +7576,10 @@
     <tld>.nr</tld>
     <native>Nauru</native>
     <region>Oceania</region>
+    <region_id>5</region_id>
     <subregion>Micronesia</subregion>
+    <subregion_id>21</subregion_id>
+    <nationality>Nauruan</nationality>
     <timezones>
       <zoneName>Pacific/Nauru</zoneName>
       <gmtOffset>43200</gmtOffset>
@@ -7213,7 +7621,10 @@
     <tld>.np</tld>
     <native>नपल</native>
     <region>Asia</region>
+    <region_id>3</region_id>
     <subregion>Southern Asia</subregion>
+    <subregion_id>14</subregion_id>
+    <nationality>Nepali, Nepalese</nationality>
     <timezones>
       <zoneName>Asia/Kathmandu</zoneName>
       <gmtOffset>20700</gmtOffset>
@@ -7255,7 +7666,10 @@
     <tld>.nl</tld>
     <native>Nederland</native>
     <region>Europe</region>
+    <region_id>4</region_id>
     <subregion>Western Europe</subregion>
+    <subregion_id>17</subregion_id>
+    <nationality>Dutch, Netherlandic</nationality>
     <timezones>
       <zoneName>Europe/Amsterdam</zoneName>
       <gmtOffset>3600</gmtOffset>
@@ -7297,7 +7711,10 @@
     <tld>.nc</tld>
     <native>Nouvelle-Calédonie</native>
     <region>Oceania</region>
+    <region_id>5</region_id>
     <subregion>Melanesia</subregion>
+    <subregion_id>20</subregion_id>
+    <nationality>New Caledonian</nationality>
     <timezones>
       <zoneName>Pacific/Noumea</zoneName>
       <gmtOffset>39600</gmtOffset>
@@ -7339,7 +7756,10 @@
     <tld>.nz</tld>
     <native>New Zealand</native>
     <region>Oceania</region>
+    <region_id>5</region_id>
     <subregion>Australia and New Zealand</subregion>
+    <subregion_id>19</subregion_id>
+    <nationality>New Zealand, NZ</nationality>
     <timezones>
       <zoneName>Pacific/Auckland</zoneName>
       <gmtOffset>46800</gmtOffset>
@@ -7388,7 +7808,10 @@
     <tld>.ni</tld>
     <native>Nicaragua</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>Central America</subregion>
+    <subregion_id>9</subregion_id>
+    <nationality>Nicaraguan</nationality>
     <timezones>
       <zoneName>America/Managua</zoneName>
       <gmtOffset>-21600</gmtOffset>
@@ -7430,7 +7853,10 @@
     <tld>.ne</tld>
     <native>Niger</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Western Africa</subregion>
+    <subregion_id>3</subregion_id>
+    <nationality>Nigerien</nationality>
     <timezones>
       <zoneName>Africa/Niamey</zoneName>
       <gmtOffset>3600</gmtOffset>
@@ -7472,7 +7898,10 @@
     <tld>.ng</tld>
     <native>Nigeria</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Western Africa</subregion>
+    <subregion_id>3</subregion_id>
+    <nationality>Nigerian</nationality>
     <timezones>
       <zoneName>Africa/Lagos</zoneName>
       <gmtOffset>3600</gmtOffset>
@@ -7514,7 +7943,10 @@
     <tld>.nu</tld>
     <native>Niuē</native>
     <region>Oceania</region>
+    <region_id>5</region_id>
     <subregion>Polynesia</subregion>
+    <subregion_id>22</subregion_id>
+    <nationality>Niuean</nationality>
     <timezones>
       <zoneName>Pacific/Niue</zoneName>
       <gmtOffset>-39600</gmtOffset>
@@ -7556,7 +7988,10 @@
     <tld>.nf</tld>
     <native>Norfolk Island</native>
     <region>Oceania</region>
+    <region_id>5</region_id>
     <subregion>Australia and New Zealand</subregion>
+    <subregion_id>19</subregion_id>
+    <nationality>Norfolk Island</nationality>
     <timezones>
       <zoneName>Pacific/Norfolk</zoneName>
       <gmtOffset>43200</gmtOffset>
@@ -7598,7 +8033,10 @@
     <tld>.kp</tld>
     <native>북한</native>
     <region>Asia</region>
+    <region_id>3</region_id>
     <subregion>Eastern Asia</subregion>
+    <subregion_id>12</subregion_id>
+    <nationality>North Korean</nationality>
     <timezones>
       <zoneName>Asia/Pyongyang</zoneName>
       <gmtOffset>32400</gmtOffset>
@@ -7627,6 +8065,51 @@
     <emojiU>U+1F1F0 U+1F1F5</emojiU>
   </country>
   <country>
+    <id>129</id>
+    <name>North Macedonia</name>
+    <iso3>MKD</iso3>
+    <iso2>MK</iso2>
+    <numeric_code>807</numeric_code>
+    <phone_code>389</phone_code>
+    <capital>Skopje</capital>
+    <currency>MKD</currency>
+    <currency_name>Denar</currency_name>
+    <currency_symbol>ден</currency_symbol>
+    <tld>.mk</tld>
+    <native>Северна Македонија</native>
+    <region>Europe</region>
+    <region_id>4</region_id>
+    <subregion>Southern Europe</subregion>
+    <subregion_id>16</subregion_id>
+    <nationality>Macedonian</nationality>
+    <timezones>
+      <zoneName>Europe/Skopje</zoneName>
+      <gmtOffset>3600</gmtOffset>
+      <gmtOffsetName>UTC+01:00</gmtOffsetName>
+      <abbreviation>CET</abbreviation>
+      <tzName>Central European Time</tzName>
+    </timezones>
+    <translations>
+      <kr>북마케도니아</kr>
+      <pt-BR>Macedônia do Norte</pt-BR>
+      <pt>Macedónia do Norte</pt>
+      <nl>Noord-Macedonië</nl>
+      <hr>Sjeverna Makedonija</hr>
+      <fa>ﻢﻗﺩﻮﻨﯿﻫ ﺶﻣﺎﻠﯾ</fa>
+      <de>Nordmazedonien</de>
+      <es>Macedonia del Norte</es>
+      <fr>Macédoine du Nord</fr>
+      <ja>北マケドニア</ja>
+      <it>Macedonia del Nord</it>
+      <cn>北馬其頓</cn>
+      <tr>Kuzey Makedonya</tr>
+    </translations>
+    <latitude>41.83333333</latitude>
+    <longitude>22.00000000</longitude>
+    <emoji>🇲🇰</emoji>
+    <emojiU>U+1F1F2 U+1F1F0</emojiU>
+  </country>
+  <country>
     <id>164</id>
     <name>Northern Mariana Islands</name>
     <iso3>MNP</iso3>
@@ -7640,7 +8123,10 @@
     <tld>.mp</tld>
     <native>Northern Mariana Islands</native>
     <region>Oceania</region>
+    <region_id>5</region_id>
     <subregion>Micronesia</subregion>
+    <subregion_id>21</subregion_id>
+    <nationality>Northern Marianan</nationality>
     <timezones>
       <zoneName>Pacific/Saipan</zoneName>
       <gmtOffset>36000</gmtOffset>
@@ -7682,7 +8168,10 @@
     <tld>.no</tld>
     <native>Norge</native>
     <region>Europe</region>
+    <region_id>4</region_id>
     <subregion>Northern Europe</subregion>
+    <subregion_id>18</subregion_id>
+    <nationality>Norwegian</nationality>
     <timezones>
       <zoneName>Europe/Oslo</zoneName>
       <gmtOffset>3600</gmtOffset>
@@ -7724,7 +8213,10 @@
     <tld>.om</tld>
     <native>عمان</native>
     <region>Asia</region>
+    <region_id>3</region_id>
     <subregion>Western Asia</subregion>
+    <subregion_id>11</subregion_id>
+    <nationality>Omani</nationality>
     <timezones>
       <zoneName>Asia/Muscat</zoneName>
       <gmtOffset>14400</gmtOffset>
@@ -7766,7 +8258,10 @@
     <tld>.pk</tld>
     <native>Pakistan</native>
     <region>Asia</region>
+    <region_id>3</region_id>
     <subregion>Southern Asia</subregion>
+    <subregion_id>14</subregion_id>
+    <nationality>Pakistani</nationality>
     <timezones>
       <zoneName>Asia/Karachi</zoneName>
       <gmtOffset>18000</gmtOffset>
@@ -7808,7 +8303,10 @@
     <tld>.pw</tld>
     <native>Palau</native>
     <region>Oceania</region>
+    <region_id>5</region_id>
     <subregion>Micronesia</subregion>
+    <subregion_id>21</subregion_id>
+    <nationality>Palauan</nationality>
     <timezones>
       <zoneName>Pacific/Palau</zoneName>
       <gmtOffset>32400</gmtOffset>
@@ -7850,7 +8348,10 @@
     <tld>.ps</tld>
     <native>فلسطين</native>
     <region>Asia</region>
+    <region_id>3</region_id>
     <subregion>Western Asia</subregion>
+    <subregion_id>11</subregion_id>
+    <nationality>Palestinian</nationality>
     <timezones>
       <zoneName>Asia/Gaza</zoneName>
       <gmtOffset>7200</gmtOffset>
@@ -7899,7 +8400,10 @@
     <tld>.pa</tld>
     <native>Panamá</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>Central America</subregion>
+    <subregion_id>9</subregion_id>
+    <nationality>Panamanian</nationality>
     <timezones>
       <zoneName>America/Panama</zoneName>
       <gmtOffset>-18000</gmtOffset>
@@ -7929,7 +8433,7 @@
   </country>
   <country>
     <id>171</id>
-    <name>Papua new Guinea</name>
+    <name>Papua New Guinea</name>
     <iso3>PNG</iso3>
     <iso2>PG</iso2>
     <numeric_code>598</numeric_code>
@@ -7941,7 +8445,10 @@
     <tld>.pg</tld>
     <native>Papua Niugini</native>
     <region>Oceania</region>
+    <region_id>5</region_id>
     <subregion>Melanesia</subregion>
+    <subregion_id>20</subregion_id>
+    <nationality>Papua New Guinean, Papuan</nationality>
     <timezones>
       <zoneName>Pacific/Bougainville</zoneName>
       <gmtOffset>39600</gmtOffset>
@@ -7990,7 +8497,10 @@
     <tld>.py</tld>
     <native>Paraguay</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>South America</subregion>
+    <subregion_id>8</subregion_id>
+    <nationality>Paraguayan</nationality>
     <timezones>
       <zoneName>America/Asuncion</zoneName>
       <gmtOffset>-10800</gmtOffset>
@@ -8032,7 +8542,10 @@
     <tld>.pe</tld>
     <native>Perú</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>South America</subregion>
+    <subregion_id>8</subregion_id>
+    <nationality>Peruvian</nationality>
     <timezones>
       <zoneName>America/Lima</zoneName>
       <gmtOffset>-18000</gmtOffset>
@@ -8074,7 +8587,10 @@
     <tld>.ph</tld>
     <native>Pilipinas</native>
     <region>Asia</region>
+    <region_id>3</region_id>
     <subregion>South-Eastern Asia</subregion>
+    <subregion_id>13</subregion_id>
+    <nationality>Philippine, Filipino</nationality>
     <timezones>
       <zoneName>Asia/Manila</zoneName>
       <gmtOffset>28800</gmtOffset>
@@ -8116,7 +8632,10 @@
     <tld>.pn</tld>
     <native>Pitcairn Islands</native>
     <region>Oceania</region>
+    <region_id>5</region_id>
     <subregion>Polynesia</subregion>
+    <subregion_id>22</subregion_id>
+    <nationality>Pitcairn Island</nationality>
     <timezones>
       <zoneName>Pacific/Pitcairn</zoneName>
       <gmtOffset>-28800</gmtOffset>
@@ -8158,7 +8677,10 @@
     <tld>.pl</tld>
     <native>Polska</native>
     <region>Europe</region>
+    <region_id>4</region_id>
     <subregion>Eastern Europe</subregion>
+    <subregion_id>15</subregion_id>
+    <nationality>Polish</nationality>
     <timezones>
       <zoneName>Europe/Warsaw</zoneName>
       <gmtOffset>3600</gmtOffset>
@@ -8200,7 +8722,10 @@
     <tld>.pt</tld>
     <native>Portugal</native>
     <region>Europe</region>
+    <region_id>4</region_id>
     <subregion>Southern Europe</subregion>
+    <subregion_id>16</subregion_id>
+    <nationality>Portuguese</nationality>
     <timezones>
       <zoneName>Atlantic/Azores</zoneName>
       <gmtOffset>-3600</gmtOffset>
@@ -8256,7 +8781,10 @@
     <tld>.pr</tld>
     <native>Puerto Rico</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>Caribbean</subregion>
+    <subregion_id>7</subregion_id>
+    <nationality>Puerto Rican</nationality>
     <timezones>
       <zoneName>America/Puerto_Rico</zoneName>
       <gmtOffset>-14400</gmtOffset>
@@ -8298,7 +8826,10 @@
     <tld>.qa</tld>
     <native>قطر</native>
     <region>Asia</region>
+    <region_id>3</region_id>
     <subregion>Western Asia</subregion>
+    <subregion_id>11</subregion_id>
+    <nationality>Qatari</nationality>
     <timezones>
       <zoneName>Asia/Qatar</zoneName>
       <gmtOffset>10800</gmtOffset>
@@ -8340,7 +8871,10 @@
     <tld>.re</tld>
     <native>La Réunion</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Eastern Africa</subregion>
+    <subregion_id>4</subregion_id>
+    <nationality>Reunionese, Reunionnais</nationality>
     <timezones>
       <zoneName>Indian/Reunion</zoneName>
       <gmtOffset>14400</gmtOffset>
@@ -8382,7 +8916,10 @@
     <tld>.ro</tld>
     <native>România</native>
     <region>Europe</region>
+    <region_id>4</region_id>
     <subregion>Eastern Europe</subregion>
+    <subregion_id>15</subregion_id>
+    <nationality>Romanian</nationality>
     <timezones>
       <zoneName>Europe/Bucharest</zoneName>
       <gmtOffset>7200</gmtOffset>
@@ -8424,7 +8961,10 @@
     <tld>.ru</tld>
     <native>Россия</native>
     <region>Europe</region>
+    <region_id>4</region_id>
     <subregion>Eastern Europe</subregion>
+    <subregion_id>15</subregion_id>
+    <nationality>Russian</nationality>
     <timezones>
       <zoneName>Asia/Anadyr</zoneName>
       <gmtOffset>43200</gmtOffset>
@@ -8641,7 +9181,10 @@
     <tld>.rw</tld>
     <native>Rwanda</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Eastern Africa</subregion>
+    <subregion_id>4</subregion_id>
+    <nationality>Rwandan</nationality>
     <timezones>
       <zoneName>Africa/Kigali</zoneName>
       <gmtOffset>7200</gmtOffset>
@@ -8683,7 +9226,10 @@
     <tld>.sh</tld>
     <native>Saint Helena</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Western Africa</subregion>
+    <subregion_id>3</subregion_id>
+    <nationality>Saint Helenian</nationality>
     <timezones>
       <zoneName>Atlantic/St_Helena</zoneName>
       <gmtOffset>0</gmtOffset>
@@ -8713,7 +9259,7 @@
   </country>
   <country>
     <id>185</id>
-    <name>Saint Kitts And Nevis</name>
+    <name>Saint Kitts and Nevis</name>
     <iso3>KNA</iso3>
     <iso2>KN</iso2>
     <numeric_code>659</numeric_code>
@@ -8725,7 +9271,10 @@
     <tld>.kn</tld>
     <native>Saint Kitts and Nevis</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>Caribbean</subregion>
+    <subregion_id>7</subregion_id>
+    <nationality>Kittitian or Nevisian</nationality>
     <timezones>
       <zoneName>America/St_Kitts</zoneName>
       <gmtOffset>-14400</gmtOffset>
@@ -8767,7 +9316,10 @@
     <tld>.lc</tld>
     <native>Saint Lucia</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>Caribbean</subregion>
+    <subregion_id>7</subregion_id>
+    <nationality>Saint Lucian</nationality>
     <timezones>
       <zoneName>America/St_Lucia</zoneName>
       <gmtOffset>-14400</gmtOffset>
@@ -8809,7 +9361,10 @@
     <tld>.pm</tld>
     <native>Saint-Pierre-et-Miquelon</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>Northern America</subregion>
+    <subregion_id>6</subregion_id>
+    <nationality>Saint-Pierrais or Miquelonnais</nationality>
     <timezones>
       <zoneName>America/Miquelon</zoneName>
       <gmtOffset>-10800</gmtOffset>
@@ -8839,7 +9394,7 @@
   </country>
   <country>
     <id>188</id>
-    <name>Saint Vincent And The Grenadines</name>
+    <name>Saint Vincent and the Grenadines</name>
     <iso3>VCT</iso3>
     <iso2>VC</iso2>
     <numeric_code>670</numeric_code>
@@ -8851,7 +9406,10 @@
     <tld>.vc</tld>
     <native>Saint Vincent and the Grenadines</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>Caribbean</subregion>
+    <subregion_id>7</subregion_id>
+    <nationality>Saint Vincentian, Vincentian</nationality>
     <timezones>
       <zoneName>America/St_Vincent</zoneName>
       <gmtOffset>-14400</gmtOffset>
@@ -8893,7 +9451,10 @@
     <tld>.bl</tld>
     <native>Saint-Barthélemy</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>Caribbean</subregion>
+    <subregion_id>7</subregion_id>
+    <nationality>Barthelemois</nationality>
     <timezones>
       <zoneName>America/St_Barthelemy</zoneName>
       <gmtOffset>-14400</gmtOffset>
@@ -8935,7 +9496,10 @@
     <tld>.mf</tld>
     <native>Saint-Martin</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>Caribbean</subregion>
+    <subregion_id>7</subregion_id>
+    <nationality>Saint-Martinoise</nationality>
     <timezones>
       <zoneName>America/Marigot</zoneName>
       <gmtOffset>-14400</gmtOffset>
@@ -8977,7 +9541,10 @@
     <tld>.ws</tld>
     <native>Samoa</native>
     <region>Oceania</region>
+    <region_id>5</region_id>
     <subregion>Polynesia</subregion>
+    <subregion_id>22</subregion_id>
+    <nationality>Samoan</nationality>
     <timezones>
       <zoneName>Pacific/Apia</zoneName>
       <gmtOffset>50400</gmtOffset>
@@ -9019,7 +9586,10 @@
     <tld>.sm</tld>
     <native>San Marino</native>
     <region>Europe</region>
+    <region_id>4</region_id>
     <subregion>Southern Europe</subregion>
+    <subregion_id>16</subregion_id>
+    <nationality>Sammarinese</nationality>
     <timezones>
       <zoneName>Europe/San_Marino</zoneName>
       <gmtOffset>3600</gmtOffset>
@@ -9061,7 +9631,10 @@
     <tld>.st</tld>
     <native>São Tomé e Príncipe</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Middle Africa</subregion>
+    <subregion_id>2</subregion_id>
+    <nationality>Sao Tomean</nationality>
     <timezones>
       <zoneName>Africa/Sao_Tome</zoneName>
       <gmtOffset>0</gmtOffset>
@@ -9103,7 +9676,10 @@
     <tld>.sa</tld>
     <native>المملكة العربية السعودية</native>
     <region>Asia</region>
+    <region_id>3</region_id>
     <subregion>Western Asia</subregion>
+    <subregion_id>11</subregion_id>
+    <nationality>Saudi, Saudi Arabian</nationality>
     <timezones>
       <zoneName>Asia/Riyadh</zoneName>
       <gmtOffset>10800</gmtOffset>
@@ -9145,7 +9721,10 @@
     <tld>.sn</tld>
     <native>Sénégal</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Western Africa</subregion>
+    <subregion_id>3</subregion_id>
+    <nationality>Senegalese</nationality>
     <timezones>
       <zoneName>Africa/Dakar</zoneName>
       <gmtOffset>0</gmtOffset>
@@ -9187,7 +9766,10 @@
     <tld>.rs</tld>
     <native>Србија</native>
     <region>Europe</region>
+    <region_id>4</region_id>
     <subregion>Southern Europe</subregion>
+    <subregion_id>16</subregion_id>
+    <nationality>Serbian</nationality>
     <timezones>
       <zoneName>Europe/Belgrade</zoneName>
       <gmtOffset>3600</gmtOffset>
@@ -9229,7 +9811,10 @@
     <tld>.sc</tld>
     <native>Seychelles</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Eastern Africa</subregion>
+    <subregion_id>4</subregion_id>
+    <nationality>Seychellois</nationality>
     <timezones>
       <zoneName>Indian/Mahe</zoneName>
       <gmtOffset>14400</gmtOffset>
@@ -9271,7 +9856,10 @@
     <tld>.sl</tld>
     <native>Sierra Leone</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Western Africa</subregion>
+    <subregion_id>3</subregion_id>
+    <nationality>Sierra Leonean</nationality>
     <timezones>
       <zoneName>Africa/Freetown</zoneName>
       <gmtOffset>0</gmtOffset>
@@ -9313,7 +9901,10 @@
     <tld>.sg</tld>
     <native>Singapore</native>
     <region>Asia</region>
+    <region_id>3</region_id>
     <subregion>South-Eastern Asia</subregion>
+    <subregion_id>13</subregion_id>
+    <nationality>Singaporean</nationality>
     <timezones>
       <zoneName>Asia/Singapore</zoneName>
       <gmtOffset>28800</gmtOffset>
@@ -9355,7 +9946,10 @@
     <tld>.sx</tld>
     <native>Sint Maarten</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>Caribbean</subregion>
+    <subregion_id>7</subregion_id>
+    <nationality>Sint Maarten</nationality>
     <timezones>
       <zoneName>America/Anguilla</zoneName>
       <gmtOffset>-14400</gmtOffset>
@@ -9394,7 +9988,10 @@
     <tld>.sk</tld>
     <native>Slovensko</native>
     <region>Europe</region>
+    <region_id>4</region_id>
     <subregion>Eastern Europe</subregion>
+    <subregion_id>15</subregion_id>
+    <nationality>Slovak</nationality>
     <timezones>
       <zoneName>Europe/Bratislava</zoneName>
       <gmtOffset>3600</gmtOffset>
@@ -9436,7 +10033,10 @@
     <tld>.si</tld>
     <native>Slovenija</native>
     <region>Europe</region>
+    <region_id>4</region_id>
     <subregion>Southern Europe</subregion>
+    <subregion_id>16</subregion_id>
+    <nationality>Slovenian, Slovene</nationality>
     <timezones>
       <zoneName>Europe/Ljubljana</zoneName>
       <gmtOffset>3600</gmtOffset>
@@ -9478,7 +10078,10 @@
     <tld>.sb</tld>
     <native>Solomon Islands</native>
     <region>Oceania</region>
+    <region_id>5</region_id>
     <subregion>Melanesia</subregion>
+    <subregion_id>20</subregion_id>
+    <nationality>Solomon Island</nationality>
     <timezones>
       <zoneName>Pacific/Guadalcanal</zoneName>
       <gmtOffset>39600</gmtOffset>
@@ -9520,7 +10123,10 @@
     <tld>.so</tld>
     <native>Soomaaliya</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Eastern Africa</subregion>
+    <subregion_id>4</subregion_id>
+    <nationality>Somali, Somalian</nationality>
     <timezones>
       <zoneName>Africa/Mogadishu</zoneName>
       <gmtOffset>10800</gmtOffset>
@@ -9562,7 +10168,10 @@
     <tld>.za</tld>
     <native>South Africa</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Southern Africa</subregion>
+    <subregion_id>5</subregion_id>
+    <nationality>South African</nationality>
     <timezones>
       <zoneName>Africa/Johannesburg</zoneName>
       <gmtOffset>7200</gmtOffset>
@@ -9604,7 +10213,10 @@
     <tld>.gs</tld>
     <native>South Georgia</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>South America</subregion>
+    <subregion_id>8</subregion_id>
+    <nationality>South Georgia or South Sandwich Islands</nationality>
     <timezones>
       <zoneName>Atlantic/South_Georgia</zoneName>
       <gmtOffset>-7200</gmtOffset>
@@ -9646,7 +10258,10 @@
     <tld>.kr</tld>
     <native>대한민국</native>
     <region>Asia</region>
+    <region_id>3</region_id>
     <subregion>Eastern Asia</subregion>
+    <subregion_id>12</subregion_id>
+    <nationality>South Korean</nationality>
     <timezones>
       <zoneName>Asia/Seoul</zoneName>
       <gmtOffset>32400</gmtOffset>
@@ -9688,7 +10303,10 @@
     <tld>.ss</tld>
     <native>South Sudan</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Middle Africa</subregion>
+    <subregion_id>2</subregion_id>
+    <nationality>South Sudanese</nationality>
     <timezones>
       <zoneName>Africa/Juba</zoneName>
       <gmtOffset>10800</gmtOffset>
@@ -9730,7 +10348,10 @@
     <tld>.es</tld>
     <native>España</native>
     <region>Europe</region>
+    <region_id>4</region_id>
     <subregion>Southern Europe</subregion>
+    <subregion_id>16</subregion_id>
+    <nationality>Spanish</nationality>
     <timezones>
       <zoneName>Africa/Ceuta</zoneName>
       <gmtOffset>3600</gmtOffset>
@@ -9786,7 +10407,10 @@
     <tld>.lk</tld>
     <native>śrī laṃkāva</native>
     <region>Asia</region>
+    <region_id>3</region_id>
     <subregion>Southern Asia</subregion>
+    <subregion_id>14</subregion_id>
+    <nationality>Sri Lankan</nationality>
     <timezones>
       <zoneName>Asia/Colombo</zoneName>
       <gmtOffset>19800</gmtOffset>
@@ -9828,7 +10452,10 @@
     <tld>.sd</tld>
     <native>السودان</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Northern Africa</subregion>
+    <subregion_id>1</subregion_id>
+    <nationality>Sudanese</nationality>
     <timezones>
       <zoneName>Africa/Khartoum</zoneName>
       <gmtOffset>7200</gmtOffset>
@@ -9870,7 +10497,10 @@
     <tld>.sr</tld>
     <native>Suriname</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>South America</subregion>
+    <subregion_id>8</subregion_id>
+    <nationality>Surinamese</nationality>
     <timezones>
       <zoneName>America/Paramaribo</zoneName>
       <gmtOffset>-10800</gmtOffset>
@@ -9900,7 +10530,7 @@
   </country>
   <country>
     <id>211</id>
-    <name>Svalbard And Jan Mayen Islands</name>
+    <name>Svalbard and Jan Mayen Islands</name>
     <iso3>SJM</iso3>
     <iso2>SJ</iso2>
     <numeric_code>744</numeric_code>
@@ -9912,7 +10542,10 @@
     <tld>.sj</tld>
     <native>Svalbard og Jan Mayen</native>
     <region>Europe</region>
+    <region_id>4</region_id>
     <subregion>Northern Europe</subregion>
+    <subregion_id>18</subregion_id>
+    <nationality>Svalbard</nationality>
     <timezones>
       <zoneName>Arctic/Longyearbyen</zoneName>
       <gmtOffset>3600</gmtOffset>
@@ -9941,48 +10574,6 @@
     <emojiU>U+1F1F8 U+1F1EF</emojiU>
   </country>
   <country>
-    <id>212</id>
-    <name>Swaziland</name>
-    <iso3>SWZ</iso3>
-    <iso2>SZ</iso2>
-    <numeric_code>748</numeric_code>
-    <phone_code>268</phone_code>
-    <capital>Mbabane</capital>
-    <currency>SZL</currency>
-    <currency_name>Lilangeni</currency_name>
-    <currency_symbol>E</currency_symbol>
-    <tld>.sz</tld>
-    <native>Swaziland</native>
-    <region>Africa</region>
-    <subregion>Southern Africa</subregion>
-    <timezones>
-      <zoneName>Africa/Mbabane</zoneName>
-      <gmtOffset>7200</gmtOffset>
-      <gmtOffsetName>UTC+02:00</gmtOffsetName>
-      <abbreviation>SAST</abbreviation>
-      <tzName>South African Standard Time</tzName>
-    </timezones>
-    <translations>
-      <kr>에스와티니</kr>
-      <pt-BR>Suazilândia</pt-BR>
-      <pt>Suazilândia</pt>
-      <nl>Swaziland</nl>
-      <hr>Svazi</hr>
-      <fa>سوازیلند</fa>
-      <de>Swasiland</de>
-      <es>Suazilandia</es>
-      <fr>Swaziland</fr>
-      <ja>スワジランド</ja>
-      <it>Swaziland</it>
-      <cn>斯威士兰</cn>
-      <tr>Esvatini</tr>
-    </translations>
-    <latitude>-26.50000000</latitude>
-    <longitude>31.50000000</longitude>
-    <emoji>🇸🇿</emoji>
-    <emojiU>U+1F1F8 U+1F1FF</emojiU>
-  </country>
-  <country>
     <id>213</id>
     <name>Sweden</name>
     <iso3>SWE</iso3>
@@ -9996,7 +10587,10 @@
     <tld>.se</tld>
     <native>Sverige</native>
     <region>Europe</region>
+    <region_id>4</region_id>
     <subregion>Northern Europe</subregion>
+    <subregion_id>18</subregion_id>
+    <nationality>Swedish</nationality>
     <timezones>
       <zoneName>Europe/Stockholm</zoneName>
       <gmtOffset>3600</gmtOffset>
@@ -10038,7 +10632,10 @@
     <tld>.ch</tld>
     <native>Schweiz</native>
     <region>Europe</region>
+    <region_id>4</region_id>
     <subregion>Western Europe</subregion>
+    <subregion_id>17</subregion_id>
+    <nationality>Swiss</nationality>
     <timezones>
       <zoneName>Europe/Zurich</zoneName>
       <gmtOffset>3600</gmtOffset>
@@ -10080,7 +10677,10 @@
     <tld>.sy</tld>
     <native>سوريا</native>
     <region>Asia</region>
+    <region_id>3</region_id>
     <subregion>Western Asia</subregion>
+    <subregion_id>11</subregion_id>
+    <nationality>Syrian</nationality>
     <timezones>
       <zoneName>Asia/Damascus</zoneName>
       <gmtOffset>7200</gmtOffset>
@@ -10122,7 +10722,10 @@
     <tld>.tw</tld>
     <native>臺灣</native>
     <region>Asia</region>
+    <region_id>3</region_id>
     <subregion>Eastern Asia</subregion>
+    <subregion_id>12</subregion_id>
+    <nationality>Chinese, Taiwanese</nationality>
     <timezones>
       <zoneName>Asia/Taipei</zoneName>
       <gmtOffset>28800</gmtOffset>
@@ -10164,7 +10767,10 @@
     <tld>.tj</tld>
     <native>Тоҷикистон</native>
     <region>Asia</region>
+    <region_id>3</region_id>
     <subregion>Central Asia</subregion>
+    <subregion_id>10</subregion_id>
+    <nationality>Tajikistani</nationality>
     <timezones>
       <zoneName>Asia/Dushanbe</zoneName>
       <gmtOffset>18000</gmtOffset>
@@ -10206,7 +10812,10 @@
     <tld>.tz</tld>
     <native>Tanzania</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Eastern Africa</subregion>
+    <subregion_id>4</subregion_id>
+    <nationality>Tanzanian</nationality>
     <timezones>
       <zoneName>Africa/Dar_es_Salaam</zoneName>
       <gmtOffset>10800</gmtOffset>
@@ -10248,7 +10857,10 @@
     <tld>.th</tld>
     <native>ประเทศไทย</native>
     <region>Asia</region>
+    <region_id>3</region_id>
     <subregion>South-Eastern Asia</subregion>
+    <subregion_id>13</subregion_id>
+    <nationality>Thai</nationality>
     <timezones>
       <zoneName>Asia/Bangkok</zoneName>
       <gmtOffset>25200</gmtOffset>
@@ -10290,7 +10902,10 @@
     <tld>.bs</tld>
     <native>Bahamas</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>Caribbean</subregion>
+    <subregion_id>7</subregion_id>
+    <nationality>Bahamian</nationality>
     <timezones>
       <zoneName>America/Nassau</zoneName>
       <gmtOffset>-18000</gmtOffset>
@@ -10319,6 +10934,51 @@
     <emojiU>U+1F1E7 U+1F1F8</emojiU>
   </country>
   <country>
+    <id>63</id>
+    <name>Timor-Leste</name>
+    <iso3>TLS</iso3>
+    <iso2>TL</iso2>
+    <numeric_code>626</numeric_code>
+    <phone_code>670</phone_code>
+    <capital>Dili</capital>
+    <currency>USD</currency>
+    <currency_name>United States dollar</currency_name>
+    <currency_symbol>$</currency_symbol>
+    <tld>.tl</tld>
+    <native>Timor-Leste</native>
+    <region>Asia</region>
+    <region_id>3</region_id>
+    <subregion>South-Eastern Asia</subregion>
+    <subregion_id>13</subregion_id>
+    <nationality>Timorese</nationality>
+    <timezones>
+      <zoneName>Asia/Dili</zoneName>
+      <gmtOffset>32400</gmtOffset>
+      <gmtOffsetName>UTC+09:00</gmtOffsetName>
+      <abbreviation>TLT</abbreviation>
+      <tzName>Timor Leste Time</tzName>
+    </timezones>
+    <translations>
+      <kr>동티모르</kr>
+      <pt-BR>Timor Leste</pt-BR>
+      <pt>Timor Leste</pt>
+      <nl>Oost-Timor</nl>
+      <hr>Istočni Timor</hr>
+      <fa>تیمور شرقی</fa>
+      <de>Timor-Leste</de>
+      <es>Timor Oriental</es>
+      <fr>Timor oriental</fr>
+      <ja>東ティモール</ja>
+      <it>Timor Est</it>
+      <cn>东帝汶</cn>
+      <tr>Doğu Timor</tr>
+    </translations>
+    <latitude>-8.83333333</latitude>
+    <longitude>125.91666666</longitude>
+    <emoji>🇹🇱</emoji>
+    <emojiU>U+1F1F9 U+1F1F1</emojiU>
+  </country>
+  <country>
     <id>220</id>
     <name>Togo</name>
     <iso3>TGO</iso3>
@@ -10332,7 +10992,10 @@
     <tld>.tg</tld>
     <native>Togo</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Western Africa</subregion>
+    <subregion_id>3</subregion_id>
+    <nationality>Togolese</nationality>
     <timezones>
       <zoneName>Africa/Lome</zoneName>
       <gmtOffset>0</gmtOffset>
@@ -10374,7 +11037,10 @@
     <tld>.tk</tld>
     <native>Tokelau</native>
     <region>Oceania</region>
+    <region_id>5</region_id>
     <subregion>Polynesia</subregion>
+    <subregion_id>22</subregion_id>
+    <nationality>Tokelauan</nationality>
     <timezones>
       <zoneName>Pacific/Fakaofo</zoneName>
       <gmtOffset>46800</gmtOffset>
@@ -10416,7 +11082,10 @@
     <tld>.to</tld>
     <native>Tonga</native>
     <region>Oceania</region>
+    <region_id>5</region_id>
     <subregion>Polynesia</subregion>
+    <subregion_id>22</subregion_id>
+    <nationality>Tongan</nationality>
     <timezones>
       <zoneName>Pacific/Tongatapu</zoneName>
       <gmtOffset>46800</gmtOffset>
@@ -10446,7 +11115,7 @@
   </country>
   <country>
     <id>223</id>
-    <name>Trinidad And Tobago</name>
+    <name>Trinidad and Tobago</name>
     <iso3>TTO</iso3>
     <iso2>TT</iso2>
     <numeric_code>780</numeric_code>
@@ -10458,7 +11127,10 @@
     <tld>.tt</tld>
     <native>Trinidad and Tobago</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>Caribbean</subregion>
+    <subregion_id>7</subregion_id>
+    <nationality>Trinidadian or Tobagonian</nationality>
     <timezones>
       <zoneName>America/Port_of_Spain</zoneName>
       <gmtOffset>-14400</gmtOffset>
@@ -10500,7 +11172,10 @@
     <tld>.tn</tld>
     <native>تونس</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Northern Africa</subregion>
+    <subregion_id>1</subregion_id>
+    <nationality>Tunisian</nationality>
     <timezones>
       <zoneName>Africa/Tunis</zoneName>
       <gmtOffset>3600</gmtOffset>
@@ -10542,7 +11217,10 @@
     <tld>.tr</tld>
     <native>Türkiye</native>
     <region>Asia</region>
+    <region_id>3</region_id>
     <subregion>Western Asia</subregion>
+    <subregion_id>11</subregion_id>
+    <nationality>Turkish</nationality>
     <timezones>
       <zoneName>Europe/Istanbul</zoneName>
       <gmtOffset>10800</gmtOffset>
@@ -10584,7 +11262,10 @@
     <tld>.tm</tld>
     <native>Türkmenistan</native>
     <region>Asia</region>
+    <region_id>3</region_id>
     <subregion>Central Asia</subregion>
+    <subregion_id>10</subregion_id>
+    <nationality>Turkmen</nationality>
     <timezones>
       <zoneName>Asia/Ashgabat</zoneName>
       <gmtOffset>18000</gmtOffset>
@@ -10614,7 +11295,7 @@
   </country>
   <country>
     <id>227</id>
-    <name>Turks And Caicos Islands</name>
+    <name>Turks and Caicos Islands</name>
     <iso3>TCA</iso3>
     <iso2>TC</iso2>
     <numeric_code>796</numeric_code>
@@ -10626,7 +11307,10 @@
     <tld>.tc</tld>
     <native>Turks and Caicos Islands</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>Caribbean</subregion>
+    <subregion_id>7</subregion_id>
+    <nationality>Turks and Caicos Island</nationality>
     <timezones>
       <zoneName>America/Grand_Turk</zoneName>
       <gmtOffset>-18000</gmtOffset>
@@ -10668,7 +11352,10 @@
     <tld>.tv</tld>
     <native>Tuvalu</native>
     <region>Oceania</region>
+    <region_id>5</region_id>
     <subregion>Polynesia</subregion>
+    <subregion_id>22</subregion_id>
+    <nationality>Tuvaluan</nationality>
     <timezones>
       <zoneName>Pacific/Funafuti</zoneName>
       <gmtOffset>43200</gmtOffset>
@@ -10710,7 +11397,10 @@
     <tld>.ug</tld>
     <native>Uganda</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Eastern Africa</subregion>
+    <subregion_id>4</subregion_id>
+    <nationality>Ugandan</nationality>
     <timezones>
       <zoneName>Africa/Kampala</zoneName>
       <gmtOffset>10800</gmtOffset>
@@ -10745,14 +11435,17 @@
     <iso2>UA</iso2>
     <numeric_code>804</numeric_code>
     <phone_code>380</phone_code>
-    <capital>Kiev</capital>
+    <capital>Kyiv</capital>
     <currency>UAH</currency>
     <currency_name>Ukrainian hryvnia</currency_name>
     <currency_symbol>₴</currency_symbol>
     <tld>.ua</tld>
     <native>Україна</native>
     <region>Europe</region>
+    <region_id>4</region_id>
     <subregion>Eastern Europe</subregion>
+    <subregion_id>15</subregion_id>
+    <nationality>Ukrainian</nationality>
     <timezones>
       <zoneName>Europe/Kiev</zoneName>
       <gmtOffset>7200</gmtOffset>
@@ -10815,7 +11508,10 @@
     <tld>.ae</tld>
     <native>دولة الإمارات العربية المتحدة</native>
     <region>Asia</region>
+    <region_id>3</region_id>
     <subregion>Western Asia</subregion>
+    <subregion_id>11</subregion_id>
+    <nationality>Emirati, Emirian, Emiri</nationality>
     <timezones>
       <zoneName>Asia/Dubai</zoneName>
       <gmtOffset>14400</gmtOffset>
@@ -10857,7 +11553,10 @@
     <tld>.uk</tld>
     <native>United Kingdom</native>
     <region>Europe</region>
+    <region_id>4</region_id>
     <subregion>Northern Europe</subregion>
+    <subregion_id>18</subregion_id>
+    <nationality>British, UK</nationality>
     <timezones>
       <zoneName>Europe/London</zoneName>
       <gmtOffset>0</gmtOffset>
@@ -10899,7 +11598,10 @@
     <tld>.us</tld>
     <native>United States</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>Northern America</subregion>
+    <subregion_id>6</subregion_id>
+    <nationality>American</nationality>
     <timezones>
       <zoneName>America/Adak</zoneName>
       <gmtOffset>-36000</gmtOffset>
@@ -11137,7 +11839,10 @@
     <tld>.us</tld>
     <native>United States Minor Outlying Islands</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>Northern America</subregion>
+    <subregion_id>6</subregion_id>
+    <nationality>American</nationality>
     <timezones>
       <zoneName>Pacific/Midway</zoneName>
       <gmtOffset>-39600</gmtOffset>
@@ -11186,7 +11891,10 @@
     <tld>.uy</tld>
     <native>Uruguay</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>South America</subregion>
+    <subregion_id>8</subregion_id>
+    <nationality>Uruguayan</nationality>
     <timezones>
       <zoneName>America/Montevideo</zoneName>
       <gmtOffset>-10800</gmtOffset>
@@ -11228,7 +11936,10 @@
     <tld>.uz</tld>
     <native>O‘zbekiston</native>
     <region>Asia</region>
+    <region_id>3</region_id>
     <subregion>Central Asia</subregion>
+    <subregion_id>10</subregion_id>
+    <nationality>Uzbekistani, Uzbek</nationality>
     <timezones>
       <zoneName>Asia/Samarkand</zoneName>
       <gmtOffset>18000</gmtOffset>
@@ -11277,7 +11988,10 @@
     <tld>.vu</tld>
     <native>Vanuatu</native>
     <region>Oceania</region>
+    <region_id>5</region_id>
     <subregion>Melanesia</subregion>
+    <subregion_id>20</subregion_id>
+    <nationality>Ni-Vanuatu, Vanuatuan</nationality>
     <timezones>
       <zoneName>Pacific/Efate</zoneName>
       <gmtOffset>39600</gmtOffset>
@@ -11319,7 +12033,10 @@
     <tld>.va</tld>
     <native>Vaticano</native>
     <region>Europe</region>
+    <region_id>4</region_id>
     <subregion>Southern Europe</subregion>
+    <subregion_id>16</subregion_id>
+    <nationality>Vatican</nationality>
     <timezones>
       <zoneName>Europe/Vatican</zoneName>
       <gmtOffset>3600</gmtOffset>
@@ -11355,13 +12072,16 @@
     <numeric_code>862</numeric_code>
     <phone_code>58</phone_code>
     <capital>Caracas</capital>
-    <currency>VEF</currency>
+    <currency>VES</currency>
     <currency_name>Bolívar</currency_name>
     <currency_symbol>Bs</currency_symbol>
     <tld>.ve</tld>
     <native>Venezuela</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>South America</subregion>
+    <subregion_id>8</subregion_id>
+    <nationality>Venezuelan</nationality>
     <timezones>
       <zoneName>America/Caracas</zoneName>
       <gmtOffset>-14400</gmtOffset>
@@ -11403,7 +12123,10 @@
     <tld>.vn</tld>
     <native>Việt Nam</native>
     <region>Asia</region>
+    <region_id>3</region_id>
     <subregion>South-Eastern Asia</subregion>
+    <subregion_id>13</subregion_id>
+    <nationality>Vietnamese</nationality>
     <timezones>
       <zoneName>Asia/Ho_Chi_Minh</zoneName>
       <gmtOffset>25200</gmtOffset>
@@ -11445,7 +12168,10 @@
     <tld>.vg</tld>
     <native>British Virgin Islands</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>Caribbean</subregion>
+    <subregion_id>7</subregion_id>
+    <nationality>British Virgin Island</nationality>
     <timezones>
       <zoneName>America/Tortola</zoneName>
       <gmtOffset>-14400</gmtOffset>
@@ -11487,7 +12213,10 @@
     <tld>.vi</tld>
     <native>United States Virgin Islands</native>
     <region>Americas</region>
+    <region_id>2</region_id>
     <subregion>Caribbean</subregion>
+    <subregion_id>7</subregion_id>
+    <nationality>U.S. Virgin Island</nationality>
     <timezones>
       <zoneName>America/St_Thomas</zoneName>
       <gmtOffset>-14400</gmtOffset>
@@ -11516,7 +12245,7 @@
   </country>
   <country>
     <id>243</id>
-    <name>Wallis And Futuna Islands</name>
+    <name>Wallis and Futuna Islands</name>
     <iso3>WLF</iso3>
     <iso2>WF</iso2>
     <numeric_code>876</numeric_code>
@@ -11528,7 +12257,10 @@
     <tld>.wf</tld>
     <native>Wallis et Futuna</native>
     <region>Oceania</region>
+    <region_id>5</region_id>
     <subregion>Polynesia</subregion>
+    <subregion_id>22</subregion_id>
+    <nationality>Wallis and Futuna, Wallisian or Futunan</nationality>
     <timezones>
       <zoneName>Pacific/Wallis</zoneName>
       <gmtOffset>43200</gmtOffset>
@@ -11570,7 +12302,10 @@
     <tld>.eh</tld>
     <native>الصحراء الغربية</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Northern Africa</subregion>
+    <subregion_id>1</subregion_id>
+    <nationality>Sahrawi, Sahrawian, Sahraouian</nationality>
     <timezones>
       <zoneName>Africa/El_Aaiun</zoneName>
       <gmtOffset>3600</gmtOffset>
@@ -11612,7 +12347,10 @@
     <tld>.ye</tld>
     <native>اليَمَن</native>
     <region>Asia</region>
+    <region_id>3</region_id>
     <subregion>Western Asia</subregion>
+    <subregion_id>11</subregion_id>
+    <nationality>Yemeni</nationality>
     <timezones>
       <zoneName>Asia/Aden</zoneName>
       <gmtOffset>10800</gmtOffset>
@@ -11654,7 +12392,10 @@
     <tld>.zm</tld>
     <native>Zambia</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Eastern Africa</subregion>
+    <subregion_id>4</subregion_id>
+    <nationality>Zambian</nationality>
     <timezones>
       <zoneName>Africa/Lusaka</zoneName>
       <gmtOffset>7200</gmtOffset>
@@ -11696,7 +12437,10 @@
     <tld>.zw</tld>
     <native>Zimbabwe</native>
     <region>Africa</region>
+    <region_id>1</region_id>
     <subregion>Eastern Africa</subregion>
+    <subregion_id>4</subregion_id>
+    <nationality>Zimbabwean</nationality>
     <timezones>
       <zoneName>Africa/Harare</zoneName>
       <gmtOffset>7200</gmtOffset>
